@@ -1,0 +1,46 @@
+# Example LiteLLM gateway config for the four victim backbones of the paper.
+#
+# BadEvolve never calls a model provider directly: every victim (solver and evolver) talks to one
+# OpenAI-compatible /chat/completions endpoint, and the model names below are the ones the drivers
+# pass as --victim-model. Point the drivers at the gateway with
+#
+#   export BADEVOLVE_BASE_URL=http://localhost:8000/v1
+#   export BADEVOLVE_API_KEY=<the gateway's key, or EMPTY if it has none>
+#
+# Replace each `litellm_params` block with however your deployment serves that model (a hosted API, a
+# self-hosted vLLM/SGLang server, or any other provider LiteLLM supports). Any OpenAI-compatible
+# server works -- LiteLLM is not required.
+#
+#   litellm --config configs/models.example.yaml --port 8000
+#
+# The optimizer is separate: it is Claude Code running Claude Sonnet 4.6, configured through
+# BADEVOLVE_OPTIMIZER_PROVIDER / BADEVOLVE_OPTIMIZER_MODEL (see attack/agent/optimizer_harness.py).
+
+model_list:
+  - model_name: kimi-k2.5                 # Kimi-K2.5 (main-table backbone)
+    litellm_params:
+      model: openai/kimi-k2.5
+      api_base: os.environ/KIMI_BASE_URL
+      api_key: os.environ/KIMI_API_KEY
+
+  - model_name: gptoss-120b               # GPT-OSS-120B
+    litellm_params:
+      model: openai/gpt-oss-120b
+      api_base: os.environ/GPTOSS_BASE_URL
+      api_key: os.environ/GPTOSS_API_KEY
+
+  - model_name: claude-sonnet-4.6         # Claude Sonnet 4.6 (also the optimizer's model)
+    litellm_params:
+      model: anthropic/claude-sonnet-4-6
+      api_key: os.environ/ANTHROPIC_API_KEY
+
+  - model_name: qwen3-235b                # Qwen3-235B-A22B
+    litellm_params:
+      model: openai/qwen3-235b-a22b
+      api_base: os.environ/QWEN_BASE_URL
+      api_key: os.environ/QWEN_API_KEY
+
+litellm_settings:
+  drop_params: true       # the victim harnesses send provider-specific fields; ignore unsupported ones
+  num_retries: 3
+  request_timeout: 600

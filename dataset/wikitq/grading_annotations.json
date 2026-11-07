@@ -1,0 +1,1460 @@
+{
+  "source": "https://github.com/ppasupat/WikiTableQuestions",
+  "commit": "7d455a5a707b96341ef72aff9428749d443d8aa9",
+  "source_sha256": {
+    "pristine-seen-tables.tagged": "4b03d5861ccf5fbcf128d1d8cc87d48a83805465f031c09e563a26f66ad00210",
+    "pristine-unseen-tables.tagged": "371953b2a9fac16036c9b25de5b5f7f02a15c1f01246f197854e9d73b826b15c",
+    "training.tagged": "444e0be3575ea3d1972360656bfd334167af4de81f90dc67776221d3c802b591"
+  },
+  "items": {
+    "nu-109": {
+      "target_values": [
+        "11"
+      ],
+      "target_canon": [
+        "11.0"
+      ]
+    },
+    "nu-112": {
+      "target_values": [
+        "1"
+      ],
+      "target_canon": [
+        "1.0"
+      ]
+    },
+    "nu-178": {
+      "target_values": [
+        "Left Wing"
+      ],
+      "target_canon": [
+        "Left Wing"
+      ]
+    },
+    "nu-210": {
+      "target_values": [
+        "Greaves"
+      ],
+      "target_canon": [
+        "Greaves"
+      ]
+    },
+    "nu-327": {
+      "target_values": [
+        "\"Bleeder\""
+      ],
+      "target_canon": [
+        "\"Bleeder\""
+      ]
+    },
+    "nu-674": {
+      "target_values": [
+        "Srđan Dinčić"
+      ],
+      "target_canon": [
+        "Srđan Dinčić"
+      ]
+    },
+    "nu-690": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-777": {
+      "target_values": [
+        "Bleeder"
+      ],
+      "target_canon": [
+        "Bleeder"
+      ]
+    },
+    "nu-791": {
+      "target_values": [
+        "Lord High Constable"
+      ],
+      "target_canon": [
+        "Lord High Constable"
+      ]
+    },
+    "nu-804": {
+      "target_values": [
+        "Norway"
+      ],
+      "target_canon": [
+        "Norway"
+      ]
+    },
+    "nu-848": {
+      "target_values": [
+        "17,259"
+      ],
+      "target_canon": [
+        "17259.0"
+      ]
+    },
+    "nu-878": {
+      "target_values": [
+        "No"
+      ],
+      "target_canon": [
+        "No"
+      ]
+    },
+    "nu-934": {
+      "target_values": [
+        "Melissa and Joey"
+      ],
+      "target_canon": [
+        "Melissa and Joey"
+      ]
+    },
+    "nu-940": {
+      "target_values": [
+        "All-Africa Games"
+      ],
+      "target_canon": [
+        "All-Africa Games"
+      ]
+    },
+    "nu-1104": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nu-1115": {
+      "target_values": [
+        "4.0L"
+      ],
+      "target_canon": [
+        "4.0L"
+      ]
+    },
+    "nu-1153": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-1218": {
+      "target_values": [
+        "Tasmania"
+      ],
+      "target_canon": [
+        "Tasmania"
+      ]
+    },
+    "nu-1227": {
+      "target_values": [
+        "Anderlecht"
+      ],
+      "target_canon": [
+        "Anderlecht"
+      ]
+    },
+    "nu-1268": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nu-1279": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nu-1294": {
+      "target_values": [
+        "16"
+      ],
+      "target_canon": [
+        "16.0"
+      ]
+    },
+    "nu-1336": {
+      "target_values": [
+        "Sally Shelton-Colby"
+      ],
+      "target_canon": [
+        "Sally Shelton-Colby"
+      ]
+    },
+    "nu-1408": {
+      "target_values": [
+        "Notre Dame"
+      ],
+      "target_canon": [
+        "Notre Dame"
+      ]
+    },
+    "nu-1433": {
+      "target_values": [
+        "Ron Starr"
+      ],
+      "target_canon": [
+        "Ron Starr"
+      ]
+    },
+    "nu-1446": {
+      "target_values": [
+        "New York"
+      ],
+      "target_canon": [
+        "New York"
+      ]
+    },
+    "nu-1497": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-1498": {
+      "target_values": [
+        "9"
+      ],
+      "target_canon": [
+        "9.0"
+      ]
+    },
+    "nu-1520": {
+      "target_values": [
+        "22"
+      ],
+      "target_canon": [
+        "22.0"
+      ]
+    },
+    "nu-1524": {
+      "target_values": [
+        "1936"
+      ],
+      "target_canon": [
+        "1936.0"
+      ]
+    },
+    "nu-1543": {
+      "target_values": [
+        "1919-1921"
+      ],
+      "target_canon": [
+        "1919-1921"
+      ]
+    },
+    "nu-1588": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-1596": {
+      "target_values": [
+        "Pinnacles"
+      ],
+      "target_canon": [
+        "Pinnacles"
+      ]
+    },
+    "nu-1679": {
+      "target_values": [
+        "31"
+      ],
+      "target_canon": [
+        "31.0"
+      ]
+    },
+    "nu-1759": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nu-1796": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-1828": {
+      "target_values": [
+        "North Cairns Tigers"
+      ],
+      "target_canon": [
+        "North Cairns Tigers"
+      ]
+    },
+    "nu-1905": {
+      "target_values": [
+        "7"
+      ],
+      "target_canon": [
+        "7.0"
+      ]
+    },
+    "nu-1915": {
+      "target_values": [
+        "Kiss"
+      ],
+      "target_canon": [
+        "Kiss"
+      ]
+    },
+    "nu-1919": {
+      "target_values": [
+        "\"Odd Folks of Okracoke\""
+      ],
+      "target_canon": [
+        "\"Odd Folks of Okracoke\""
+      ]
+    },
+    "nu-1989": {
+      "target_values": [
+        "P4"
+      ],
+      "target_canon": [
+        "P4"
+      ]
+    },
+    "nu-1990": {
+      "target_values": [
+        "7"
+      ],
+      "target_canon": [
+        "7.0"
+      ]
+    },
+    "nu-2029": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nu-2034": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-2035": {
+      "target_values": [
+        "Cat Cora"
+      ],
+      "target_canon": [
+        "Cat Cora"
+      ]
+    },
+    "nu-2038": {
+      "target_values": [
+        "Raphael Chukwu"
+      ],
+      "target_canon": [
+        "Raphael Chukwu"
+      ]
+    },
+    "nu-2059": {
+      "target_values": [
+        "1987-88"
+      ],
+      "target_canon": [
+        "1987-88"
+      ]
+    },
+    "nu-2068": {
+      "target_values": [
+        "Addhuri"
+      ],
+      "target_canon": [
+        "Addhuri"
+      ]
+    },
+    "nu-2108": {
+      "target_values": [
+        "42"
+      ],
+      "target_canon": [
+        "42.0"
+      ]
+    },
+    "nu-2111": {
+      "target_values": [
+        "above"
+      ],
+      "target_canon": [
+        "above"
+      ]
+    },
+    "nu-2213": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nu-2216": {
+      "target_values": [
+        "24"
+      ],
+      "target_canon": [
+        "24.0"
+      ]
+    },
+    "nu-2245": {
+      "target_values": [
+        "218"
+      ],
+      "target_canon": [
+        "218.0"
+      ]
+    },
+    "nu-2255": {
+      "target_values": [
+        "India"
+      ],
+      "target_canon": [
+        "India"
+      ]
+    },
+    "nu-2359": {
+      "target_values": [
+        "less"
+      ],
+      "target_canon": [
+        "less"
+      ]
+    },
+    "nu-2414": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nu-2491": {
+      "target_values": [
+        "Ivan Lendl"
+      ],
+      "target_canon": [
+        "Ivan Lendl"
+      ]
+    },
+    "nu-2518": {
+      "target_values": [
+        "11"
+      ],
+      "target_canon": [
+        "11.0"
+      ]
+    },
+    "nu-2547": {
+      "target_values": [
+        "Raphael Chukwu"
+      ],
+      "target_canon": [
+        "Raphael Chukwu"
+      ]
+    },
+    "nu-2677": {
+      "target_values": [
+        "5"
+      ],
+      "target_canon": [
+        "5.0"
+      ]
+    },
+    "nu-2704": {
+      "target_values": [
+        "8"
+      ],
+      "target_canon": [
+        "8.0"
+      ]
+    },
+    "nu-2749": {
+      "target_values": [
+        "44"
+      ],
+      "target_canon": [
+        "44.0"
+      ]
+    },
+    "nu-2839": {
+      "target_values": [
+        "May 19, 2013"
+      ],
+      "target_canon": [
+        "2013-05-19"
+      ]
+    },
+    "nu-2896": {
+      "target_values": [
+        ".13 seconds"
+      ],
+      "target_canon": [
+        "0.13"
+      ]
+    },
+    "nu-2946": {
+      "target_values": [
+        "Professional writer Winner of the Nobel Peace Prize (1986)"
+      ],
+      "target_canon": [
+        "Professional writer Winner of the Nobel Peace Prize (1986)"
+      ]
+    },
+    "nu-3019": {
+      "target_values": [
+        "John Reardon"
+      ],
+      "target_canon": [
+        "John Reardon"
+      ]
+    },
+    "nu-3115": {
+      "target_values": [
+        "Loise Egiazarjan"
+      ],
+      "target_canon": [
+        "Loise Egiazarjan"
+      ]
+    },
+    "nu-3121": {
+      "target_values": [
+        "Paul Stirling"
+      ],
+      "target_canon": [
+        "Paul Stirling"
+      ]
+    },
+    "nu-3129": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nu-3209": {
+      "target_values": [
+        "Trey Martinez Fischer"
+      ],
+      "target_canon": [
+        "Trey Martinez Fischer"
+      ]
+    },
+    "nu-3249": {
+      "target_values": [
+        "Sue Ellspermann"
+      ],
+      "target_canon": [
+        "Sue Ellspermann"
+      ]
+    },
+    "nu-3281": {
+      "target_values": [
+        "34"
+      ],
+      "target_canon": [
+        "34.0"
+      ]
+    },
+    "nu-3301": {
+      "target_values": [
+        "Cyril Mackworth-Praed"
+      ],
+      "target_canon": [
+        "Cyril Mackworth-Praed"
+      ]
+    },
+    "nu-3339": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-3360": {
+      "target_values": [
+        "225"
+      ],
+      "target_canon": [
+        "225.0"
+      ]
+    },
+    "nu-3365": {
+      "target_values": [
+        "Dmitry Mikhailovich Golitsyn"
+      ],
+      "target_canon": [
+        "Dmitry Mikhailovich Golitsyn"
+      ]
+    },
+    "nu-3367": {
+      "target_values": [
+        "Les Sables d'Olonne - Bordeaux"
+      ],
+      "target_canon": [
+        "Les Sables d'Olonne - Bordeaux"
+      ]
+    },
+    "nu-3377": {
+      "target_values": [
+        "2008"
+      ],
+      "target_canon": [
+        "2008.0"
+      ]
+    },
+    "nu-3389": {
+      "target_values": [
+        "Tom Adams"
+      ],
+      "target_canon": [
+        "Tom Adams"
+      ]
+    },
+    "nu-3414": {
+      "target_values": [
+        "Guyana"
+      ],
+      "target_canon": [
+        "Guyana"
+      ]
+    },
+    "nu-3435": {
+      "target_values": [
+        "Switzerland (SUI)"
+      ],
+      "target_canon": [
+        "Switzerland (SUI)"
+      ]
+    },
+    "nu-3436": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nu-3470": {
+      "target_values": [
+        "2007"
+      ],
+      "target_canon": [
+        "2007.0"
+      ]
+    },
+    "nu-3474": {
+      "target_values": [
+        "858 209"
+      ],
+      "target_canon": [
+        "858209.0"
+      ]
+    },
+    "nu-3576": {
+      "target_values": [
+        "Denver, CO"
+      ],
+      "target_canon": [
+        "Denver, CO"
+      ]
+    },
+    "nu-3587": {
+      "target_values": [
+        "5"
+      ],
+      "target_canon": [
+        "5.0"
+      ]
+    },
+    "nu-3629": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nu-3660": {
+      "target_values": [
+        "capital"
+      ],
+      "target_canon": [
+        "capital"
+      ]
+    },
+    "nu-3677": {
+      "target_values": [
+        "22"
+      ],
+      "target_canon": [
+        "22.0"
+      ]
+    },
+    "nu-3694": {
+      "target_values": [
+        "Calvin Roberts"
+      ],
+      "target_canon": [
+        "Calvin Roberts"
+      ]
+    },
+    "nu-3860": {
+      "target_values": [
+        "2003"
+      ],
+      "target_canon": [
+        "2003.0"
+      ]
+    },
+    "nu-4033": {
+      "target_values": [
+        "Languedoc-Roussillon"
+      ],
+      "target_canon": [
+        "Languedoc-Roussillon"
+      ]
+    },
+    "nu-4060": {
+      "target_values": [
+        "Grantham"
+      ],
+      "target_canon": [
+        "Grantham"
+      ]
+    },
+    "nu-4128": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nu-4136": {
+      "target_values": [
+        "9"
+      ],
+      "target_canon": [
+        "9.0"
+      ]
+    },
+    "nu-4137": {
+      "target_values": [
+        "Louis Walsh"
+      ],
+      "target_canon": [
+        "Louis Walsh"
+      ]
+    },
+    "nu-4165": {
+      "target_values": [
+        "larger"
+      ],
+      "target_canon": [
+        "larger"
+      ]
+    },
+    "nu-4246": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nu-4254": {
+      "target_values": [
+        "Jordi Alba"
+      ],
+      "target_canon": [
+        "Jordi Alba"
+      ]
+    },
+    "nu-4302": {
+      "target_values": [
+        "Tsirion Stadium"
+      ],
+      "target_canon": [
+        "Tsirion Stadium"
+      ]
+    },
+    "nt-47": {
+      "target_values": [
+        "Shane Carwin"
+      ],
+      "target_canon": [
+        "Shane Carwin"
+      ]
+    },
+    "nt-290": {
+      "target_values": [
+        "White"
+      ],
+      "target_canon": [
+        "White"
+      ]
+    },
+    "nt-1117": {
+      "target_values": [
+        "Kilkenny"
+      ],
+      "target_canon": [
+        "Kilkenny"
+      ]
+    },
+    "nt-1537": {
+      "target_values": [
+        "Guadalupe"
+      ],
+      "target_canon": [
+        "Guadalupe"
+      ]
+    },
+    "nt-1742": {
+      "target_values": [
+        "Nikos Christodoulakis"
+      ],
+      "target_canon": [
+        "Nikos Christodoulakis"
+      ]
+    },
+    "nt-2037": {
+      "target_values": [
+        "Jeff Gordon"
+      ],
+      "target_canon": [
+        "Jeff Gordon"
+      ]
+    },
+    "nt-2129": {
+      "target_values": [
+        "12"
+      ],
+      "target_canon": [
+        "12.0"
+      ]
+    },
+    "nt-2869": {
+      "target_values": [
+        "17"
+      ],
+      "target_canon": [
+        "17.0"
+      ]
+    },
+    "nt-2893": {
+      "target_values": [
+        "11"
+      ],
+      "target_canon": [
+        "11.0"
+      ]
+    },
+    "nt-2947": {
+      "target_values": [
+        "Atlantic Conveyor"
+      ],
+      "target_canon": [
+        "Atlantic Conveyor"
+      ]
+    },
+    "nt-2954": {
+      "target_values": [
+        "Toowoomba Clydesdales"
+      ],
+      "target_canon": [
+        "Toowoomba Clydesdales"
+      ]
+    },
+    "nt-3192": {
+      "target_values": [
+        "20"
+      ],
+      "target_canon": [
+        "20.0"
+      ]
+    },
+    "nt-3373": {
+      "target_values": [
+        "Scribe",
+        "Ladi6"
+      ],
+      "target_canon": [
+        "Scribe",
+        "Ladi6"
+      ]
+    },
+    "nt-3464": {
+      "target_values": [
+        "Emerson Fittipaldi"
+      ],
+      "target_canon": [
+        "Emerson Fittipaldi"
+      ]
+    },
+    "nt-3491": {
+      "target_values": [
+        "\"A Dream Is a Wish Your Heart Makes\""
+      ],
+      "target_canon": [
+        "\"A Dream Is a Wish Your Heart Makes\""
+      ]
+    },
+    "nt-3714": {
+      "target_values": [
+        "Lazio"
+      ],
+      "target_canon": [
+        "Lazio"
+      ]
+    },
+    "nt-3725": {
+      "target_values": [
+        "921"
+      ],
+      "target_canon": [
+        "921.0"
+      ]
+    },
+    "nt-3834": {
+      "target_values": [
+        "11"
+      ],
+      "target_canon": [
+        "11.0"
+      ]
+    },
+    "nt-3931": {
+      "target_values": [
+        "Ostrava"
+      ],
+      "target_canon": [
+        "Ostrava"
+      ]
+    },
+    "nt-3957": {
+      "target_values": [
+        "Jan"
+      ],
+      "target_canon": [
+        "xxxx-01-xx"
+      ]
+    },
+    "nt-3988": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nt-4080": {
+      "target_values": [
+        "Germany"
+      ],
+      "target_canon": [
+        "Germany"
+      ]
+    },
+    "nt-4346": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nt-4458": {
+      "target_values": [
+        "1214"
+      ],
+      "target_canon": [
+        "1214.0"
+      ]
+    },
+    "nt-4690": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nt-4810": {
+      "target_values": [
+        "197.6"
+      ],
+      "target_canon": [
+        "197.6"
+      ]
+    },
+    "nt-5308": {
+      "target_values": [
+        "January"
+      ],
+      "target_canon": [
+        "xxxx-01-xx"
+      ]
+    },
+    "nt-5481": {
+      "target_values": [
+        "8"
+      ],
+      "target_canon": [
+        "8.0"
+      ]
+    },
+    "nt-5688": {
+      "target_values": [
+        "Santo Domingo"
+      ],
+      "target_canon": [
+        "Santo Domingo"
+      ]
+    },
+    "nt-5697": {
+      "target_values": [
+        "C.D. FAS"
+      ],
+      "target_canon": [
+        "C.D. FAS"
+      ]
+    },
+    "nt-5699": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nt-5983": {
+      "target_values": [
+        "Francisco Bangoy International Airport"
+      ],
+      "target_canon": [
+        "Francisco Bangoy International Airport"
+      ]
+    },
+    "nt-6064": {
+      "target_values": [
+        "1881"
+      ],
+      "target_canon": [
+        "1881.0"
+      ]
+    },
+    "nt-6213": {
+      "target_values": [
+        "5"
+      ],
+      "target_canon": [
+        "5.0"
+      ]
+    },
+    "nt-6243": {
+      "target_values": [
+        "Frozen"
+      ],
+      "target_canon": [
+        "Frozen"
+      ]
+    },
+    "nt-6413": {
+      "target_values": [
+        "Obuvshchik"
+      ],
+      "target_canon": [
+        "Obuvshchik"
+      ]
+    },
+    "nt-6508": {
+      "target_values": [
+        "59"
+      ],
+      "target_canon": [
+        "59.0"
+      ]
+    },
+    "nt-6714": {
+      "target_values": [
+        "Tokyo, Japan"
+      ],
+      "target_canon": [
+        "Tokyo, Japan"
+      ]
+    },
+    "nt-7004": {
+      "target_values": [
+        "United States"
+      ],
+      "target_canon": [
+        "United States"
+      ]
+    },
+    "nt-7128": {
+      "target_values": [
+        "23"
+      ],
+      "target_canon": [
+        "23.0"
+      ]
+    },
+    "nt-7273": {
+      "target_values": [
+        "Kyal and Kara"
+      ],
+      "target_canon": [
+        "Kyal and Kara"
+      ]
+    },
+    "nt-7345": {
+      "target_values": [
+        "Hungary"
+      ],
+      "target_canon": [
+        "Hungary"
+      ]
+    },
+    "nt-7367": {
+      "target_values": [
+        "R.N. Chopra"
+      ],
+      "target_canon": [
+        "R.N. Chopra"
+      ]
+    },
+    "nt-7778": {
+      "target_values": [
+        "no"
+      ],
+      "target_canon": [
+        "no"
+      ]
+    },
+    "nt-7816": {
+      "target_values": [
+        "Newport County"
+      ],
+      "target_canon": [
+        "Newport County"
+      ]
+    },
+    "nt-8338": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nt-8345": {
+      "target_values": [
+        "Masao Azuma"
+      ],
+      "target_canon": [
+        "Masao Azuma"
+      ]
+    },
+    "nt-8392": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nt-8568": {
+      "target_values": [
+        "Bridgetown, Barbados"
+      ],
+      "target_canon": [
+        "Bridgetown, Barbados"
+      ]
+    },
+    "nt-8610": {
+      "target_values": [
+        "2nd"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nt-8621": {
+      "target_values": [
+        "3"
+      ],
+      "target_canon": [
+        "3.0"
+      ]
+    },
+    "nt-8660": {
+      "target_values": [
+        "2"
+      ],
+      "target_canon": [
+        "2.0"
+      ]
+    },
+    "nt-8701": {
+      "target_values": [
+        "8"
+      ],
+      "target_canon": [
+        "8.0"
+      ]
+    },
+    "nt-9710": {
+      "target_values": [
+        "22"
+      ],
+      "target_canon": [
+        "22.0"
+      ]
+    },
+    "nt-9891": {
+      "target_values": [
+        "Maurício Gugelmin"
+      ],
+      "target_canon": [
+        "Maurício Gugelmin"
+      ]
+    },
+    "nt-9920": {
+      "target_values": [
+        "Toronto",
+        "Montreal",
+        "Calgary"
+      ],
+      "target_canon": [
+        "Toronto",
+        "Montreal",
+        "Calgary"
+      ]
+    },
+    "nt-9923": {
+      "target_values": [
+        "Wolfram Alpha"
+      ],
+      "target_canon": [
+        "Wolfram Alpha"
+      ]
+    },
+    "nt-9947": {
+      "target_values": [
+        "1875"
+      ],
+      "target_canon": [
+        "1875.0"
+      ]
+    },
+    "nt-10018": {
+      "target_values": [
+        "Express: Impossible"
+      ],
+      "target_canon": [
+        "Express: Impossible"
+      ]
+    },
+    "nt-10215": {
+      "target_values": [
+        "Hialeah, Florida"
+      ],
+      "target_canon": [
+        "Hialeah, Florida"
+      ]
+    },
+    "nt-10527": {
+      "target_values": [
+        "7"
+      ],
+      "target_canon": [
+        "7.0"
+      ]
+    },
+    "nt-10624": {
+      "target_values": [
+        "0"
+      ],
+      "target_canon": [
+        "0.0"
+      ]
+    },
+    "nt-10680": {
+      "target_values": [
+        "6"
+      ],
+      "target_canon": [
+        "6.0"
+      ]
+    },
+    "nt-10789": {
+      "target_values": [
+        "Draco"
+      ],
+      "target_canon": [
+        "Draco"
+      ]
+    },
+    "nt-11116": {
+      "target_values": [
+        "Omerta - City of Gangsters"
+      ],
+      "target_canon": [
+        "Omerta - City of Gangsters"
+      ]
+    },
+    "nt-11793": {
+      "target_values": [
+        "Damián 666"
+      ],
+      "target_canon": [
+        "Damián 666"
+      ]
+    },
+    "nt-11919": {
+      "target_values": [
+        "W Connection"
+      ],
+      "target_canon": [
+        "W Connection"
+      ]
+    },
+    "nt-12034": {
+      "target_values": [
+        "22 November 1992"
+      ],
+      "target_canon": [
+        "1992-11-22"
+      ]
+    },
+    "nt-12420": {
+      "target_values": [
+        "7"
+      ],
+      "target_canon": [
+        "7.0"
+      ]
+    },
+    "nt-12428": {
+      "target_values": [
+        "The Alarm (EP)"
+      ],
+      "target_canon": [
+        "The Alarm (EP)"
+      ]
+    },
+    "nt-12511": {
+      "target_values": [
+        "Pedernales"
+      ],
+      "target_canon": [
+        "Pedernales"
+      ]
+    },
+    "nt-12598": {
+      "target_values": [
+        "5 September 2012"
+      ],
+      "target_canon": [
+        "2012-09-05"
+      ]
+    },
+    "nt-12828": {
+      "target_values": [
+        "Liam Reilly"
+      ],
+      "target_canon": [
+        "Liam Reilly"
+      ]
+    },
+    "nt-12910": {
+      "target_values": [
+        "Division 2"
+      ],
+      "target_canon": [
+        "Division 2"
+      ]
+    },
+    "nt-12946": {
+      "target_values": [
+        "Bolivia"
+      ],
+      "target_canon": [
+        "Bolivia"
+      ]
+    },
+    "nt-12953": {
+      "target_values": [
+        "11th"
+      ],
+      "target_canon": [
+        "11.0"
+      ]
+    },
+    "nt-13290": {
+      "target_values": [
+        "4th"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nt-13366": {
+      "target_values": [
+        "4"
+      ],
+      "target_canon": [
+        "4.0"
+      ]
+    },
+    "nt-13421": {
+      "target_values": [
+        "Dawn Treader (Fredmix); It Isn't Over (Fredmix)"
+      ],
+      "target_canon": [
+        "Dawn Treader (Fredmix); It Isn't Over (Fredmix)"
+      ]
+    },
+    "nt-14030": {
+      "target_values": [
+        "Pune"
+      ],
+      "target_canon": [
+        "Pune"
+      ]
+    }
+  },
+  "frozen_answer_text_mismatches": [
+    "nt-13421"
+  ]
+}

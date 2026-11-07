@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/ppasupat/WikiTableQuestions",
+  "commit": "7d455a5a707b96341ef72aff9428749d443d8aa9",
+  "version": "1.0.2",
+  "original_sha256": "5dcaa6b4f49fa05cb7a5679299c5b8f261525bdfa59d060acf3495d8a0869bf6",
+  "changes": [
+    "lib2to3 syntax conversion",
+    "Python 3 __str__ returns text if present"
+  ]
+}

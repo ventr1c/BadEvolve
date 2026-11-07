@@ -1,0 +1,12 @@
+LICENSE — TO BE DECIDED
+
+The license for the code in this repository (everything outside evolution_methods/ and
+attack/evaluation/vendor/) has not been chosen yet. Until a license is added here, all rights are
+reserved; the code is shared for peer review and may be used to reproduce the paper's results.
+
+Third-party components keep their own licenses:
+
+  * the four evolution frameworks cloned into evolution_methods/ by scripts/setup_third_party.sh
+    (Trace2Skill: Apache-2.0; SkillGrad: MIT; SkillOpt: MIT; A-Evolve: MIT) — see third_party/README.md;
+  * attack/evaluation/vendor/wikitq/ (the official WikiTableQuestions evaluator): CC BY-SA 4.0;
+  * the datasets (WikiTableQuestions, OfficeQA, SpreadsheetBench) under their respective terms.

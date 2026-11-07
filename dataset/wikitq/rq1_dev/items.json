@@ -1,0 +1,9464 @@
+[
+ {
+  "id": "nt-5688",
+  "question": "what was the first dioceses established?",
+  "answers": [
+   "Santo Domingo"
+  ],
+  "ground_truth": "Santo Domingo",
+  "table_header": [
+   "Ecclesiastical Jurisdictions",
+   "Latin name",
+   "Type",
+   "Rite",
+   "Ecclesiastical Province",
+   "Established",
+   "Area (km2)"
+  ],
+  "table_rows": [
+   [
+    "Ban\u00ed",
+    "Baniensis",
+    "Diocese",
+    "Roman",
+    "Santo Domingo",
+    "8 November 1986",
+    "2,892"
+   ],
+   [
+    "Barahona",
+    "Barahonensis",
+    "Diocese",
+    "Roman",
+    "Santo Domingo",
+    "24 April 1976",
+    "6,973"
+   ],
+   [
+    "Dominican Republic",
+    "Reipublicae Dominicanae",
+    "Military Ordinariate",
+    "Roman",
+    "Immediately subject to the Holy See",
+    "23 January 1958",
+    "\u2014"
+   ],
+   [
+    "La Vega",
+    "Vegensis",
+    "Diocese",
+    "Roman",
+    "Santiago de los Caballeros",
+    "25 September 1953",
+    "4,919"
+   ],
+   [
+    "Mao-Monte Cristi",
+    "Mao\u00ebnsis\u2013Montis Christi",
+    "Diocese",
+    "Roman",
+    "Santiago de los Caballeros",
+    "16 January 1978",
+    "4,841"
+   ],
+   [
+    "Nuestra Se\u00f1ora de la Altagracia en Hig\u00fcey",
+    "Higueyensis / a Domina Nostra vulgo de la Altagracia in Hig\u00fcey",
+    "Diocese",
+    "Roman",
+    "Santo Domingo",
+    "1 April 1959",
+    "5,437"
+   ],
+   [
+    "Puerto Plata",
+    "Portus Argentarii",
+    "Diocese",
+    "Roman",
+    "Santiago de los Caballeros",
+    "16 December 1996",
+    "2,700"
+   ],
+   [
+    "San Francisco de Macor\u00eds",
+    "Sancti Francisci de Macoris",
+    "Diocese",
+    "Roman",
+    "Santiago de los Caballeros",
+    "16 January 1978",
+    "3,682"
+   ],
+   [
+    "San Juan de la Maguana",
+    "Sancti Ioannis Maguanensis",
+    "Diocese",
+    "Roman",
+    "Santo Domingo",
+    "25 September 1953",
+    "7,476"
+   ],
+   [
+    "San Pedro de Macor\u00eds",
+    "Sancti Petri de Macoris",
+    "Diocese",
+    "Roman",
+    "Santo Domingo",
+    "1 February 1997",
+    "2,588"
+   ],
+   [
+    "Santiago de los Caballeros",
+    "Sancti Iacobi Equitum",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Santiago de los Caballeros",
+    "25 September 1953",
+    "6,391"
+   ],
+   [
+    "Santo Domingo",
+    "Sancti Dominici",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Santo Domingo",
+    "8 August 1511",
+    "4,033"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 12
+ },
+ {
+  "id": "nt-6064",
+  "question": "which year saw the largest population of tower division during this time?",
+  "answers": [
+   "1881"
+  ],
+  "ground_truth": "1881",
+  "table_header": [
+   "Year",
+   "Edmonton\\nHundred",
+   "Elthorne\\nHundred",
+   "Gore\\nHundred",
+   "Isleworth\\nHundred",
+   "Ossulstone\\nHundred\\nHolborn\\nDivision",
+   "Ossulstone\\nHundred\\nFinsbury\\nDivision",
+   "Ossulstone\\nHundred\\nKensington\\nDivision",
+   "Ossulstone\\nHundred\\nTower\\nDivision",
+   "Spelthorne\\nHundred",
+   "London City\\nWithin\\nthe Walls",
+   "London City\\nWithout\\nthe Walls",
+   "Inns of Court\\nand\\nChancery",
+   "Westminster\\nCity and\\nLiberty",
+   "Total"
+  ],
+  "table_rows": [
+   [
+    "1801",
+    "16,885",
+    "16,853",
+    "6,968",
+    "9,266",
+    "171,202",
+    "73,268",
+    "40,642",
+    "215,382",
+    "12,743",
+    "63,832",
+    "70,676",
+    "1,907",
+    "157,890",
+    "818,129"
+   ],
+   [
+    "1811",
+    "20,577",
+    "19,929",
+    "8,738",
+    "10,669",
+    "214,946",
+    "92,538",
+    "54,550",
+    "272,966",
+    "14,409",
+    "55,484",
+    "70,489",
+    "1,796",
+    "166,438",
+    "953,774"
+   ],
+   [
+    "1821",
+    "24,771",
+    "23,479",
+    "9,806",
+    "12,285",
+    "272,131",
+    "119,802",
+    "70,808",
+    "339,075",
+    "16,966",
+    "56,174",
+    "74,765",
+    "1,546",
+    "186,584",
+    "1,144,531"
+   ],
+   [
+    "1831",
+    "26,930",
+    "26,976",
+    "11,315",
+    "13,568",
+    "341,981",
+    "151,409",
+    "87,961",
+    "427,090",
+    "19,204",
+    "55,778",
+    "73,442",
+    "1,271",
+    "206,116",
+    "1,358,130"
+   ],
+   [
+    "1841",
+    "30,683",
+    "34,943",
+    "12,487",
+    "15,893",
+    "399,218",
+    "185,174",
+    "122,795",
+    "513,501",
+    "21,298",
+    "54,626",
+    "74,758",
+    "1,708",
+    "226,241",
+    "1,574,416"
+   ],
+   [
+    "1851",
+    "32,109",
+    "35,828",
+    "12,956",
+    "18,463",
+    "480,942",
+    "239,788",
+    "169,317",
+    "641,918",
+    "22,107",
+    "54,702",
+    "79,096",
+    "1,398",
+    "241,450",
+    "1,886,576"
+   ],
+   [
+    "1861",
+    "40,885",
+    "42,274",
+    "15,341",
+    "23,610",
+    "551,487",
+    "312,553",
+    "223,305",
+    "773,621",
+    "24,795",
+    "44,400",
+    "73,125",
+    "1,272",
+    "254,463",
+    "2,206,485"
+   ],
+   [
+    "1871",
+    "57,332",
+    "46,996",
+    "21,291",
+    "30,463",
+    "604,891",
+    "381,702",
+    "350,688",
+    "902,056",
+    "33,069",
+    "28,093",
+    "50,733",
+    "1,138",
+    "246,592",
+    "2,539,765"
+   ],
+   [
+    "1881",
+    "94,185",
+    "51,932",
+    "27,029",
+    "35,206",
+    "622,865",
+    "482,264",
+    "524,122",
+    "1,018,337",
+    "40,400",
+    "18,851",
+    "32,389",
+    "1,011",
+    "228,993",
+    "2,920,485"
+   ]
+  ],
+  "n_cols": 15,
+  "n_rows": 9
+ },
+ {
+  "id": "nt-3725",
+  "question": "what's the difference between horne's votes in marin and his votes in santa cruz?",
+  "answers": [
+   "921"
+  ],
+  "ground_truth": "921",
+  "table_header": [
+   "County",
+   "Feinstein",
+   "Votes",
+   "Seymour",
+   "Votes",
+   "Horne",
+   "Votes",
+   "Meeu.",
+   "Votes",
+   "Boddie",
+   "Votes",
+   "W/I",
+   "V's"
+  ],
+  "table_rows": [
+   [
+    "San Francisco",
+    "80.60%",
+    "250,972",
+    "15.79%",
+    "49,165",
+    "1.63%",
+    "5,062",
+    "0.62%",
+    "1,919",
+    "1.36%",
+    "4,233",
+    "0.00%",
+    "10"
+   ],
+   [
+    "Alameda",
+    "72.56%",
+    "374,675",
+    "21.93%",
+    "113,223",
+    "2.30%",
+    "11,866",
+    "1.61%",
+    "8,323",
+    "1.60%",
+    "8,257",
+    "0.00%",
+    "23"
+   ],
+   [
+    "Marin",
+    "71.26%",
+    "92,205",
+    "24.61%",
+    "31,846",
+    "1.45%",
+    "1,880",
+    "0.88%",
+    "1,142",
+    "1.80%",
+    "2,328",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Santa Cruz",
+    "67.88%",
+    "76,327",
+    "25.40%",
+    "28,562",
+    "2.49%",
+    "2,801",
+    "1.84%",
+    "2,072",
+    "2.39%",
+    "2,686",
+    "0.00%",
+    "1"
+   ],
+   [
+    "San Mateo",
+    "67.25%",
+    "181,990",
+    "27.89%",
+    "75,470",
+    "1.84%",
+    "4,983",
+    "1.29%",
+    "3,478",
+    "1.73%",
+    "4,684",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Contra Costa",
+    "62.96%",
+    "229,988",
+    "31.62%",
+    "115,507",
+    "1.92%",
+    "7,011",
+    "1.77%",
+    "6,470",
+    "1.73%",
+    "6,320",
+    "0.00%",
+    "2"
+   ],
+   [
+    "Sonoma",
+    "62.84%",
+    "121,471",
+    "29.38%",
+    "56,793",
+    "3.02%",
+    "5,846",
+    "2.43%",
+    "4,702",
+    "2.33%",
+    "4,502",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Santa Clara",
+    "62.19%",
+    "364,997",
+    "30.98%",
+    "181,858",
+    "2.15%",
+    "12,646",
+    "2.20%",
+    "12,912",
+    "2.47%",
+    "14,518",
+    "0.00%",
+    "2"
+   ],
+   [
+    "Yolo",
+    "61.68%",
+    "37,340",
+    "31.70%",
+    "19,191",
+    "2.18%",
+    "1,319",
+    "2.27%",
+    "1,376",
+    "2.17%",
+    "1,311",
+    "0.00%",
+    "1"
+   ],
+   [
+    "Mendocino",
+    "60.59%",
+    "22,000",
+    "30.28%",
+    "10,993",
+    "3.55%",
+    "1,290",
+    "2.86%",
+    "1,039",
+    "2.72%",
+    "988",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Solano",
+    "59.83%",
+    "77,739",
+    "32.30%",
+    "41,970",
+    "2.75%",
+    "3,571",
+    "2.84%",
+    "3,696",
+    "2.28%",
+    "2,960",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Humboldt",
+    "59.81%",
+    "35,178",
+    "33.18%",
+    "19,513",
+    "2.99%",
+    "1,756",
+    "2.13%",
+    "1,253",
+    "1.90%",
+    "1,117",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Monterey",
+    "58.89%",
+    "66,417",
+    "34.74%",
+    "39,182",
+    "2.10%",
+    "2,369",
+    "2.30%",
+    "2,590",
+    "1.96%",
+    "2,216",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Los Angeles",
+    "58.72%",
+    "1,552,223",
+    "34.03%",
+    "899,656",
+    "3.18%",
+    "84,093",
+    "2.09%",
+    "55,380",
+    "1.97%",
+    "52,123",
+    "0.00%",
+    "20"
+   ],
+   [
+    "Napa",
+    "57.01%",
+    "29,875",
+    "35.38%",
+    "18,539",
+    "2.46%",
+    "1,288",
+    "2.93%",
+    "1,537",
+    "2.22%",
+    "1,161",
+    "0.00%",
+    "0"
+   ],
+   [
+    "San Benito",
+    "55.51%",
+    "6,938",
+    "37.10%",
+    "4,637",
+    "2.34%",
+    "293",
+    "2.88%",
+    "360",
+    "2.16%",
+    "270",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Lake",
+    "55.10%",
+    "12,732",
+    "35.04%",
+    "8,096",
+    "3.12%",
+    "721",
+    "3.96%",
+    "916",
+    "2.77%",
+    "641",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Sacramento",
+    "53.77%",
+    "237,722",
+    "38.07%",
+    "168,318",
+    "2.99%",
+    "13,228",
+    "2.88%",
+    "12,716",
+    "2.29%",
+    "10,113",
+    "0.00%",
+    "1"
+   ],
+   [
+    "Del Norte",
+    "50.92%",
+    "4,696",
+    "39.66%",
+    "3,658",
+    "2.56%",
+    "236",
+    "4.98%",
+    "459",
+    "1.89%",
+    "174",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Tuolumne",
+    "50.56%",
+    "11,895",
+    "40.59%",
+    "9,550",
+    "2.90%",
+    "682",
+    "3.40%",
+    "801",
+    "2.54%",
+    "597",
+    "0.01%",
+    "2"
+   ],
+   [
+    "Stanislaus",
+    "50.11%",
+    "62,110",
+    "41.59%",
+    "51,549",
+    "2.84%",
+    "3,519",
+    "3.49%",
+    "4,325",
+    "1.98%",
+    "2,450",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Santa Barbara",
+    "49.63%",
+    "77,900",
+    "42.71%",
+    "67,043",
+    "3.43%",
+    "5,386",
+    "2.25%",
+    "3,535",
+    "1.98%",
+    "3,101",
+    "0.00%",
+    "0"
+   ],
+   [
+    "San Joaquin",
+    "48.90%",
+    "76,607",
+    "43.11%",
+    "67,531",
+    "2.78%",
+    "4,360",
+    "3.27%",
+    "5,123",
+    "1.94%",
+    "3,043",
+    "0.00%",
+    "1"
+   ],
+   [
+    "Imperial",
+    "48.77%",
+    "12,433",
+    "43.42%",
+    "11,070",
+    "3.77%",
+    "962",
+    "2.55%",
+    "651",
+    "1.48%",
+    "378",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Amador",
+    "48.29%",
+    "7,319",
+    "42.64%",
+    "6,463",
+    "2.40%",
+    "364",
+    "4.07%",
+    "617",
+    "2.60%",
+    "394",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Alpine",
+    "47.91%",
+    "287",
+    "42.07%",
+    "252",
+    "3.01%",
+    "18",
+    "4.51%",
+    "27",
+    "2.50%",
+    "15",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Merced",
+    "47.61%",
+    "22,010",
+    "43.79%",
+    "20,246",
+    "2.79%",
+    "1,289",
+    "2.95%",
+    "1,365",
+    "2.86%",
+    "1,323",
+    "0.00%",
+    "0"
+   ],
+   [
+    "San L. Obispo",
+    "47.47%",
+    "48,376",
+    "43.94%",
+    "44,775",
+    "2.54%",
+    "2,587",
+    "3.08%",
+    "3,134",
+    "2.97%",
+    "3,030",
+    "0.00%",
+    "0"
+   ],
+   [
+    "San Diego",
+    "46.97%",
+    "442,855",
+    "43.63%",
+    "411,362",
+    "3.21%",
+    "30,287",
+    "3.09%",
+    "29,149",
+    "3.10%",
+    "29,212",
+    "0.00%",
+    "3"
+   ],
+   [
+    "Calaveras",
+    "46.64%",
+    "7,839",
+    "42.00%",
+    "7,059",
+    "2.32%",
+    "390",
+    "5.38%",
+    "905",
+    "3.65%",
+    "614",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Plumas",
+    "46.44%",
+    "4,647",
+    "43.64%",
+    "4,367",
+    "2.30%",
+    "230",
+    "4.53%",
+    "453",
+    "3.10%",
+    "310",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Nevada",
+    "46.04%",
+    "20,044",
+    "44.73%",
+    "19,476",
+    "2.90%",
+    "1,261",
+    "3.32%",
+    "1,444",
+    "3.02%",
+    "1,313",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Placer",
+    "45.75%",
+    "40,511",
+    "45.73%",
+    "40,497",
+    "2.38%",
+    "2,109",
+    "3.30%",
+    "2,920",
+    "2.84%",
+    "2,518",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Mariposa",
+    "45.38%",
+    "3,681",
+    "43.98%",
+    "3,568",
+    "3.09%",
+    "251",
+    "5.07%",
+    "411",
+    "2.48%",
+    "201",
+    "0.00%",
+    "0"
+   ],
+   [
+    "El Dorado",
+    "45.34%",
+    "28,957",
+    "45.56%",
+    "29,101",
+    "2.37%",
+    "1,512",
+    "3.80%",
+    "2,427",
+    "2.93%",
+    "1,873",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Ventura",
+    "45.30%",
+    "119,366",
+    "46.32%",
+    "122,064",
+    "2.72%",
+    "7,167",
+    "3.04%",
+    "8,019",
+    "2.61%",
+    "6,882",
+    "0.00%",
+    "1"
+   ],
+   [
+    "Sierra",
+    "45.12%",
+    "818",
+    "44.57%",
+    "808",
+    "2.48%",
+    "45",
+    "3.47%",
+    "63",
+    "4.36%",
+    "79",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Mono",
+    "45.11%",
+    "1,931",
+    "44.64%",
+    "1,911",
+    "2.83%",
+    "121",
+    "3.95%",
+    "169",
+    "3.48%",
+    "149",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Fresno",
+    "45.07%",
+    "94,988",
+    "48.48%",
+    "102,172",
+    "2.32%",
+    "4,888",
+    "2.25%",
+    "4,740",
+    "1.88%",
+    "3,959",
+    "0.00%",
+    "4"
+   ],
+   [
+    "Butte",
+    "44.72%",
+    "37,396",
+    "45.57%",
+    "38,111",
+    "2.96%",
+    "2,477",
+    "3.56%",
+    "2,980",
+    "3.19%",
+    "2,666",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Riverside",
+    "44.56%",
+    "187,548",
+    "45.44%",
+    "191,258",
+    "3.52%",
+    "14,808",
+    "3.95%",
+    "16,632",
+    "2.54%",
+    "10,689",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Siskiyou",
+    "44.35%",
+    "8,963",
+    "45.42%",
+    "9,180",
+    "2.34%",
+    "473",
+    "5.16%",
+    "1,043",
+    "2.73%",
+    "551",
+    "0.00%",
+    "0"
+   ],
+   [
+    "San Bernardino",
+    "44.35%",
+    "200,979",
+    "45.67%",
+    "206,969",
+    "3.64%",
+    "16,511",
+    "3.71%",
+    "16,804",
+    "2.61%",
+    "11,825",
+    "0.01%",
+    "48"
+   ],
+   [
+    "Trinity",
+    "42.41%",
+    "2,743",
+    "43.66%",
+    "2,824",
+    "3.80%",
+    "246",
+    "6.29%",
+    "407",
+    "3.83%",
+    "248",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Yuba",
+    "40.76%",
+    "6,890",
+    "46.63%",
+    "7,882",
+    "3.07%",
+    "518",
+    "6.09%",
+    "1,030",
+    "3.45%",
+    "584",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Kings",
+    "40.70%",
+    "9,805",
+    "50.29%",
+    "12,115",
+    "3.74%",
+    "901",
+    "3.57%",
+    "860",
+    "1.70%",
+    "410",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Lassen",
+    "40.39%",
+    "4,005",
+    "47.64%",
+    "4,724",
+    "3.29%",
+    "326",
+    "5.59%",
+    "554",
+    "3.10%",
+    "307",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Orange",
+    "39.87%",
+    "377,170",
+    "50.93%",
+    "481,810",
+    "2.86%",
+    "27,056",
+    "3.42%",
+    "32,316",
+    "2.93%",
+    "27,729",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Madera",
+    "39.79%",
+    "11,682",
+    "52.14%",
+    "15,309",
+    "2.94%",
+    "862",
+    "3.63%",
+    "1,066",
+    "1.50%",
+    "441",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Tehama",
+    "39.31%",
+    "8,253",
+    "48.19%",
+    "10,116",
+    "2.99%",
+    "627",
+    "5.43%",
+    "1,140",
+    "4.08%",
+    "856",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Shasta",
+    "37.81%",
+    "25,111",
+    "51.48%",
+    "34,192",
+    "2.90%",
+    "1,928",
+    "4.62%",
+    "3,070",
+    "3.19%",
+    "2,116",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Colusa",
+    "37.58%",
+    "2,083",
+    "54.37%",
+    "3,014",
+    "2.53%",
+    "140",
+    "3.18%",
+    "176",
+    "2.35%",
+    "130",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Inyo",
+    "37.41%",
+    "3,067",
+    "52.66%",
+    "4,318",
+    "2.68%",
+    "220",
+    "4.34%",
+    "356",
+    "2.90%",
+    "238",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Sutter",
+    "36.43%",
+    "9,135",
+    "53.54%",
+    "13,427",
+    "2.38%",
+    "596",
+    "5.24%",
+    "1,313",
+    "2.42%",
+    "606",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Kern",
+    "36.31%",
+    "63,661",
+    "54.46%",
+    "95,483",
+    "3.22%",
+    "5,640",
+    "3.59%",
+    "6,289",
+    "2.43%",
+    "4,258",
+    "0.00%",
+    "3"
+   ],
+   [
+    "Modoc",
+    "35.77%",
+    "1,572",
+    "52.95%",
+    "2,327",
+    "3.00%",
+    "132",
+    "5.21%",
+    "229",
+    "3.07%",
+    "135",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Tulare",
+    "35.71%",
+    "30,665",
+    "56.46%",
+    "48,493",
+    "2.72%",
+    "2,332",
+    "3.11%",
+    "2,674",
+    "2.00%",
+    "1,720",
+    "0.00%",
+    "0"
+   ],
+   [
+    "Glenn",
+    "33.10%",
+    "2,864",
+    "56.73%",
+    "4,908",
+    "2.51%",
+    "217",
+    "4.81%",
+    "416",
+    "2.85%",
+    "247",
+    "0.00%",
+    "0"
+   ]
+  ],
+  "n_cols": 13,
+  "n_rows": 58
+ },
+ {
+  "id": "nt-11793",
+  "question": "which winner has numbers in his/her name?",
+  "answers": [
+   "Dami\u00e1n 666"
+  ],
+  "ground_truth": "Dami\u00e1n 666",
+  "table_header": [
+   "Wager",
+   "Winner",
+   "Loser",
+   "Location",
+   "Date",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "Hair",
+    "Psycho Clown",
+    "Super Crazy",
+    "Mexico City, Distrito Federal",
+    "May 29, 2011",
+    "Six man tag team steel cage Masks vs. Hairs match, where Los Perros del Mal (Crazy, El Hijo del Perro Aguayo and Dami\u00e1n 666) faced Los Psycho Circus (Psycho Clown, Monster Clown and Murder Clown)."
+   ],
+   [
+    "Hair",
+    "Halloween",
+    "Coco Rojo",
+    "Tlalnepantla de Baz, State of Mexico",
+    "July 10, 2011",
+    "Steel cage match, where Los Perros del Mal (Halloween, Dami\u00e1n 666 and Ek Balam) faced Los Payasos Tricolor (Coco Rojo, Coco Azul and Coco Amarillo) and Los Psycho Circus (Monster Clown, Murder Clown and Psycho Clown)."
+   ],
+   [
+    "Hair",
+    "Psycho Clown",
+    "X-Fly",
+    "Guadalajara, Jalisco",
+    "July 31, 2011",
+    "Six man tag team steel cage Masks vs. Hairs match, where Los Perros del Mal (X-Fly, Dami\u00e1n 666 and Halloween) faced Los Psycho Circus."
+   ],
+   [
+    "Title",
+    "Dami\u00e1n 666",
+    "Monster Clown",
+    "Naucalpan, Mexico",
+    "August 28, 2011",
+    "Four tag team steel cage match, where Los Psycho Circus put their IWRG Intercontinental Trios Championship on the line against the hairs/masks of Los Perros del Mal (Dami\u00e1n 666, Bestia 666 and X-Fly), Los Temerarios (Black Terry, Durok and Machin) and Los Villanos (Kortiz, Ray Mendoza, Jr. and Villano IV)."
+   ],
+   [
+    "Hair",
+    "Monster Clown, Murder Clown and Psycho Clown",
+    "Halloween, Dami\u00e1n 666 and Nicho el Millonario",
+    "Monterrey, Nuevo Le\u00f3n",
+    "October 9, 2011",
+    "Steel cage Masks vs. Hairs match."
+   ],
+   [
+    "Hair",
+    "Psicosis",
+    "Joe L\u00edder",
+    "Mexico City",
+    "August 5, 2012",
+    ""
+   ],
+   [
+    "Hair",
+    "Dark Cuervo",
+    "Halloween",
+    "San Luis Potos\u00ed, San Luis Potos\u00ed",
+    "October 7, 2012",
+    "Domo de la Muerte, where Los Perros del Mal (Halloween, El Hijo del Perro Aguayo, Psicosis and Teddy Hart) faced Dark Cuervo, Cibern\u00e9tico, Dark Ozz and Jack Evans."
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 7
+ },
+ {
+  "id": "nt-8660",
+  "question": "what is the total amount of games that the team won by more than 2 points?",
+  "answers": [
+   "2"
+  ],
+  "ground_truth": "2",
+  "table_header": [
+   "Game",
+   "Date",
+   "Opponent",
+   "Location",
+   "Score",
+   "OT",
+   "Attendance",
+   "Record"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "January 8, 2005",
+    "Philadelphia Wings",
+    "Arrowhead Pond",
+    "W 13\u201310",
+    "",
+    "5,732",
+    "1\u20130"
+   ],
+   [
+    "2",
+    "January 22, 2005",
+    "Rochester Knighthawks",
+    "Arrowhead Pond",
+    "L 11\u201315",
+    "",
+    "4,053",
+    "1\u20131"
+   ],
+   [
+    "3",
+    "January 28, 2005",
+    "@ Minnesota Swarm",
+    "Xcel Energy Center",
+    "W 8\u20137",
+    "",
+    "12,514",
+    "2\u20131"
+   ],
+   [
+    "4",
+    "January 29, 2005",
+    "Calgary Roughnecks",
+    "Arrowhead Pond",
+    "L 12\u201313",
+    "",
+    "4,159",
+    "2\u20132"
+   ],
+   [
+    "5",
+    "February 4, 2005",
+    "@ Arizona Sting",
+    "Jobing.com Arena",
+    "L 10\u201317",
+    "",
+    "6,313",
+    "2\u20133"
+   ],
+   [
+    "6",
+    "February 11, 2005",
+    "@ Buffalo Bandits",
+    "HSBC Arena",
+    "L 9\u201320",
+    "",
+    "8,805",
+    "2\u20134"
+   ],
+   [
+    "7",
+    "February 18, 2005",
+    "@ Calgary Roughnecks",
+    "Pengrowth Saddledome",
+    "L 15\u201318",
+    "",
+    "9,550",
+    "2\u20135"
+   ],
+   [
+    "8",
+    "March 4, 2005",
+    "Colorado Mammoth",
+    "Arrowhead Pond",
+    "L 12\u201313",
+    "",
+    "4,500",
+    "2\u20136"
+   ],
+   [
+    "9",
+    "March 13, 2005",
+    "Toronto Rock",
+    "Arrowhead Pond",
+    "L 6\u201314",
+    "",
+    "4,499",
+    "2\u20137"
+   ],
+   [
+    "10",
+    "March 19, 2005",
+    "@ Colorado Mammoth",
+    "Pepsi Center",
+    "L 8\u201316",
+    "",
+    "16,270",
+    "2\u20138"
+   ],
+   [
+    "11",
+    "March 25, 2005",
+    "@ San Jose Stealth",
+    "HP Pavilion at San Jose",
+    "L 14\u201315",
+    "",
+    "5,022",
+    "2\u20139"
+   ],
+   [
+    "12",
+    "March 26, 2005",
+    "San Jose Stealth",
+    "Arrowhead Pond",
+    "W 13\u201312",
+    "OT",
+    "4,834",
+    "3\u20139"
+   ],
+   [
+    "13",
+    "April 2, 2005",
+    "@ Colorado Mammoth",
+    "Pepsi Center",
+    "W 10\u20136",
+    "",
+    "18,326",
+    "4\u20139"
+   ],
+   [
+    "14",
+    "April 9, 2005",
+    "Minnesota Swarm",
+    "Arrowhead Pond",
+    "L 11\u201312",
+    "OT",
+    "4,967",
+    "4\u201310"
+   ],
+   [
+    "15",
+    "April 15, 2005",
+    "Arizona Sting",
+    "Arrowhead Pond",
+    "L 12\u201314",
+    "",
+    "5,891",
+    "4\u201311"
+   ],
+   [
+    "16",
+    "April 16, 2005",
+    "@ Arizona Sting",
+    "Jobing.com Arena",
+    "W 11\u201310",
+    "",
+    "7,731",
+    "5\u201311"
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-12910",
+  "question": "which division as the most entries?",
+  "answers": [
+   "Division 2"
+  ],
+  "ground_truth": "Division 2",
+  "table_header": [
+   "Season",
+   "Level",
+   "Division",
+   "Section",
+   "Position",
+   "Movements"
+  ],
+  "table_rows": [
+   [
+    "1985",
+    "Tier 4",
+    "Division 3",
+    "Norra Norrland",
+    "5th",
+    ""
+   ],
+   [
+    "1986",
+    "Tier 4",
+    "Division 3",
+    "Norra Norrland",
+    "4th",
+    "Promoted"
+   ],
+   [
+    "1987",
+    "Tier 3",
+    "Division 2",
+    "Norra",
+    "5th",
+    ""
+   ],
+   [
+    "1988",
+    "Tier 3",
+    "Division 2",
+    "Norra",
+    "1st",
+    "Promoted"
+   ],
+   [
+    "1989",
+    "Tier 2",
+    "Division 1",
+    "Norra",
+    "3rd",
+    ""
+   ],
+   [
+    "1990",
+    "Tier 2",
+    "Division 1",
+    "Norra",
+    "6th",
+    ""
+   ],
+   [
+    "1991",
+    "Tier 2",
+    "Division 1",
+    "Norra",
+    "1st",
+    "Spring"
+   ],
+   [
+    "",
+    "Tier 2",
+    "Division 1",
+    "Kvalsvenskan",
+    "8th",
+    "Autumn"
+   ],
+   [
+    "1992",
+    "Tier 2",
+    "Division 1",
+    "Norra",
+    "7th",
+    "Spring"
+   ],
+   [
+    "",
+    "Tier 2",
+    "Division 1",
+    "Norra",
+    "8th",
+    "Autumn - Relegated"
+   ],
+   [
+    "1993",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "1st",
+    "Promoted"
+   ],
+   [
+    "1994",
+    "Tier 2",
+    "Division 1",
+    "Norra",
+    "13th",
+    "Relegated"
+   ],
+   [
+    "1995",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "9th",
+    ""
+   ],
+   [
+    "1996",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "8th",
+    ""
+   ],
+   [
+    "1997",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "6th",
+    ""
+   ],
+   [
+    "1998",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "7th",
+    ""
+   ],
+   [
+    "1999",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "3rd",
+    ""
+   ],
+   [
+    "2000",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "8th",
+    ""
+   ],
+   [
+    "2001",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "10th",
+    "Relegation Playoffs"
+   ],
+   [
+    "2002",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "10th",
+    "Relegation Playoffs"
+   ],
+   [
+    "2003",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "10th",
+    "Relegation Playoffs"
+   ],
+   [
+    "2004",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "7th",
+    ""
+   ],
+   [
+    "2005",
+    "Tier 3",
+    "Division 2",
+    "Norrland",
+    "4th",
+    "Promoted"
+   ],
+   [
+    "2006*",
+    "Tier 3",
+    "Division 1",
+    "Norra",
+    "14th",
+    "Relegated"
+   ],
+   [
+    "2007",
+    "Tier 4",
+    "Division 2",
+    "Norrland",
+    "10th",
+    "Relegation Playoffs"
+   ],
+   [
+    "2008",
+    "Tier 4",
+    "Division 2",
+    "Norrland",
+    "12th",
+    "Relegated"
+   ],
+   [
+    "2009",
+    "Tier 5",
+    "Division 3",
+    "Norra Norrland",
+    "8th",
+    ""
+   ],
+   [
+    "2010",
+    "Tier 5",
+    "Division 3",
+    "Norra Norrland",
+    "3rd",
+    ""
+   ],
+   [
+    "2011",
+    "Tier 5",
+    "Division 3",
+    "Norra Norrland",
+    "2nd",
+    "Promotion Playoffs"
+   ],
+   [
+    "2012",
+    "Tier 5",
+    "Division 3",
+    "Norra Norrland",
+    "3rd",
+    ""
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 30
+ },
+ {
+  "id": "nt-3192",
+  "question": "how many seats did liberal and country league win?",
+  "answers": [
+   "20"
+  ],
+  "ground_truth": "20",
+  "table_header": [
+   "Party",
+   "Votes",
+   "%",
+   "Swing",
+   "Seats",
+   "Change"
+  ],
+  "table_rows": [
+   [
+    "Australian Labor Party",
+    "324,135",
+    "51.52",
+    "-0.12",
+    "26",
+    "-1"
+   ],
+   [
+    "Liberal and Country League",
+    "250,312",
+    "39.79",
+    "-3.97",
+    "20",
+    "0"
+   ],
+   [
+    "Nationals SA",
+    "24,810",
+    "3.94",
+    "+2.05",
+    "1",
+    "+1"
+   ],
+   [
+    "Independent",
+    "27,178",
+    "4.32",
+    "+2.86",
+    "0",
+    "0"
+   ],
+   [
+    "Other",
+    "2,708",
+    "0.43",
+    "-0.81",
+    "0",
+    "0"
+   ],
+   [
+    "Total",
+    "629,143",
+    "",
+    "",
+    "47",
+    ""
+   ],
+   [
+    "Australian Labor Party",
+    "WIN",
+    "54.50",
+    "+1.20",
+    "26",
+    "-1"
+   ],
+   [
+    "Liberal and Country League",
+    "",
+    "45.50",
+    "-1.20",
+    "21",
+    "+1"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-8338",
+  "question": "what was the total number of fastest laps that peggen andersson completed?",
+  "answers": [
+   "3"
+  ],
+  "ground_truth": "3",
+  "table_header": [
+   "Round",
+   "Round",
+   "Circuit",
+   "Date",
+   "Pole Position",
+   "Fastest Lap",
+   "Winning Driver",
+   "Winning Team",
+   "Winning Privateer"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "R1",
+    "Mantorp Park",
+    "10 May",
+    "Mattias Ekstr\u00f6m",
+    "Fredrik Ekblom",
+    "Mats Lind\u00e9n",
+    "Kristoffersson Motorsport",
+    "Richard G\u00f6ransson"
+   ],
+   [
+    "1",
+    "R2",
+    "Mantorp Park",
+    "10 May",
+    "",
+    "Peggen Andersson",
+    "Fredrik Ekblom",
+    "BMW Dealer Team",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "2",
+    "R3",
+    "Karlskoga-Geller\u00e5sen",
+    "31 May",
+    "Jan Nilsson",
+    "Jan Nilsson",
+    "Jan Nilsson",
+    "Flash Engineering",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "2",
+    "R4",
+    "Karlskoga-Geller\u00e5sen",
+    "31 May",
+    "",
+    "Fredrik Ekblom",
+    "Peggen Andersson",
+    "BMW Dealer Team",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "3",
+    "R5",
+    "Anderstorp",
+    "28 June",
+    "Mattias Ekstr\u00f6m",
+    "Fredrik Ekblom",
+    "Jan Nilsson",
+    "Flash Engineering",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "3",
+    "R6",
+    "Anderstorp",
+    "28 June",
+    "",
+    "Peggen Andersson",
+    "Peggen Andersson",
+    "BMW Dealer Team",
+    "Georg Bakajev"
+   ],
+   [
+    "4",
+    "R7",
+    "Falkenberg",
+    "9 July",
+    "Jens Edman",
+    "Jens Edman",
+    "Jan Nilsson",
+    "Flash Engineering",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "4",
+    "R8",
+    "Falkenberg",
+    "9 July",
+    "",
+    "Mattias Ekstr\u00f6m",
+    "Jens Edman",
+    "Flash Engineering",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "5",
+    "R9",
+    "Ring Knutstorp",
+    "6 September",
+    "Fredrik Ekblom",
+    "Fredrik Ekblom",
+    "Fredrik Ekblom",
+    "BMW Dealer Team",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "5",
+    "R10",
+    "Ring Knutstorp",
+    "6 September",
+    "",
+    "Mats Lind\u00e9n",
+    "Jan Nilsson",
+    "Flash Engineering",
+    "Georg Bakajev"
+   ],
+   [
+    "6",
+    "R11",
+    "Mantorp Park",
+    "27 September",
+    "Tommy Kristoffersson",
+    "Fredrik Ekblom",
+    "Fredrik Ekblom",
+    "BMW Dealer Team",
+    "Pontus M\u00f6rth"
+   ],
+   [
+    "6",
+    "R12",
+    "Mantorp Park",
+    "27 September",
+    "",
+    "Peggen Andersson",
+    "Jan Nilsson",
+    "Flash Engineering",
+    "Pontus M\u00f6rth"
+   ]
+  ],
+  "n_cols": 9,
+  "n_rows": 12
+ },
+ {
+  "id": "nt-6508",
+  "question": "what was the difference in gold medals between russia and china?",
+  "answers": [
+   "59"
+  ],
+  "ground_truth": "59",
+  "table_header": [
+   "Rank",
+   "NPC",
+   "Gold",
+   "Silver",
+   "Bronze",
+   "Total"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "China\u00a0(CHN)",
+    "95",
+    "71",
+    "65",
+    "231"
+   ],
+   [
+    "2",
+    "Russia\u00a0(RUS)",
+    "36",
+    "38",
+    "28",
+    "102"
+   ],
+   [
+    "3",
+    "Great Britain\u00a0(GBR)*",
+    "34",
+    "43",
+    "43",
+    "120"
+   ],
+   [
+    "4",
+    "Ukraine\u00a0(UKR)",
+    "32",
+    "24",
+    "28",
+    "84"
+   ],
+   [
+    "5",
+    "Australia\u00a0(AUS)",
+    "32",
+    "23",
+    "30",
+    "85"
+   ],
+   [
+    "6",
+    "United States\u00a0(USA)",
+    "31",
+    "29",
+    "38",
+    "98"
+   ],
+   [
+    "7",
+    "Brazil\u00a0(BRA)",
+    "21",
+    "14",
+    "8",
+    "43"
+   ],
+   [
+    "8",
+    "Germany\u00a0(GER)",
+    "18",
+    "26",
+    "22",
+    "66"
+   ],
+   [
+    "9",
+    "Poland\u00a0(POL)",
+    "14",
+    "13",
+    "9",
+    "36"
+   ],
+   [
+    "10",
+    "Netherlands\u00a0(NED)",
+    "10",
+    "10",
+    "19",
+    "39"
+   ],
+   [
+    "Total (75 NPCs)",
+    "Total (75 NPCs)",
+    "503",
+    "503",
+    "516",
+    "1522"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 11
+ },
+ {
+  "id": "nt-2037",
+  "question": "which driver scored the most points?",
+  "answers": [
+   "Jeff Gordon"
+  ],
+  "ground_truth": "Jeff Gordon",
+  "table_header": [
+   "Pos",
+   "Grid",
+   "No.",
+   "Driver",
+   "Team",
+   "Manufacturer",
+   "Laps",
+   "Points"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "8",
+    "24",
+    "Jeff Gordon",
+    "Hendrick Motorsports",
+    "Chevrolet",
+    "160",
+    "185"
+   ],
+   [
+    "2",
+    "1",
+    "18",
+    "Bobby Labonte",
+    "Joe Gibbs Racing",
+    "Pontiac",
+    "160",
+    "175"
+   ],
+   [
+    "3",
+    "9",
+    "31",
+    "Mike Skinner",
+    "Richard Childress Racing",
+    "Chevrolet",
+    "160",
+    "165"
+   ],
+   [
+    "4",
+    "25",
+    "12",
+    "Jeremy Mayfield",
+    "Penske-Kranefuss Racing",
+    "Ford",
+    "160",
+    "165"
+   ],
+   [
+    "5",
+    "7",
+    "2",
+    "Rusty Wallace",
+    "Penske Racing South",
+    "Ford",
+    "160",
+    "160"
+   ],
+   [
+    "6",
+    "4",
+    "5",
+    "Terry Labonte",
+    "Hendrick Motorsports",
+    "Chevrolet",
+    "160",
+    "150"
+   ],
+   [
+    "7",
+    "12",
+    "22",
+    "Ward Burton",
+    "Bill Davis Racing",
+    "Pontiac",
+    "160",
+    "146"
+   ],
+   [
+    "8",
+    "39\u2020",
+    "36",
+    "Ernie Irvan",
+    "MB2 Motorsports",
+    "Pontiac",
+    "160",
+    "142"
+   ],
+   [
+    "9",
+    "16",
+    "33",
+    "Ken Schrader",
+    "Andy Petree Racing",
+    "Chevrolet",
+    "160",
+    "138"
+   ],
+   [
+    "10",
+    "5",
+    "3",
+    "Dale Earnhardt",
+    "Richard Childress Racing",
+    "Chevrolet",
+    "160",
+    "139"
+   ],
+   [
+    "11",
+    "37",
+    "4",
+    "Bobby Hamilton",
+    "Morgan-McClure Motorsports",
+    "Chevrolet",
+    "160",
+    "130"
+   ],
+   [
+    "12",
+    "38",
+    "23",
+    "Jimmy Spencer",
+    "Travis Carter Enterprises",
+    "T-Bird",
+    "160",
+    "132"
+   ],
+   [
+    "13",
+    "2",
+    "99",
+    "Jeff Burton",
+    "Roush Racing",
+    "Ford",
+    "160",
+    "124"
+   ],
+   [
+    "14",
+    "14",
+    "43",
+    "John Andretti",
+    "Petty Enterprises",
+    "Pontiac",
+    "160",
+    "121"
+   ],
+   [
+    "15",
+    "31",
+    "94",
+    "Bill Elliott",
+    "Bill Elliott Racing",
+    "Ford",
+    "160",
+    "118"
+   ],
+   [
+    "16",
+    "6",
+    "6",
+    "Mark Martin",
+    "Roush Racing",
+    "Ford",
+    "160",
+    "115"
+   ],
+   [
+    "17",
+    "27",
+    "42",
+    "Joe Nemechek",
+    "Team Sabco",
+    "Chevrolet",
+    "160",
+    "112"
+   ],
+   [
+    "18",
+    "17",
+    "40",
+    "Sterling Marlin",
+    "Team Sabco",
+    "Chevrolet",
+    "160",
+    "109"
+   ],
+   [
+    "19",
+    "33",
+    "9",
+    "Jerry Nadeau #",
+    "Melling Racing",
+    "Ford",
+    "160",
+    "106"
+   ],
+   [
+    "20",
+    "20",
+    "97",
+    "Chad Little",
+    "Roush Racing",
+    "T-Bird",
+    "159",
+    "103"
+   ],
+   [
+    "21",
+    "30",
+    "71",
+    "Dave Marcis",
+    "Marcis Auto Racing",
+    "Chevrolet",
+    "159",
+    "105"
+   ],
+   [
+    "22",
+    "42",
+    "44",
+    "Kyle Petty",
+    "PE2",
+    "Pontiac",
+    "159",
+    "97"
+   ],
+   [
+    "23",
+    "3",
+    "88",
+    "Dale Jarrett",
+    "Robert Yates Racing",
+    "Ford",
+    "159",
+    "99"
+   ],
+   [
+    "24",
+    "23",
+    "91",
+    "Andy Hillenburg",
+    "LJ Racing",
+    "Chevrolet",
+    "159",
+    "91"
+   ],
+   [
+    "25",
+    "19",
+    "11",
+    "Brett Bodine",
+    "Brett Bodine Racing",
+    "Ford",
+    "159",
+    "88"
+   ],
+   [
+    "26",
+    "40",
+    "26",
+    "Johnny Benson, Jr.",
+    "Roush Racing",
+    "Ford",
+    "159",
+    "85"
+   ],
+   [
+    "27",
+    "41",
+    "10",
+    "Ricky Rudd",
+    "Rudd Performance Motorsports",
+    "Ford",
+    "159",
+    "82"
+   ],
+   [
+    "28",
+    "43",
+    "35",
+    "Darrell Waltrip",
+    "Tyler Jet Motorsports",
+    "Pontiac",
+    "158",
+    "79"
+   ],
+   [
+    "29",
+    "24",
+    "96",
+    "Steve Grissom",
+    "American Equipment Racing",
+    "Chevrolet",
+    "157",
+    "76"
+   ],
+   [
+    "30",
+    "35",
+    "50",
+    "Wally Dallenbach, Jr.",
+    "Hendrick Motorsports",
+    "Chevrolet",
+    "156",
+    "73"
+   ],
+   [
+    "31",
+    "29",
+    "21",
+    "Michael Waltrip",
+    "Wood Brothers Racing",
+    "Ford",
+    "144",
+    "70"
+   ],
+   [
+    "32",
+    "11",
+    "28",
+    "Kenny Irwin, Jr. #",
+    "Robert Yates Racing",
+    "Ford",
+    "140",
+    "72"
+   ],
+   [
+    "33",
+    "15",
+    "1",
+    "Steve Park #",
+    "Dale Earnhardt, Inc.",
+    "Chevrolet",
+    "139",
+    "64"
+   ],
+   [
+    "34",
+    "34",
+    "13",
+    "Ted Musgrave",
+    "Elliott-Marino Racing",
+    "Ford",
+    "116",
+    "61"
+   ],
+   [
+    "35",
+    "28",
+    "81",
+    "Kenny Wallace",
+    "FILMAR Racing",
+    "Ford",
+    "113",
+    "58"
+   ],
+   [
+    "36",
+    "26",
+    "07",
+    "Dan Pardus",
+    "Midwest Transit Racing",
+    "Chevrolet",
+    "99",
+    "55"
+   ],
+   [
+    "37",
+    "32",
+    "46",
+    "Jeff Green",
+    "Team Sabco",
+    "Chevrolet",
+    "98",
+    "52"
+   ],
+   [
+    "38",
+    "13",
+    "30",
+    "Derrike Cope",
+    "Bahari Racing",
+    "Pontiac",
+    "67",
+    "49"
+   ],
+   [
+    "39",
+    "36",
+    "98",
+    "Rich Bickle",
+    "Cale Yarborough Racing",
+    "T-Bird",
+    "58",
+    "46"
+   ],
+   [
+    "40",
+    "22",
+    "16",
+    "Kevin Lepage #",
+    "Roush Racing",
+    "Ford",
+    "31",
+    "43"
+   ],
+   [
+    "41",
+    "21",
+    "7",
+    "Geoff Bodine",
+    "Geoff Bodine Racing",
+    "Ford",
+    "31",
+    "40"
+   ],
+   [
+    "42",
+    "10",
+    "55",
+    "Hut Stricklin",
+    "Andy Petree Racing",
+    "Chevrolet",
+    "31",
+    "37"
+   ],
+   [
+    "43",
+    "18",
+    "47",
+    "Billy Standridge",
+    "Standridge Motorsports",
+    "T-Bird",
+    "19",
+    "34"
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 43
+ },
+ {
+  "id": "nt-6413",
+  "question": "what was the name of the last team listed on this chart?",
+  "answers": [
+   "Obuvshchik"
+  ],
+  "ground_truth": "Obuvshchik",
+  "table_header": [
+   "Team",
+   "Location",
+   "Venue",
+   "Capacity",
+   "Position in 1993\u201394"
+  ],
+  "table_rows": [
+   [
+    "Dinamo Minsk",
+    "Minsk",
+    "Dinamo, Minsk",
+    "41,040",
+    "1"
+   ],
+   [
+    "Dinamo-93",
+    "Minsk",
+    "Dinamo, Minsk",
+    "41,040",
+    "2"
+   ],
+   [
+    "Dvina",
+    "Vitebsk",
+    "Central, Vitebsk",
+    "8,300",
+    "3"
+   ],
+   [
+    "Dnepr",
+    "Mogilev",
+    "Spartak, Mogilev",
+    "11,200",
+    "4"
+   ],
+   [
+    "Bobruisk",
+    "Bobruisk",
+    "Spartak, Bobruisk",
+    "3,550",
+    "5"
+   ],
+   [
+    "Torpedo Minsk",
+    "Minsk",
+    "Torpedo, Minsk",
+    "5,200",
+    "6"
+   ],
+   [
+    "Shinnik",
+    "Bobruisk",
+    "Spartak, Bobruisk",
+    "3,550",
+    "7"
+   ],
+   [
+    "Dinamo Brest",
+    "Brest",
+    "Dinamo, Brest",
+    "10,080",
+    "8"
+   ],
+   [
+    "Molodechno",
+    "Molodechno",
+    "City Stadium, Molodechno",
+    "5,500",
+    "9"
+   ],
+   [
+    "Lokomotiv",
+    "Vitebsk",
+    "Central, Vitebsk",
+    "8,300",
+    "10"
+   ],
+   [
+    "Neman",
+    "Grodno",
+    "Neman",
+    "6,300",
+    "11"
+   ],
+   [
+    "Vedrich",
+    "Rechytsa",
+    "Central, Rechytsa",
+    "3,550",
+    "12"
+   ],
+   [
+    "Shakhtyor",
+    "Soligorsk",
+    "Stroitel",
+    "5,000",
+    "13"
+   ],
+   [
+    "Torpedo Mogilev",
+    "Mogilev",
+    "Torpedo, Mogilev",
+    "3,500",
+    "14"
+   ],
+   [
+    "Gomselmash",
+    "Gomel",
+    "Central, Gomel",
+    "11,800",
+    "15"
+   ],
+   [
+    "Obuvshchik",
+    "Lida",
+    "City Stadium, Lida",
+    "4,000",
+    "First league, 1"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-4458",
+  "question": "what is the number of capacity for laxalp 2",
+  "answers": [
+   "1214"
+  ],
+  "ground_truth": "1214",
+  "table_header": [
+   "Name",
+   "type",
+   "elevation\\n(ground station)",
+   "elevation\\n(mountain station)",
+   "slope length",
+   "capacity\\n(persons/hour)",
+   "construction year"
+  ],
+  "table_rows": [
+   [
+    "Fiesch- -alp 1+2",
+    "cable car",
+    "1074",
+    "2227",
+    "2940",
+    "800",
+    "1973"
+   ],
+   [
+    "Fiesch- -alp 3+4",
+    "cable car",
+    "1071",
+    "2221",
+    "2937",
+    "270",
+    "1966"
+   ],
+   [
+    "Fiescheralp-Eggishorn",
+    "cable car",
+    "2225",
+    "2879",
+    "1836",
+    "495",
+    "1968"
+   ],
+   [
+    "Heimat",
+    "chairlift",
+    "1858",
+    "2301",
+    "1144",
+    "1400",
+    "2000"
+   ],
+   [
+    "Talegga",
+    "chairlift",
+    "2208",
+    "2727",
+    "1782",
+    "2200",
+    "2010"
+   ],
+   [
+    "Flesch",
+    "chairlift",
+    "2208",
+    "2630",
+    "1357",
+    "2400",
+    "1993"
+   ],
+   [
+    "Trainer 1",
+    "surface lift",
+    "2206",
+    "2264",
+    "218",
+    "1200",
+    "1987"
+   ],
+   [
+    "Trainer 2",
+    "surface lift",
+    "2206",
+    "2264",
+    "218",
+    "1200",
+    "1987"
+   ],
+   [
+    "Laxeralp 1",
+    "surface lift",
+    "2135",
+    "2179",
+    "396",
+    "1100",
+    "1981"
+   ],
+   [
+    "Laxeralp 2",
+    "surface lift",
+    "2179",
+    "2280",
+    "394",
+    "1214",
+    "1981"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-10680",
+  "question": "how many license plates were issued before 1960?",
+  "answers": [
+   "6"
+  ],
+  "ground_truth": "6",
+  "table_header": [
+   "First issued",
+   "Design",
+   "Slogan",
+   "Serial format",
+   "Serials issued",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "1913",
+    "Red lettering and white background painted on porcelain-coated steel base",
+    "None",
+    "12345",
+    "unknown",
+    "Steel registration seal on right side between \"N.J.\" and \"13\""
+   ],
+   [
+    "1933",
+    "Orange lettering embossed on black base",
+    "None",
+    "A12345",
+    "unknown",
+    "County letter code at left"
+   ],
+   [
+    "1947",
+    "Blue on straw",
+    "None",
+    "",
+    "",
+    ""
+   ],
+   [
+    "1951",
+    "White on black",
+    "None",
+    "",
+    "",
+    ""
+   ],
+   [
+    "1952-56",
+    "Orange lettering embossed on black base",
+    "None",
+    "A/B 123; A/B 12C; A/B 1C2; A/B C12; A/B 1234",
+    "unknown",
+    "Tab for subsequent years inserted over original date"
+   ],
+   [
+    "1959",
+    "black on buff, non-reflective, N.J. embossed in wide block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "ABC-123",
+    "AAA-100 to RHZ-9991, 2",
+    ""
+   ],
+   [
+    "1960",
+    "black on buff, non-reflective, Contr. Equip. embossed in wide block font above numbers",
+    "IN TRANSIT embossed in plain block letters below numbers",
+    "F-86-3",
+    "F-11-3 TO F-99-31, 2, 5",
+    "FROM THE COLLECTION OF RICHARD WATSON"
+   ],
+   [
+    "1969-1970",
+    "black on buff, non-reflective, N.J. embossed in wide block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "ABC-123",
+    "RIA-100 to SZZ-9991, 2, 5",
+    ""
+   ],
+   [
+    "1970",
+    "black on buff, non-reflective, N.J. embossed in wide block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "ABC-123",
+    "UAA-100 to YZZ-9991, 2, 5",
+    ""
+   ],
+   [
+    "1973",
+    "black on buff, non-reflective, N.J. embossed in wide block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "123-ABC",
+    "100-AAA to 999-HBZ1, 2, 5",
+    ""
+   ],
+   [
+    "1977",
+    "black on buff, non-reflective, NEW JERSEY embossed in plain block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "123-ABC",
+    "100-HCA to 999-KZZ1, 2, 5",
+    ""
+   ],
+   [
+    "1979",
+    "yellow on blue, non-reflective, NEW JERSEY embossed in plain block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "123-ABC; New Jersey state icon used as dash",
+    "100-LAA to 999-ZZZ1, 2, 5",
+    ""
+   ],
+   [
+    "1985",
+    "yellow on blue, non-reflective, NEW JERSEY embossed in plain block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "ABC-123; New Jersey state icon used as dash",
+    "ZAA-100 to ZZZ-9992, 3, 5",
+    ""
+   ],
+   [
+    "1985",
+    "yellow on blue, non-reflective, NEW JERSEY embossed in plain block font above numbers",
+    "GARDEN STATE embossed in plain block letters below numbers",
+    "ABC-12D; New Jersey state icon used as dash",
+    "AAA-10A to HZZ-99Z2, 3, 5",
+    ""
+   ],
+   [
+    "1992",
+    "black embossed numbers on yellow to white gradient, reflective; New Jersey screened in black plain serifed font above numbers; black outlines for registration stickers at top corners",
+    "Garden State screened in black plain block letters below numbers",
+    "ABC1234; New Jersey state icon used as dash",
+    "AAA1000 to ADJ99993, 4, 5",
+    ""
+   ],
+   [
+    "1993",
+    "black embossed numbers on yellow to white gradient, reflective; New Jersey screened in black plain serifed font above numbers; black outlines for registration stickers at top corners",
+    "Garden State screened in black plain block letters below numbers",
+    "AB-123D; New Jersey state icon used as dash",
+    "BA-100A to ZZ-999Z 3, 4, 5",
+    ""
+   ],
+   [
+    "1999",
+    "black embossed numbers on yellow to white gradient, reflective; New Jersey screened in black plain serifed font above numbers; black outlines for registration stickers at top corners",
+    "Garden State screened in black plain block letters below numbers",
+    "ABC-12D; New Jersey state icon used as dash",
+    "JAA-10A to VZT-99Z 3, 4, 5",
+    ""
+   ],
+   [
+    "2007",
+    "black embossed numbers on yellow to white gradient, reflective; New Jersey screened in black plain serifed font above numbers",
+    "Garden State screened in black plain block letters below numbers",
+    "ABC-12D; New Jersey state icon used as dash",
+    "VZU-10A to ZZZ-99Z 3, 4, 5",
+    "Security threads added to vertical center of plate somewhere in the Z series"
+   ],
+   [
+    "2010",
+    "black embossed numbers on yellow to white gradient, reflective; New Jersey screened in black plain serifed font above numbers; security threads added to plate",
+    "Garden State screened in black plain block letters below numbers",
+    "A12-ABC; New Jersey state icon used as dash",
+    "A10-AAA to present 4, 5",
+    "K43-ECG (current highest series known on 03-26-2014)"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 19
+ },
+ {
+  "id": "nt-9923",
+  "question": "what is the last product represented in the chart?",
+  "answers": [
+   "Wolfram Alpha"
+  ],
+  "ground_truth": "Wolfram Alpha",
+  "table_header": [
+   "Product",
+   "Main Functionality",
+   "Input Format",
+   "Output Format",
+   "Platform",
+   "License and cost",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "AllegroGraph",
+    "Graph Database. RDF with Gruff visualization tool",
+    "RDF",
+    "RDF",
+    "Linux, Mac, Windows",
+    "Free and Commercial",
+    "AllegroGraph is a graph database. It is disk-based, fully transactional OLTP database that stores data structured in graphs rather than in tables. AllegroGraph includes a Social Networking Analytics library."
+   ],
+   [
+    "EgoNet",
+    "Ego-centric network analysis",
+    "Conducts interviews or takes any valid XML file",
+    "Output to CSV and convertible to almost any other format",
+    "Any system supporting Java",
+    "Open Source, seeking contributors",
+    "Egonet is a program for the collection and analysis of egocentric network data. Egonet contains facilities to assist in creating the questionnaire, collecting the data and providing general global network measures and data matrixes that can be used in further analysis by other software programs."
+   ],
+   [
+    "Gephi",
+    "Graph exploration and manipulation software",
+    "GraphViz(.dot), Graphlet(.gml), GUESS(.gdf), LEDA(.gml), NetworkX(.graphml, .net), NodeXL(.graphml, .net), Pajek(.net, .gml), Sonivis(.graphml), Tulip(.tlp, .dot), UCINET(.dl), yEd(.gml), Gephi (.gexf), Edge list(.csv), databases",
+    "GUESS(.gdf), Gephi(.gexf), .svg, .png",
+    "Any system supporting Java 1.6 and OpenGL",
+    "Open Source (GPL3), seeking contributors",
+    "Gephiis an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs. It is a tool for people that have to explore and understand graphs. The user interacts with the representation, manipulate the structures, shapes and colors to reveal hidden properties. It uses a 3D render engine to display large networks in real-time and to speed up the exploration. A flexible and multi-task architecture brings new possibilities to work with complex data sets and produce valuable visual results."
+   ],
+   [
+    "GraphStream",
+    "Dynamic Graph Library",
+    "GraphStream(.dgs), GraphViz(.dot), Graphlet(.gml), edge list",
+    "GraphStream(.dgs), GraphViz(.dot), Graphlet(.gml), image sequence",
+    "Any system supporting Java",
+    "Open Source",
+    "With GraphStream you deal with graphs. Static and Dynamic.\\nYou create them from scratch, from a file or any source. You display and render them."
+   ],
+   [
+    "Graph-tool",
+    "Python module for efficient analysis and visualization of graphs.",
+    "GraphViz(.dot), GraphML",
+    "GraphViz(.dot), GraphML, .bmp, .canon, .cmap, .eps, .fig, .gd, .gd2, .gif, .gtk, .ico, .imap, .cmapx, .ismap, .jpeg, .pdf, .plain, .png, .ps, .ps2, .svg, .svgz, .tif, .vml, .vmlz, .vrml, .wbmp, .xlib",
+    "GNU/Linux, Mac",
+    "Free Software (GPL3)",
+    "Graph-tool is a python module for efficient analysis of graphs. Its core data structures and algorithms are implemented in C++, with heavy use of Template metaprogramming, based on the Boost Graph Library. It contains a comprehensive list of algorithms."
+   ],
+   [
+    "Graphviz",
+    "Graph vizualisation software",
+    "GraphViz(.dot)",
+    ".bmp, .canon, .cmap, .eps, .fig, .gd, .gd2, .gif, .gtk, .ico, .imap, .cmapx, .ismap, .jpeg, .pdf, .plain, .png, .ps, .ps2, .svg, .svgz, .tif, .vml, .vmlz, .vrml, .wbmp, .xlib",
+    "Linux, Mac, Windows",
+    "Open Source (CPL)",
+    "Graphviz is open source graph visualization framework. It has several main graph layout programs suitable for social network visualization."
+   ],
+   [
+    "Java Universal Network/Graph (JUNG) Framework",
+    "network and graph manipulation, analysis, and visualization",
+    "built-in support for GraphML, Pajek, and some text formats; user can create parsers for any desired format",
+    "built-in support for GraphML, Pajek, and some text formats; user can create exporters for any desired format",
+    "Any platform supporting Java",
+    "Open source (BSD license)",
+    "JUNG is a Java API and library that provides a common and extensible language for the modeling, analysis, and visualization of relational data. It supports a variety of graph types (including hypergraphs), supports graph elements of any type and with any properties, enables customizable visualizations, and includes algorithms from graph theory, data mining, and social network analysis (e.g., clustering, decomposition, optimization, random graph generation, statistical analysis, distances, flows, and centrality (PageRank, HITS, etc.)). It is limited only by the amount of memory allocated to Java."
+   ],
+   [
+    "Mathematica",
+    "Graph analysis, statistics, data visualization, optimization, image recognition.",
+    "3DS, ACO, Affymetrix, AIFF, ApacheLog, ArcGRID, AU, AVI, Base64, BDF, Binary, Bit, BMP, Byte, BYU, BZIP2, CDED, CDF, Character16, Character8, CIF, Complex128, Complex256, Complex64, CSV, CUR, DBF, DICOM, DIF, DIMACS, Directory, DOT, DXF, EDF, EPS, ExpressionML, FASTA, FITS, FLAC, GenBank, GeoTIFF, GIF, GPX, Graph6, Graphlet, GraphML, GRIB, GTOPO30, GXL, GZIP, HarwellBoeing, HDF, HDF5, HTML, ICO, ICS, Integer128, Integer16, Integer24, Integer32, Integer64, Integer8, JPEG, JPEG2000, JSON, JVX, KML, LaTeX, LEDA, List, LWO, MAT, MathML, MBOX, MDB, MGF, MMCIF, MOL, MOL2, MPS, MTP, MTX, MX, NASACDF, NB, NDK, NetCDF, NEXUS, NOFF, OBJ, ODS, OFF, Package, Pajek, PBM, PCX, PDB, PDF, PGM, PLY, PNG, PNM, PPM, PXR, QuickTime, RawBitmap, Real128, Real32, Real64, RIB, RSS, RTF, SCT, SDF, SDTS, SDTSDEM, SHP, SMILES, SND, SP3, Sparse6, STL, String, SurferGrid, SXC, Table, TAR, TerminatedString, Text, TGA, TGF, TIFF, TIGER, TLE, TSV, USGSDEM, UUE, VCF, VCS, VTK, WAV, Wave64, WDX, XBM, XHTML, XHTMLMathML, XLS, XLSX, XML, XPORT, XYZ, ZIP",
+    "3DS, ACO, AIFF, AU, AVI, Base64, Binary, Bit, BMP, Byte, BYU, BZIP2, C, CDF, Character16, Character8, Complex128, Complex256, Complex64, CSV, DICOM, DIF, DIMACS, DOT, DXF, EMF, EPS, ExpressionML, FASTA, FITS, FLAC, FLV, GIF, Graph6, Graphlet, GraphML, GXL, GZIP, HarwellBoeing, HDF, HDF5, HTML, Integer128, Integer16, Integer24, Integer32, Integer64, Integer8, JPEG, JPEG2000, JSON, JVX, KML, LEDA, List, LWO, MAT, MathML, Maya, MGF, MIDI, MOL, MOL2, MTX, MX, NASACDF, NB, NetCDF, NEXUS, NOFF, OBJ, OFF, Package, Pajek, PBM, PCX, PDB, PDF, PGM, PLY, PNG, PNM, POV, PPM, PXR, QuickTime, RawBitmap, Real128, Real32, Real64, RIB, RTF, SCT, SDF, SND, Sparse6, STL, String, SurferGrid, SVG, SWF, Table, TAR, TerminatedString, TeX, Text, TGA, TGF, TIFF, TSV, UUE, VideoFrames, VRML, VTK, WAV, Wave64, WDX, WMF, X3D, XBM, XHTML, XHTMLMathML, XLS, XLSX, XML, XYZ, ZIP, ZPR",
+    "Windows, Macintosh, Linux",
+    "Commercial",
+    "Mathematica is a general purpose computation and analysis environment."
+   ],
+   [
+    "Netlytic",
+    "Cloud based text & social network analyzer",
+    "RSS, Google Drive, Twitter, YouTube comments, .csv, .txt",
+    ".csv, .mds, .dl (UCINET), .net (Pajek)",
+    "Windows, Linux, Mac",
+    "Freemium",
+    "Netlytic allows users to automatically summarize large volumes of text & discover social networks from conversations on social media such as Twitter, YouTube, blogs, online forums & chats. Netlytic can automatically build chain networks & personal name networks, based on who replies to whom & who mentioned whom."
+   ],
+   [
+    "Network Overview Discovery Exploration for Excel (NodeXL)",
+    "Network overview, discovery and exploration",
+    "email, .csv (text), .txt, .xls (Excel), .xslt (Excel 2007, 2010, 2013), .net (Pajek), .dl (UCINet), GraphML",
+    ".csv (text), .txt, .xls (Excel), .xslt (Excel 2007), .dl (UCINet), GraphML",
+    "Windows XP/Vista/7",
+    "Free (Ms-PL)",
+    "NodeXL is a free and open Excel 2007, 2010, 2013 Add-in and C#/.Net library for network analysis and visualization. It integrates into Excel 2007, 2010, 2013 and adds directed graph as a chart type to the spreadsheet and calculates a core set of network metrics and scores. Supports extracting email, Twitter, YouTube, Facebook, WWW, Wiki and flickr social networks. Accepts edge lists and matrix representations of graphs. Allows for easy and automated manipulation and filtering of underlying data in spreadsheet format. Multiple network visualization layouts. Reads and writes Pajek, UCINet and GraphML files."
+   ],
+   [
+    "NetMiner 4",
+    "All-in-one Software for Network Analysis and Visualization",
+    ".xls(Excel),.xlsx (Excel 2007), .csv(text), .dl(UCINET), .net(Pajek), .dat(StOCNET), .gml; NMF(proprietary)",
+    ".xls(Excel),.xlsx (Excel 2007), .csv(text), .dl(UCINET), .net(Pajek), .dat(StOCNET), NMF(proprietary)",
+    "Microsoft Windows",
+    "Commercial with free trial",
+    "NetMiner is a software tool for exploratory analysis and visualization of large network data. NetMiner 4 embed internal Python-based script engine which equipped with the automatic Script Generator for unskilled users. Then the users can operate NetMiner 4 with existing GUI or programmable script language.\\nMain features include\u00a0: analysis of large networks(+10,000,000 nodes), comprehensive network measures and models, both exploratory & confirmatory analysis, interactive visual analytics, what-if network analysis, built-in statistical procedures and charts, full documentation(1,000+ pages of User's Manual), expressive network data model, facilities for data & workflow management, Python-based Script workbench and user-friendliness."
+   ],
+   [
+    "NetworkX",
+    "Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.",
+    "GML, Graph6/Sparse6, GraphML, GraphViz (.dot), NetworkX (.yaml, adjacency lists, and edge lists), Pajek (.net), LEDA",
+    "GML, Gnome Dia, Graph6/Sparse6, GraphML, GraphViz (.dot), NetworkX (.yaml, adjacency lists, and edge lists), Pajek (.net), LEDA, and assorted image formats (.jpg, .png, .ps, .svg, et al.)",
+    "Open source (GPL and similar)",
+    "Free",
+    "NetworkX (NX) is a toolset for graph creation, manipulation, analysis, and visualization. User interface is through scripting/command-line provided by Python. NX includes a several algorithms, metrics and graph generators. Visualization is provided through pylab and graphviz.\\nNX is an open-source project, in active development since 2004 with an open bug-tracking site, and user forums. Development is sponsored by Los Alamos National Lab."
+   ],
+   [
+    "R",
+    "Social network analysis within the versatile and popular R environment",
+    "R will read in almost any format data file",
+    "R has write capability for most data formats",
+    "Windows, Linux, Mac",
+    "Open source",
+    "R contains several packages relevant for social network analysis: igraph is a generic network analysis package; sna performs sociometric analysis of networks; network manipulates and displays network objects; tnet performs analysis of weighted networks, two-mode networks, and longitudinal networks; ergm is a set of tools to analyze and simulate networks based on exponential random graph models exponential random graph models; Bergm provides tools for Bayesian analysis for exponential random graph models, hergm implements hierarchical exponential random graph models; 'RSiena' allows the analyses of the evolution of social networks using dynamic actor-oriented models; latentnet has functions for network latent position and cluster models; degreenet provides tools for statistical modeling of network degree distributions; and networksis provides tools for simulating bipartite networks with fixed marginals."
+   ],
+   [
+    "SVAT",
+    "Visual analytics for investigation",
+    "GraphViz(.dot), Graphlet(.gml), GUESS(.gdf), LEDA(.gml), NetworkX(.graphml, .net), NodeXL(.graphml, .net), Pajek(.net, .gml), Sonivis(.graphml), Tulip(.tlp, .dot), UCINET(.dl), yEd(.gml), Gephi (.gexf), Edge list(.csv), databases - Oracle, MSSQL, PostgreSQL, MySQL, Webservices...",
+    "GUESS(.gdf), Gephi(.gexf), .svg, .png",
+    "Any system supporting Java 1.6 and OpenGL",
+    "Closed source modules, Open Source modules from Gephi",
+    "Commercial tool based on Gephi."
+   ],
+   [
+    "Tulip",
+    "Social Network Analysis tool",
+    "Tulip format (.tlp), GraphViz (.dot), GML, txt, adjacency matrix",
+    ".tlp, .gml",
+    "Windows Vista, XP, 7/ Linux / Mac OS",
+    "LGPL",
+    "Tulip is an information visualization framework dedicated to the analysis and visualization of relational data. Tulip aims to provide the developer with a complete library, supporting the design of interactive information visualization applications for relational data that can be tailored to the problems he or she is addressing."
+   ],
+   [
+    "visone",
+    "Visual Social Network Analyses and Exploration",
+    "many formats",
+    "many formats",
+    "Windows, Linux, Mac OS (Java based)",
+    "Free (also for commercial use)",
+    "visone is a software for the analysis and visualization of social networks. It is currently developed by Algorithmics group at the University of Konstanz."
+   ],
+   [
+    "Wolfram Alpha",
+    "Graph analysis, time series analysis, categorical data analysis",
+    "Facebook API",
+    "Many formats",
+    "Web service",
+    "Free",
+    "Wolfram Alpha is a general computational knowledge engine answering queries on many knowledge domains. Give it the input \"Facebook report\" and it will answer queries on analysis of your social network data,"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 17
+ },
+ {
+  "id": "nt-12420",
+  "question": "what number of appearances were on the tvb network?",
+  "answers": [
+   "7"
+  ],
+  "ground_truth": "7",
+  "table_header": [
+   "Year",
+   "Title",
+   "Role",
+   "Network",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "2000",
+    "Youth Y2K\\n\u9752\u6625@Y2K",
+    "Cheng Shasha",
+    "",
+    ""
+   ],
+   [
+    "2001",
+    "The Monkey King: Quest for the Sutra\\n\u9f4a\u5929\u5927\u8056\u5b6b\u609f\u7a7a",
+    "Purple Orchid",
+    "TVB",
+    ""
+   ],
+   [
+    "2001",
+    "\u85cd\u5bf6\u77f3\u7684\u591c\u7a7a",
+    "Shek Po-yi",
+    "TVB",
+    "Eason Chan's music video"
+   ],
+   [
+    "2002",
+    "\u4e00Twins\u96f6\u4e00\u591c",
+    "Ah Sa",
+    "TVB",
+    "Music video"
+   ],
+   [
+    "2003",
+    "Triumph in the Skies\\n\u885d\u4e0a\u96f2\u9704",
+    "Charlene",
+    "TVB",
+    "Cameo"
+   ],
+   [
+    "2003",
+    "All About Boy'z\\n\u4e00\u8d77\u559d\u91c7",
+    "Langlang Princess",
+    "now.com.hk",
+    "Appearance in episode 2"
+   ],
+   [
+    "2003",
+    "2\u534a3\u66f4\u4e4b\u56f0\u8eca\u7acb",
+    "Ah Sa",
+    "now.com.hk",
+    ""
+   ],
+   [
+    "2003",
+    "\u611b\u5728\u967d\u5149\u4e0b",
+    "AIDS patient",
+    "",
+    "Music video produced to support the global anti-AIDS campaign"
+   ],
+   [
+    "2004",
+    "Kung Fu Soccer\\n\u529f\u592b\u8db3\u7403",
+    "",
+    "TVB",
+    "Guest star"
+   ],
+   [
+    "2004",
+    "Sunshine Heartbeat\\n\u8d64\u6c99\u5370\u8a18@\u56db\u8449\u8349.2",
+    "Ah Sa",
+    "TVB",
+    "Guest star"
+   ],
+   [
+    "2004",
+    "\u5bb6\u6709\u5bf6\u8c9d",
+    "Ah Sa",
+    "",
+    "Guest star"
+   ],
+   [
+    "2007",
+    "Colours of Love\\n\u68ee\u4e4b\u611b\u60c5",
+    "Wai-fong / Ching-lan",
+    "TVB",
+    ""
+   ],
+   [
+    "2007",
+    "Life Off Stage",
+    "",
+    "",
+    ""
+   ],
+   [
+    "2010",
+    "Calling for Love!\\n\u547c\u53eb\u5927\u660e\u661f",
+    "Chen Dexin",
+    "CTS",
+    ""
+   ],
+   [
+    "2011",
+    "The Legend of Swordman\\n\u528d\u4fe0\u60c5\u7de3",
+    "Tang Xiaowan / Ning Xin",
+    "",
+    ""
+   ],
+   [
+    "2012",
+    "Happy Marshal\\n\u6b61\u6a02\u5143\u5e25",
+    "Little Dragon Girl (Xiao Long Nu)",
+    "",
+    ""
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-2954",
+  "question": "which team has had the most queensland cup premierships?",
+  "answers": [
+   "Toowoomba Clydesdales"
+  ],
+  "ground_truth": "Toowoomba Clydesdales",
+  "table_header": [
+   "Team",
+   "Location",
+   "Home Ground",
+   "First year in\\nQld Cup",
+   "Last year in\\nQld Cup",
+   "Qld Cup\\nPremierships"
+  ],
+  "table_rows": [
+   [
+    "Aspley Broncos",
+    "Brisbane",
+    "Bishop Park",
+    "2007",
+    "2007",
+    "Nil"
+   ],
+   [
+    "Brothers-Valleys",
+    "Brisbane",
+    "O'Callaghan Park",
+    "2004",
+    "2004",
+    "Nil"
+   ],
+   [
+    "Bundaberg Grizzlies",
+    "Bundaberg",
+    "Salter Oval",
+    "1996",
+    "1998",
+    "Nil"
+   ],
+   [
+    "Cairns Cyclones",
+    "Cairns",
+    "Barlow Park",
+    "1996",
+    "2000",
+    "Nil"
+   ],
+   [
+    "Central Capras",
+    "Rockhampton",
+    "Browne Park",
+    "1996",
+    "1997",
+    "Nil"
+   ],
+   [
+    "Gold Coast Vikings",
+    "Gold Coast",
+    "Owen Park and Carrara Stadium",
+    "1998",
+    "1998",
+    "Nil"
+   ],
+   [
+    "Logan Scorpions",
+    "Logan City",
+    "Meakin Park",
+    "1996",
+    "2002",
+    "Nil"
+   ],
+   [
+    "Mackay Sea Eagles",
+    "Mackay",
+    "Mackay Junior Rugby League Ground",
+    "1996",
+    "1996",
+    "Nil"
+   ],
+   [
+    "North Queensland Young Guns",
+    "Townsville",
+    "Dairy Farmers Stadium",
+    "2002",
+    "2007",
+    "2005"
+   ],
+   [
+    "Past Brothers",
+    "Brisbane",
+    "Corbett Park, Crosby Park, Lang Park, ANZ Stadium",
+    "1996",
+    "1998",
+    "Nil"
+   ],
+   [
+    "Port Moresby Vipers",
+    "Port Moresby",
+    "Lloyd Robson Oval",
+    "1996",
+    "1997",
+    "Nil"
+   ],
+   [
+    "Souths Magpies",
+    "Brisbane",
+    "Davies Park",
+    "1996",
+    "2002",
+    "Nil"
+   ],
+   [
+    "Sunshine Coast Falcons",
+    "Sunshine Coast",
+    "Quad Park",
+    "1996",
+    "1996",
+    "Nil"
+   ],
+   [
+    "Townsville Stingers",
+    "Townsville",
+    "Dairy Farmers Stadium, Townsville Sports Reserve",
+    "1998",
+    "1998",
+    "Nil"
+   ],
+   [
+    "Toowoomba Clydesdales",
+    "Toowoomba",
+    "Athletic Oval (Clive Berghofer Stadium)",
+    "1996",
+    "2006",
+    "1996, 2001"
+   ],
+   [
+    "Wests Panthers",
+    "Brisbane",
+    "Purtell Park",
+    "1996",
+    "2003",
+    "Nil"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-12953",
+  "question": "what was the finishing place after the 2002-2003 season?",
+  "answers": [
+   "11th"
+  ],
+  "ground_truth": "11th",
+  "table_header": [
+   "Season",
+   "Tier",
+   "Division",
+   "Place"
+  ],
+  "table_rows": [
+   [
+    "1970\u201301",
+    "6",
+    "Regional",
+    "\u2014"
+   ],
+   [
+    "2001/02",
+    "6",
+    "1\u00aa Reg.",
+    "\u2014"
+   ],
+   [
+    "2002/03",
+    "5",
+    "Reg. Pref.",
+    "11th"
+   ],
+   [
+    "2003/04",
+    "5",
+    "Reg. Pref.",
+    "9th"
+   ],
+   [
+    "2004/05",
+    "5",
+    "Reg. Pref.",
+    "1st"
+   ],
+   [
+    "2005/06",
+    "4",
+    "3\u00aa",
+    "20th"
+   ],
+   [
+    "2006/07",
+    "5",
+    "Reg. Pref.",
+    "3rd"
+   ],
+   [
+    "2007/08",
+    "5",
+    "Reg. Pref.",
+    "1st"
+   ],
+   [
+    "2008/09",
+    "4",
+    "3\u00aa",
+    "16th"
+   ],
+   [
+    "2009/10",
+    "4",
+    "3\u00aa",
+    "17th"
+   ],
+   [
+    "2010/11",
+    "4",
+    "3\u00aa",
+    "18th"
+   ],
+   [
+    "2011/12",
+    "5",
+    "Reg. Pref.",
+    "2nd"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 12
+ },
+ {
+  "id": "nt-10624",
+  "question": "how many super bowls did dan reeves win?",
+  "answers": [
+   "0"
+  ],
+  "ground_truth": "0",
+  "table_header": [
+   "Team",
+   "Year",
+   "Regular Season\\nWon",
+   "Regular Season\\nLost",
+   "Regular Season\\nTies",
+   "Regular Season\\nWin\u00a0%",
+   "Regular Season\\nFinish",
+   "Post Season\\nWon",
+   "Post Season\\nLost",
+   "Post Season\\nWin\u00a0%",
+   "Post Season\\nResult"
+  ],
+  "table_rows": [
+   [
+    "DEN",
+    "1981",
+    "10",
+    "6",
+    "0",
+    ".625",
+    "2nd in AFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "DEN",
+    "1982",
+    "2",
+    "7",
+    "0",
+    ".222",
+    "5th in AFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "DEN",
+    "1983",
+    "9",
+    "7",
+    "0",
+    ".563",
+    "2nd in AFC West",
+    "0",
+    "1",
+    ".000",
+    "Lost to Seattle Seahawks in AFC Wild Card Game."
+   ],
+   [
+    "DEN",
+    "1984",
+    "13",
+    "3",
+    "0",
+    ".813",
+    "1st in AFC West",
+    "0",
+    "1",
+    ".000",
+    "Lost to Pittsburgh Steelers in AFC Divisional Game."
+   ],
+   [
+    "DEN",
+    "1985",
+    "11",
+    "5",
+    "0",
+    ".688",
+    "2nd in AFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "DEN",
+    "1986",
+    "11",
+    "5",
+    "0",
+    ".688",
+    "1st in AFC West",
+    "2",
+    "1",
+    ".667",
+    "Lost to New York Giants in Super Bowl XXI."
+   ],
+   [
+    "DEN",
+    "1987",
+    "10",
+    "4",
+    "1",
+    ".714",
+    "1st in AFC West",
+    "2",
+    "1",
+    ".667",
+    "Lost to Washington Redskins in Super Bowl XXII."
+   ],
+   [
+    "DEN",
+    "1988",
+    "8",
+    "8",
+    "0",
+    ".500",
+    "2nd in AFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "DEN",
+    "1989",
+    "11",
+    "5",
+    "0",
+    ".688",
+    "1st in AFC West",
+    "2",
+    "1",
+    ".667",
+    "Lost to San Francisco 49ers in Super Bowl XXIV."
+   ],
+   [
+    "DEN",
+    "1990",
+    "5",
+    "11",
+    "0",
+    ".313",
+    "5th in AFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "DEN",
+    "1991",
+    "12",
+    "4",
+    "0",
+    ".750",
+    "1st in AFC West",
+    "1",
+    "1",
+    ".500",
+    "Lost to Buffalo Bills in AFC Championship Game."
+   ],
+   [
+    "DEN",
+    "1992",
+    "8",
+    "8",
+    "0",
+    ".500",
+    "3rd in AFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "DEN Total",
+    "DEN Total",
+    "110",
+    "73",
+    "1",
+    ".601",
+    "",
+    "7",
+    "6",
+    ".538",
+    ""
+   ],
+   [
+    "NYG",
+    "1993",
+    "11",
+    "5",
+    "0",
+    ".688",
+    "2nd in NFC East",
+    "1",
+    "1",
+    ".500",
+    "Lost to San Francisco 49ers in NFC Divisional Game."
+   ],
+   [
+    "NYG",
+    "1994",
+    "9",
+    "7",
+    "0",
+    ".563",
+    "2nd in NFC East",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "NYG",
+    "1995",
+    "5",
+    "11",
+    "0",
+    ".313",
+    "4th in NFC East",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "NYG",
+    "1996",
+    "6",
+    "10",
+    "0",
+    ".375",
+    "5th in NFC East",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "NYG Total",
+    "NYG Total",
+    "31",
+    "33",
+    "0",
+    ".484",
+    "",
+    "1",
+    "1",
+    ".500",
+    ""
+   ],
+   [
+    "ATL",
+    "1997",
+    "7",
+    "9",
+    "0",
+    ".438",
+    "2nd in NFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "ATL",
+    "1998",
+    "14",
+    "2",
+    "0",
+    ".875",
+    "1st in NFC West",
+    "2",
+    "1",
+    ".667",
+    "Lost to Denver Broncos in Super Bowl XXXIII."
+   ],
+   [
+    "ATL",
+    "1999",
+    "5",
+    "11",
+    "0",
+    ".313",
+    "3rd in NFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "ATL",
+    "2000",
+    "4",
+    "12",
+    "0",
+    ".250",
+    "5th in NFC West",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "ATL",
+    "2001",
+    "7",
+    "9",
+    "0",
+    ".438",
+    "3rd in NFC South",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "ATL",
+    "2002",
+    "9",
+    "6",
+    "1",
+    ".594",
+    "2nd in NFC South",
+    "1",
+    "1",
+    ".500",
+    "Lost to Philadelphia Eagles in NFC Divisional Game."
+   ],
+   [
+    "ATL",
+    "2003",
+    "3",
+    "10",
+    "0",
+    ".231",
+    "4th in NFC South",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "ATL Total",
+    "ATL Total",
+    "49",
+    "59",
+    "1",
+    ".454",
+    "",
+    "3",
+    "2",
+    ".600",
+    ""
+   ],
+   [
+    "Total",
+    "Total",
+    "190",
+    "165",
+    "2",
+    ".535",
+    "",
+    "11",
+    "9",
+    ".550",
+    ""
+   ]
+  ],
+  "n_cols": 11,
+  "n_rows": 27
+ },
+ {
+  "id": "nt-1117",
+  "question": "which county has the most amount of winners?",
+  "answers": [
+   "Kilkenny"
+  ],
+  "ground_truth": "Kilkenny",
+  "table_header": [
+   "Year",
+   "Winner",
+   "County",
+   "Opponent",
+   "County"
+  ],
+  "table_rows": [
+   [
+    "2013",
+    "Rower-Inistioge 1-09",
+    "Kilkenny",
+    "Buffers Alley 0-10",
+    "Wexford"
+   ],
+   [
+    "2012",
+    "Clara 3-20",
+    "Kilkenny",
+    "Oylegate/Glenbrien 0-05",
+    "Wexford"
+   ],
+   [
+    "2011",
+    "Mount Leinster Rangers 1-13",
+    "Carlow",
+    "Celbridge 0-13",
+    "Kildare"
+   ],
+   [
+    "2010",
+    "Dicksboro 5-09",
+    "Kilkenny",
+    "Celbridge 0-08",
+    "Kildare"
+   ],
+   [
+    "2009",
+    "St. Lachtains 1-08",
+    "Kilkenny",
+    "Mount Leinster Rangers 0-07",
+    "Carlow"
+   ],
+   [
+    "2008",
+    "Kilmessan 1-07",
+    "Meath",
+    "Erin's Own 1-06",
+    "Kilkenny"
+   ],
+   [
+    "2007",
+    "Clonkill 1-15",
+    "Westmeath",
+    "Ferns St. Aiden's 3-07",
+    "Wexford"
+   ],
+   [
+    "2006",
+    "Ardclough 2-06",
+    "Kildare",
+    "Raharney 2-04",
+    "Westmeath"
+   ],
+   [
+    "2005",
+    "Dicksboro 0-20",
+    "Kilkenny",
+    "Marshalstown 0-03",
+    "Wexford"
+   ],
+   [
+    "2004",
+    "Carrickshock",
+    "Kilkenny",
+    "St. Patrick's",
+    "Wexford"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-4346",
+  "question": "what is the number of mclaren-ford constructors?",
+  "answers": [
+   "2"
+  ],
+  "ground_truth": "2",
+  "table_header": [
+   "Pos",
+   "No",
+   "Driver",
+   "Constructor",
+   "Laps",
+   "Time/Retired",
+   "Grid"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "12",
+    "Clay Regazzoni",
+    "Ferrari",
+    "60",
+    "1:01:25.34",
+    "3"
+   ],
+   [
+    "2",
+    "4",
+    "Patrick Depailler",
+    "Tyrrell-Ford",
+    "60",
+    "+ 0:08.35",
+    "5"
+   ],
+   [
+    "3",
+    "2",
+    "Jochen Mass",
+    "McLaren-Ford",
+    "60",
+    "+ 0:15.44",
+    "4"
+   ],
+   [
+    "4",
+    "5",
+    "Ronnie Peterson",
+    "Lotus-Ford",
+    "60",
+    "+ 0:40.14",
+    "10"
+   ],
+   [
+    "5",
+    "18",
+    "John Watson",
+    "Surtees-Ford",
+    "60",
+    "+ 0:45.55",
+    "6"
+   ],
+   [
+    "6",
+    "8",
+    "Carlos Pace",
+    "Brabham-Ford",
+    "60",
+    "+ 0:45.90",
+    "7"
+   ],
+   [
+    "7",
+    "16",
+    "Tom Pryce",
+    "Shadow-Ford",
+    "60",
+    "+ 0:46.66",
+    "8"
+   ],
+   [
+    "8",
+    "24",
+    "James Hunt",
+    "Hesketh-Ford",
+    "59",
+    "+ 1 Lap",
+    "11"
+   ],
+   [
+    "9",
+    "31",
+    "Chris Amon",
+    "Ensign-Ford",
+    "59",
+    "+ 1 Lap",
+    "9"
+   ],
+   [
+    "10",
+    "21",
+    "Jacques Laffite",
+    "Williams-Ford",
+    "59",
+    "+ 1 Lap",
+    "13"
+   ],
+   [
+    "11",
+    "9",
+    "Vittorio Brambilla",
+    "March-Ford",
+    "58",
+    "+ 2 Laps",
+    "12"
+   ],
+   [
+    "12",
+    "22",
+    "Rolf Stommelen",
+    "Hill-Ford",
+    "58",
+    "+ 2 Laps",
+    "14"
+   ],
+   [
+    "13",
+    "35",
+    "Tony Trimmer",
+    "Maki-Ford",
+    "54",
+    "+ 6 Laps",
+    "16"
+   ],
+   [
+    "NC",
+    "20",
+    "Jo Vonlanthen",
+    "Williams-Ford",
+    "51",
+    "+ 9 Laps",
+    "15"
+   ],
+   [
+    "Ret",
+    "17",
+    "Jean-Pierre Jarier",
+    "Shadow-Ford",
+    "33",
+    "Transmission",
+    "1"
+   ],
+   [
+    "Ret",
+    "1",
+    "Emerson Fittipaldi",
+    "McLaren-Ford",
+    "6",
+    "Clutch",
+    "2"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-12828",
+  "question": "in the irish national final for the eurovision song contest in 1990, which artist won more points than linda martin and friends?",
+  "answers": [
+   "Liam Reilly"
+  ],
+  "ground_truth": "Liam Reilly",
+  "table_header": [
+   "Draw",
+   "Artist",
+   "Song",
+   "Points",
+   "Place"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "The Memories",
+    "\"If It Means Losing You\"",
+    "57",
+    "8th"
+   ],
+   [
+    "2",
+    "Ann Breen",
+    "\"Oh, Darling\"",
+    "80",
+    "4th"
+   ],
+   [
+    "3",
+    "Fran Meen",
+    "\"Say That You Love Me\"",
+    "66",
+    "6th"
+   ],
+   [
+    "4",
+    "Dreams",
+    "\"Sin Sin (\"That's That\")\"",
+    "73",
+    "5th"
+   ],
+   [
+    "5",
+    "Connor Stevens",
+    "\"Count On Me\"",
+    "88",
+    "3rd"
+   ],
+   [
+    "6",
+    "Linda Martin and Friends",
+    "\"All The People In The World\"",
+    "105",
+    "2nd"
+   ],
+   [
+    "7",
+    "Maggie Toal",
+    "\"Feed Him With Love\"",
+    "61",
+    "7th"
+   ],
+   [
+    "8",
+    "Liam Reilly",
+    "\"Somewhere In Europe\"",
+    "130",
+    "1st"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-2129",
+  "question": "what was the total number of races?",
+  "answers": [
+   "12"
+  ],
+  "ground_truth": "12",
+  "table_header": [
+   "Date",
+   "Series",
+   "Circuit",
+   "City / State",
+   "Winner",
+   "Team",
+   "Car",
+   "Report"
+  ],
+  "table_rows": [
+   [
+    "23 Feb",
+    "ATCC Round 1",
+    "Amaroo Park",
+    "Sydney, New South Wales",
+    "Mark Skaife",
+    "Winfield Team Nissan",
+    "Nissan Skyline R32 GT-R",
+    ""
+   ],
+   [
+    "8 Mar",
+    "ATCC Round 2",
+    "Sandown International Raceway",
+    "Melbourne, Victoria",
+    "John Bowe",
+    "Shell Ultra-High Racing",
+    "Ford Sierra RS500",
+    ""
+   ],
+   [
+    "15 Mar",
+    "ATCC Round 3",
+    "Symmons Plains Raceway",
+    "Launceston, Tasmania",
+    "Glenn Seton",
+    "Peter Jackson Racing",
+    "Ford Sierra RS500",
+    ""
+   ],
+   [
+    "5 Apr",
+    "ATCC Round 4",
+    "Winton Motor Raceway",
+    "Benalla, Victoria",
+    "Mark Skaife",
+    "Winfield Team Nissan",
+    "Nissan Skyline R32 GT-R",
+    ""
+   ],
+   [
+    "3 May",
+    "ATCC Round 5",
+    "Lakeside International Raceway",
+    "Brisbane, Queensland",
+    "Tony Longhurst",
+    "Benson & Hedges Racing",
+    "BMW M3 Evolution",
+    ""
+   ],
+   [
+    "24 May",
+    "ATCC Round 6",
+    "Eastern Creek Raceway",
+    "Sydney, New South Wales",
+    "John Bowe",
+    "Shell Ultra-High Racing",
+    "Ford Sierra RS500",
+    ""
+   ],
+   [
+    "31 May",
+    "ATCC Round 7",
+    "Mallala Motor Sport Park",
+    "Mallala, South Australia",
+    "Mark Skaife",
+    "Winfield Team Nissan",
+    "Nissan Skyline R32 GT-R",
+    ""
+   ],
+   [
+    "7 Jun",
+    "ATCC Round 8",
+    "Barbagallo Raceway",
+    "Perth, Western Australia",
+    "John Bowe",
+    "Shell Ultra-High Racing",
+    "Ford Sierra RS500",
+    ""
+   ],
+   [
+    "21 Jun",
+    "ATCC Round 9",
+    "Oran Park Raceway",
+    "Sydney, New South Wales",
+    "Mark Skaife",
+    "Winfield Team Nissan",
+    "Nissan Skyline R32 GT-R",
+    ""
+   ],
+   [
+    "13 Sep",
+    "Drink/Drive Sandown 500",
+    "Sandown International Raceway",
+    "Melbourne, Victoria",
+    "Larry Perkins\\nSteve Harrington",
+    "Bob Jane T-Marts Racing",
+    "Holden VL Commodore SS Group A SV",
+    "report"
+   ],
+   [
+    "4 Oct",
+    "Tooheys 1000",
+    "Mount Panorama Circuit",
+    "Bathurst, New South Wales",
+    "Mark Skaife\\nJim Richards",
+    "Winfield Team Nissan",
+    "Nissan Skyline R32 GT-R",
+    "report"
+   ],
+   [
+    "8 Nov",
+    "Clarke Shoes Group A Finale",
+    "Adelaide Street Circuit",
+    "Adelaide, South Australia",
+    "Jim Richards",
+    "Winfield Team Nissan",
+    "Nissan Skyline R32 GT-R",
+    ""
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 12
+ },
+ {
+  "id": "nt-5308",
+  "question": "which month had the same number of road wins as december?",
+  "answers": [
+   "January"
+  ],
+  "ground_truth": "January",
+  "table_header": [
+   "Game",
+   "December",
+   "Opponent",
+   "Score",
+   "Record"
+  ],
+  "table_rows": [
+   [
+    "9",
+    "4",
+    "@ Montreal Canadiens",
+    "5 - 4",
+    "3-4-2"
+   ],
+   [
+    "10",
+    "6",
+    "@ Toronto Maple Leafs",
+    "4 - 2",
+    "3-5-2"
+   ],
+   [
+    "11",
+    "9",
+    "Ottawa Senators",
+    "3 - 2",
+    "4-5-2"
+   ],
+   [
+    "12",
+    "14",
+    "Detroit Falcons",
+    "3 - 0",
+    "5-5-2"
+   ],
+   [
+    "13",
+    "18",
+    "Boston Bruins",
+    "4 - 2",
+    "5-6-2"
+   ],
+   [
+    "14",
+    "20",
+    "@ Boston Bruins",
+    "2 - 2 OT",
+    "5-6-3"
+   ],
+   [
+    "15",
+    "23",
+    "Montreal Canadiens",
+    "5 - 1",
+    "6-6-3"
+   ],
+   [
+    "16",
+    "25",
+    "@ Ottawa Senators",
+    "4 - 1",
+    "7-6-3"
+   ],
+   [
+    "17",
+    "28",
+    "Philadelphia Quakers",
+    "4 - 2",
+    "8-6-3"
+   ],
+   [
+    "18",
+    "30",
+    "@ New York Americans",
+    "2 - 2 OT",
+    "8-6-4"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-12428",
+  "question": "what is the name of the album that was first to be released?",
+  "answers": [
+   "The Alarm (EP)"
+  ],
+  "ground_truth": "The Alarm (EP)",
+  "table_header": [
+   "Release date",
+   "Album",
+   "Record label",
+   "UK Albums Chart",
+   "U.S. Billboard 200 Chart"
+  ],
+  "table_rows": [
+   [
+    "July 1983",
+    "The Alarm (EP)",
+    "I.R.S. Records",
+    "-",
+    "126"
+   ],
+   [
+    "February 1984",
+    "Declaration",
+    "I.R.S. Records",
+    "6",
+    "50"
+   ],
+   [
+    "October 1985",
+    "Strength",
+    "I.R.S. Records",
+    "18",
+    "39"
+   ],
+   [
+    "November 1987",
+    "Eye of the Hurricane",
+    "I.R.S. Records",
+    "23",
+    "77"
+   ],
+   [
+    "November 1988",
+    "Electric Folklore Live",
+    "I.R.S. Records",
+    "62",
+    "167"
+   ],
+   [
+    "1988",
+    "Compact Hits",
+    "A&M Records",
+    "-",
+    "-"
+   ],
+   [
+    "September 1989",
+    "Change \u00a5",
+    "I.R.S. Records",
+    "13",
+    "75"
+   ],
+   [
+    "November 1990",
+    "Standards",
+    "I.R.S. Records",
+    "47",
+    "177"
+   ],
+   [
+    "April 1991",
+    "Raw \u00a5\u00a5",
+    "I.R.S. Records",
+    "33",
+    "161"
+   ],
+   [
+    "2001",
+    "Eponymous 1981-1983 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2001",
+    "Declaration 1984-1985 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2001",
+    "Strength 1985-1986 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2001",
+    "Eye of the Hurricane 1987-1988 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2001",
+    "Electric Folklore Live 1987-1988 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2001",
+    "Change 1989-1990 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2001",
+    "Raw 1990-1991 \u00a2",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "21 Sept 2002",
+    "Close\u2260",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "October 2002",
+    "The Normal Rules Do Not Apply\u2260",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "17 Dec 2002",
+    "Trafficking\u2260",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "17 Dec 2002",
+    "Edward Henry Street\u2260",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "January 2003",
+    "Coming Home\u2260",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "15 Jan 2003",
+    "Live at Hammersmith Palais 1984",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "23 June 2003",
+    "The Alarm EP - 20th Anniversary Collectors Edition",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "17 Jul 2003",
+    "Live at Glasgow Garage =",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "17 Jul 2003",
+    "Live at Liverpool Masque Theatre =",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "17 Jul 2003",
+    "Live at London Mean Fiddler=",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "19 Oct 2003",
+    "The Sound and the Fury =",
+    "Shakedown Records",
+    "-",
+    "-"
+   ],
+   [
+    "2004",
+    "In the Poppyfields \u00b6",
+    "Snapper Music",
+    "107",
+    "-"
+   ],
+   [
+    "2004",
+    "Live In the Poppyfields \u00b6",
+    "Snapper Music",
+    "-",
+    "-"
+   ],
+   [
+    "2005",
+    "Alt-Strength",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2006",
+    "Under Attack $",
+    "Liberty",
+    "138",
+    "-"
+   ],
+   [
+    "2006",
+    "The Best of The Alarm and Mike Peters",
+    "EMI",
+    "-",
+    "-"
+   ],
+   [
+    "2006",
+    "Alarm MMV - The Saturday Gigs $",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2007",
+    "The Collection ^",
+    "EMI Gold",
+    "-",
+    "-"
+   ],
+   [
+    "July 2007",
+    "Three Sevens Clash \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "August 2007",
+    "Fightback \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "September 2007",
+    "This is not a Test \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "October 2007",
+    "Situation Under Control \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "November 2007",
+    "Call to Action \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "December 2007",
+    "1983/84 \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "January 2008",
+    "Counter Attack \u0e3f",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2008",
+    "Guerilla Tactics \u00a4",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "2008",
+    "The Alarm - BBC Radio Sessions 1983-1991",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "April 2010",
+    "Direct Action \u00b0",
+    "21st Century",
+    "-",
+    "-"
+   ],
+   [
+    "March 2013",
+    "Vinyl (2012 film) Soundtrack \u00b0",
+    "-",
+    "-",
+    ""
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 45
+ },
+ {
+  "id": "nt-8621",
+  "question": "how many countries took home the gold the same year they hosted fiba?",
+  "answers": [
+   "3"
+  ],
+  "ground_truth": "3",
+  "table_header": [
+   "Year",
+   "Host",
+   "Gold",
+   "Silver",
+   "Bronze"
+  ],
+  "table_rows": [
+   [
+    "1976",
+    "Paraguay (Asunci\u00f3n)",
+    "Brazil",
+    "Paraguay",
+    "Argentina"
+   ],
+   [
+    "1981",
+    "Peru (Lima)",
+    "Brazil",
+    "Colombia",
+    "Argentina"
+   ],
+   [
+    "1986",
+    "Colombia (C\u00facuta)",
+    "Brazil",
+    "Colombia",
+    "Peru"
+   ],
+   [
+    "1987",
+    "Argentina (Mar del Plata)",
+    "Argentina",
+    "Brazil",
+    "Chile"
+   ],
+   [
+    "1990",
+    "Ecuador (Ibarra)",
+    "Brazil",
+    "Argentina",
+    "Ecuador"
+   ],
+   [
+    "1992",
+    "Chile (Santiago)",
+    "Brazil",
+    "Argentina",
+    "Colombia"
+   ],
+   [
+    "1995",
+    "Brazil (S\u00e3o Roque)",
+    "Colombia",
+    "Brazil",
+    "Argentina"
+   ],
+   [
+    "1996",
+    "Ecuador (Quito)",
+    "Argentina",
+    "Brazil",
+    "Colombia"
+   ],
+   [
+    "1998",
+    "Chile (Ancud)",
+    "Brazil",
+    "Argentina",
+    "Bolivia"
+   ],
+   [
+    "2000",
+    "Venezuela (San Felipe)",
+    "Brazil",
+    "Argentina",
+    "Venezuela"
+   ],
+   [
+    "2002",
+    "Chile (Santiago)",
+    "Ecuador",
+    "Chile",
+    "Paraguay"
+   ],
+   [
+    "2004",
+    "Bolivia (Quillacollo)",
+    "Brazil",
+    "Argentina",
+    "Bolivia"
+   ],
+   [
+    "2005",
+    "Paraguay (Asunci\u00f3n)",
+    "Argentina",
+    "Brazil",
+    "Paraguay"
+   ],
+   [
+    "2007",
+    "Venezuela (Guanare)",
+    "Venezuela",
+    "Argentina",
+    "Brazil"
+   ],
+   [
+    "2009",
+    "Chile (Santiago)",
+    "Brazil",
+    "Chile",
+    "Argentina"
+   ],
+   [
+    "2011",
+    "Colombia (Pasto)",
+    "Colombia",
+    "Argentina",
+    "Brazil"
+   ],
+   [
+    "2013",
+    "Ecuador (Portoviejo)",
+    "Brazil",
+    "Argentina",
+    "Chile"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 17
+ },
+ {
+  "id": "nt-3373",
+  "question": "which artists won in 2008 and 2009 respectively?",
+  "answers": [
+   "Scribe",
+   "Ladi6"
+  ],
+  "ground_truth": "Scribe",
+  "table_header": [
+   "Year",
+   "Winner",
+   "Album",
+   "Other finalists"
+  ],
+  "table_rows": [
+   [
+    "2002",
+    "Che Fu",
+    "Navigator",
+    "Dark Tower \u2013 Canterbury Drafts"
+   ],
+   [
+    "2003",
+    "Nesian Mystik",
+    "Polysaturated",
+    "Deceptikonz \u2013 Elimination\\nP-Money \u2013 Big Things"
+   ],
+   [
+    "2004",
+    "Scribe",
+    "The Crusader",
+    "King Kapisi \u2013 2nd Round Testament\\nMareko \u2013 White Sunday"
+   ],
+   [
+    "2005",
+    "P-Money",
+    "Magic City",
+    "Tha Feelstyle \u2013 Break It To Pieces\\nSavage \u2013 Moonshine"
+   ],
+   [
+    "2006",
+    "Frontline",
+    "Borrowed Time",
+    "Nesian Mystik \u2013 Freshmen\\nOpensouls \u2013 Kaleidoscope"
+   ],
+   [
+    "2007",
+    "PNC",
+    "Rookie Card",
+    "4 Corners \u2013 The Foundations\\nDeceptikonz \u2013 Heavy Rotation"
+   ],
+   [
+    "2008",
+    "Scribe",
+    "Rhyme Book",
+    "Mareko \u2013 White Sunday 2: The Book Of Mark\\nYoung Sid \u2013 The Truth"
+   ],
+   [
+    "2009",
+    "Ladi6",
+    "Time Is Not Much",
+    "Savage \u2013 Savage Island\\nSmashproof \u2013 The Weekend"
+   ],
+   [
+    "2010",
+    "David Dallas",
+    "Something Awesome",
+    "J. Williams \u2013 Young Love\\nYoung Sid \u2013 What Doesn't Kill Me..."
+   ],
+   [
+    "2011",
+    "Ladi6",
+    "The Liberation Of...",
+    "David Dallas \u2013 The Rose Tint\\nPNC \u2013 Man on Wire"
+   ],
+   [
+    "2012",
+    "Home Brew",
+    "Home Brew",
+    "Adeaze \u2013 Rise & Shine\\nSavage \u2013 Mayhem & Miracles"
+   ],
+   [
+    "2013",
+    "Aaradhna",
+    "Treble & Reverb",
+    "At Peace \u2013 Girl Songs\\nP-Money \u2013 Gratitude"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 12
+ },
+ {
+  "id": "nt-2893",
+  "question": "what is hisor her total semifinal points to qualify for the 12th position?",
+  "answers": [
+   "11"
+  ],
+  "ground_truth": "11",
+  "table_header": [
+   "Pos.",
+   "Rider",
+   "Semi-Final Points",
+   "Final Points",
+   "Final Heats",
+   "Total Points"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Jack Milne",
+    "13",
+    "15",
+    "(3,3,3,3,3)",
+    "28"
+   ],
+   [
+    "2",
+    "Wilbur Lamoreaux",
+    "12",
+    "13",
+    "(3,3,3,1,3)",
+    "25"
+   ],
+   [
+    "3",
+    "Cordy Milne",
+    "11",
+    "12",
+    "(2,3,2,3,2)",
+    "23"
+   ],
+   [
+    "4",
+    "Jack Parker",
+    "11",
+    "10",
+    "(2,3,1,2,2)",
+    "21"
+   ],
+   [
+    "5",
+    "Ginger Lees",
+    "10",
+    "9",
+    "(1,1,2,2,3)",
+    "19"
+   ],
+   [
+    "6",
+    "Frank Charles",
+    "10",
+    "7",
+    "(0,0,1,3,3)",
+    "17"
+   ],
+   [
+    "7",
+    "Lionel Van Praag",
+    "11",
+    "6",
+    "(3,0,-,3,0)",
+    "17"
+   ],
+   [
+    "8",
+    "Bill Kitchen",
+    "7",
+    "9",
+    "(1,2,2,2,2)",
+    "16"
+   ],
+   [
+    "9",
+    "George Newton",
+    "11",
+    "5",
+    "(3,0,0,0,2)",
+    "16"
+   ],
+   [
+    "10",
+    "Eric Langton",
+    "12",
+    "4",
+    "(1,0,0,3,0)",
+    "16"
+   ],
+   [
+    "11",
+    "Morian Hansen",
+    "7",
+    "8",
+    "(1,2,3,1,1)",
+    "15"
+   ],
+   [
+    "12",
+    "Eric Chitty",
+    "11",
+    "4",
+    "(0,2,0,1,1)",
+    "15"
+   ],
+   [
+    "13",
+    "Joe Abbott",
+    "8",
+    "6",
+    "(2,1,1,2,0)",
+    "14"
+   ],
+   [
+    "14",
+    "Arthur Atkinson",
+    "8",
+    "6",
+    "(2,0,2,1,1)",
+    "14"
+   ],
+   [
+    "15",
+    "Frank Varey",
+    "8",
+    "3",
+    "(0,1,1,0,1)",
+    "11"
+   ],
+   [
+    "16",
+    "Tommy Croombs",
+    "6",
+    "2",
+    "(0,2,0,0,0)",
+    "8"
+   ],
+   [
+    "17",
+    "Bob Harrison",
+    "7",
+    "-",
+    "-",
+    "7"
+   ],
+   [
+    "18",
+    "Alec Statham",
+    "6",
+    "0",
+    "(0)",
+    "6"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 18
+ },
+ {
+  "id": "nt-290",
+  "question": "which hispanic population had the greatest growth from 2000 to 2005?",
+  "answers": [
+   "White"
+  ],
+  "ground_truth": "White",
+  "table_header": [
+   "By race",
+   "White",
+   "Black",
+   "AIAN*",
+   "Asian",
+   "NHPI*"
+  ],
+  "table_rows": [
+   [
+    "2000 (total population)",
+    "75.43%",
+    "4.46%",
+    "19.06%",
+    "5.24%",
+    "0.88%"
+   ],
+   [
+    "2000 (Hispanic only)",
+    "3.42%",
+    "0.33%",
+    "0.45%",
+    "0.16%",
+    "0.06%"
+   ],
+   [
+    "2005 (total population)",
+    "74.71%",
+    "4.72%",
+    "18.77%",
+    "5.90%",
+    "0.88%"
+   ],
+   [
+    "2005 (Hispanic only)",
+    "4.32%",
+    "0.38%",
+    "0.48%",
+    "0.19%",
+    "0.05%"
+   ],
+   [
+    "Growth 2000\u201305 (total population)",
+    "4.85%",
+    "12.03%",
+    "4.27%",
+    "19.23%",
+    "5.35%"
+   ],
+   [
+    "Growth 2000\u201305 (non-Hispanic only)",
+    "3.49%",
+    "11.30%",
+    "4.02%",
+    "18.96%",
+    "5.86%"
+   ],
+   [
+    "Growth 2000\u201305 (Hispanic only)",
+    "33.56%",
+    "21.02%",
+    "14.52%",
+    "27.89%",
+    "-1.95%"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 7
+ },
+ {
+  "id": "nt-9710",
+  "question": "how many total non-fatal attacks by wolves have been recorded?",
+  "answers": [
+   "22"
+  ],
+  "ground_truth": "22",
+  "table_header": [
+   "Victim(s)",
+   "Age",
+   "Gender",
+   "Date",
+   "Type of attack",
+   "Location",
+   "Details",
+   "Source(s)"
+  ],
+  "table_rows": [
+   [
+    "Daughter of a frontiersman named \"Baker\"",
+    "18",
+    "\u2640",
+    "Summer, 1881",
+    "Defending cows",
+    "Northwestern Colorado, USA",
+    "Encountered a wolf resting on a hill while on her way to bring in cows at dusk. The animal attacked her after she shouted and threw rocks to scare it away. It seized her by the shoulder, threw her to the ground, and badly bit her arms and legs before being shot by her brother.",
+    "George Bird Grinnell"
+   ],
+   [
+    "David Tobuk",
+    "Toddler",
+    "\u2642",
+    "1900",
+    "Predatory",
+    "Koyukuk River, Alaska, USA",
+    "In the 1920s, Tobuk was a Native Alaskan steamboat captain who bore severe scarring as a result of a wolf attack he had suffered as a toddler. He was playing along the riverbank when a wolf appeared out of some bushes, seized Tobuk by the head, lifted and ran off with him in its jaws, but was shot by a nearby man.",
+    ""
+   ],
+   [
+    "Diamond Jenness, Arctic explorer",
+    "",
+    "\u2642",
+    "1915, February 10",
+    "Agonistic",
+    "Coppermine River, Northwest Territories, Canada",
+    "Early in the morning, a female wolf entered the camp of an Arctic expedition and began fighting with the tethered sled dogs. Five men came out and tried to drive it away. The wolf charged at Diamond Jenness after he threw a rock and missed. Jenness grabbed the wolf by the back of the neck, but the wolf turned its head enough to severely bite his forearm. He choked the wolf with his other hand; it released, stepped back, and was shot by another man. The wound was treated and eventually fully healed, but Jenness never contracted rabies despite consistency of the wolf\u2019s behavior with the early stages of the disease.",
+    ""
+   ],
+   [
+    "Mike Dusiac, Railwayman",
+    "",
+    "\u2642",
+    "December 29, 1942",
+    "Possibly rabid",
+    "Poulin, Ontario, Canada",
+    "Riding a small rail vehicle called a speeder when a wolf leaped at him and bit his sleeve, knocking him down and knocking the vehicle off the track. Dusiac kept the wolf at bay for more than 25 minutes with an ax. He managed to hit the wolf repeatedly but not squarely enough. The wolf was not deterred by an approaching train which stopped to help Dusiac. Several railwaymen came running, but the wolf would not retreat. The men killed the wolf with picks and shovels. The carcass was inspected by a biologist, and it appeared healthy. However, Rutter and Pimlot reviewed the case in 1968 and concluded that it must have been rabid because of the sustained and determined nature of the attack.",
+    ""
+   ],
+   [
+    "Zacarias Hugo",
+    "14",
+    "\u2642",
+    "1943",
+    "Possibly rabid",
+    "Etivluk River, Alaska, USA",
+    "While hunting caribou, Zacarias heard a sound, turned and saw a large black wolf coming for him. It knocked him down and bit his arm, so he could not use his rifle. It bit his legs, back, arm and neck and dragged him 18 metres before abandoning the attack and disappearing. He walked back to camp, but had lost a lot of blood, mostly from his forearm. His caribou skin Anorak protected him from greater injury or even death, but may have contributed to the attack if it caused the wolf to mistake him for a caribou. This attack had long been classified as \"rabid\" because it occurred during an epizootic of the disease in that area and because Zac's father, Inualuruk, tracked the wolf and observed to have been walking at times in the splayed manner of a sick animal. However, neither the fact that the attack was abandoned in the way it was, nor the fact that Zacarias never developed the disease is not consistent with rabies.",
+    ""
+   ],
+   [
+    "Thomas Hamilton",
+    "",
+    "\u2642",
+    "1950",
+    "Prey-testing agonistic charge",
+    "Lower Foster Lake, Saskatchewan, Canada",
+    "While out hunting wolves, he laid down to aim his rifle, when the wolves arose and started running at him. He waited for a better shot, expecting the wolves to stop, but they did not. He shot the lead wolf at point blank range, prompting the rest to depart.",
+    ""
+   ],
+   [
+    "Alex Lamont",
+    "",
+    "\u2642",
+    "Summer, 1969",
+    "Prey-testing agonistic charge",
+    "Near Wien Lake, Alaska, USA",
+    "Lamont saw two wolves running directly at him while walking home. He shot both after one of them bit his leg.",
+    ""
+   ],
+   [
+    "Pipeline workers",
+    "",
+    "\u2642",
+    "1971-1979",
+    "",
+    "Along the right-of-way for the Trans-Alaska Pipeline, from Prudhoe Bay to Valdez, Alaska, USA",
+    "There were ten \"bites and charges\", including a seriously bitten forearm. Causes included: a lack of trapping and hunting in certain areas; lack of barriers such as fencing, unsecured attractants such as trash, human attitudes and behaviors such as intentional feeding, and mutual habituation.",
+    ""
+   ],
+   [
+    "Infant",
+    "1",
+    "\u2640",
+    "Fall, 1975",
+    "Captive",
+    "New Jersey",
+    "While posing for picture with the wolf at a charity event for the Fund for Animals; it bit the side of her face ripping it open. She was hospitalized and given plastic surgery.",
+    "Field and Stream"
+   ],
+   [
+    "Dr. Bob Piorkowski, Alaska Fish and Game, and his wife",
+    "",
+    "\u2642/\u2640",
+    "October, 1975",
+    "Prey-testing agonistic charge",
+    "Tonzona River, Alaska, USA, near Denali National Park",
+    "Went outside their remote house near Denali National Park to see why their dog was barking, hoping it was a moose they could hunt. Five wolves came running straight at them, not at the dog, which was more than five meters away. Piorkowski was not ready to fire until the lead wolf was at point-blank range. He shot the next at ten meters away. Both wolves were dead, and the rest fled. Both wolves tested negative for rabies, and Piorkowski had one pelt mounted.",
+    "p.\u00a017"
+   ],
+   [
+    "David Lawrence",
+    "7",
+    "\u2642",
+    "1976, Summer",
+    "Prey-testing agonistic charge",
+    "Salcha River, Alaska, USA",
+    "While his father, Roy Lawrence, stood near the plane talking to the pilot, Ed Gavin, Roy saw a wolf charging focused directly at his son, David, who was crouching down to touch the water\u2019s edge about 30m/33yards away. The moment Roy saw the wolf charging, it was 50m/55.5 yards from David and moving fast. Roy shouted for David to hide in the brush. When the wolf lost sight of him, it stopped, hopped, and stood on its hind legs trying to sight the boy again, allowing Galvin time to ready his weapon and fire. It was a young adult, underweight female, 32\u00a0kg/70.5\u00a0lbs.",
+    ""
+   ],
+   [
+    "Dr. M. Dawson, Paleontologist",
+    "",
+    "\u2640",
+    "1977, June 28",
+    "Prey-testing agonistic charge",
+    "Ellesmere Island, Nunavut, Canada",
+    "Doing field work when they were approached by a pack of six wolves. They tried to drive them off by shouting, waving, and throwing clods of frozen dirt. The wolves were not deterred, and began to circle. The lead wolf leaped at Dawson's face, but Dawson pushed back with her arms and leaned backwards, pushing the wolf to the ground before it could bite her, and the wolves departed, but the strike was close enough for saliva from the wolf's flews to be left on her cheek. Munthe and Hutchinson (1978) interpreted the attack as testing of unfamiliar prey, but noted they didn't know if the wolves had encountered people before. McNay notes that the attack resembled others by wolves which had been fed.",
+    "p.\u00a016"
+   ],
+   [
+    "Hunter",
+    "19",
+    "\u2642",
+    "January, 1982",
+    "Predatory",
+    "Near Duluth, MN, USA",
+    "Attacked unseen out of thick cover. Knocked down, the pair rolled on the ground, where he was able to keep it away by grabbing its throat. He could not aim but managed to discharge his weapon, and the wolf fled at the sound. The hunter received claw wounds to the thigh.",
+    ""
+   ],
+   [
+    "Biologist",
+    "",
+    "\u2642",
+    "1984",
+    "Prey-testing agonistic charge",
+    "185\u00a0km southeast of Churchill, Manitoba, Canada",
+    "The wolf ran directly at three biologists, ears up, straight-tail, maintaining eye contact with one in particular. At two metres, he sounded an airhorn directly at the animal, which veered to one side and ran off.",
+    ""
+   ],
+   [
+    "Christopher Nimitz",
+    "2",
+    "\u2642",
+    "October 18, 1985",
+    "Captive",
+    "Idyllwild, California, USA",
+    "His family's captive wolf pulled his arm into the cage and severed it. His mother saved him but was arrested for child endangerment.",
+    "Los Angeles Times"
+   ],
+   [
+    "Robert Mulders, Biologist",
+    "",
+    "\u2642",
+    "December 13, 1985",
+    "Prey-testing Agonistic",
+    "Whale Cove, Nunavut, Canada",
+    "Two biologists netted a caribou from a helicopter and landed to perform tests and attach a radio collar. While working near the running blades of the helicopter, Mulders saw a wolf approaching. Both men stood, shouted, and waved their arms. When mulders stepped toward the wolf, it started circling and stalking, then rushed in and bit down on Mulders' lower leg and would not let go despite repeated punches by Mulders for 10\u201315 seconds until the other biologist, Mark Williams, knocked the wolf unconscious with the caribou radio collar. Mulders then took the collar and struck the wolf in the head twice and stabbed it in the chest with a knife. The bite tore open his pants but left only a small wound.",
+    ""
+   ],
+   [
+    "Park visitors",
+    "",
+    "",
+    "1987-1998",
+    "",
+    "Algonquin Provincial Park, Ontario, Canada",
+    "All incidents were proceeded by extensive habituation. At first, the incidents were minor. In the first incident, in 1987, a sixteen-year-old girl was only briefly bitten, with the attack being classified as \"disciplinary\", as the girl had been annoying the wolf. Years later, wolves began stalking children in a predatory fashion.\\nIn one of the most serious of these, a wolf grabbed and tossed a nineteen month-old boy, who was saved by his parents, but received multiple puncture wounds.\\nIn another, a wolf dragged a twelve-year-old boy in a sleeping bag. His nose was broken and face lacerated before being saved by his father. The wolf went on to attack three women in two attacks before being shot. It was a healthy male with stomach contents scavenged from camps. The boy underwent reconstructive surgery.\\nIn all, five people were bitten. In all cases, the wolves were killed, and rabies tests were negative.",
+    ""
+   ],
+   [
+    "Tabitha Mullin",
+    "",
+    "\u2640",
+    "June, 1995",
+    "Agonistic",
+    "Ellsmere Island, Nunavut, Canada",
+    "A wildlife biologist, Mullin was standing about five paces outside her front door on the Park warden\u2019s base, observing and recording a pack of eleven wolves who approached and stopped inside 10 meters. One circled around closer, and she moved back toward the door. When she turned to open the door, the wolf grabbed and pulled her forearm. She pulled back, screamed, and her sleeves ripped; the wolf released; she got inside, closed the door, and the wolves left. She suspected photographers had been luring the wolves in with food. She was uninjured.",
+    ""
+   ],
+   [
+    "Andy Greenblat, Bush pilot",
+    "",
+    "\u2642",
+    "1997",
+    "Prey-testing Agonistic charge",
+    "Joshua Green River Alaska, USA",
+    "Greenblat was walking back to camp on a well-worn trail when he saw a wolf angling fast for a point ahead on the trail. When the wolf hit the trail it turned and ran directly at him, maintaining eye contact, ears forward. He yelled and waved his arms, and the wolf put its ears back but kept running and eye contact. At close range Andy was able to fire his weapon. The bullet missed, but the muzzle blast pushed the wolf off line, and the wolf missed. He swung the rifle and hit the wolf's skull; staggered, it ran off. Rabies was not suspected because the animal quickly gave up and ran away.",
+    ""
+   ],
+   [
+    "Park visitor",
+    "",
+    "\u2642",
+    "June, 1999",
+    "Agonistic",
+    "Vargas Island Provincial Park, British Columbia, Canada",
+    "At about 2am, a wolf began dragging a sleeping man in a sleeping bag. The wolf had moved the man several meters away from the campfire when the man awoke, sat up, and shouted. The wolf stopped, stepped back, and attacked at the midsection, still encased in the sleeping bag. He fought it with his hands and arms, and rolled back towards the fire pit. The wolf bit him on the back and head, leaving multiple lacerations and separating a part of his scalp from the skull before being chased away by a group of other campers. The attack lasted about five minutes.\\nThe man was transported to hospital in Victoria, BC, where his scalp flap was reattached with 50 stitches, and wounds to his hands and back were treated. Two wolves were killed the next day, tested negative for rabies, and identified as the same wolves which had been fed and played by people when they were pups. The same wolves had earlier that evening disturbed another camper, and two days earlier had menaced several nature photographers. The stomach contents showed no sign of scavenging human food.",
+    ""
+   ],
+   [
+    "John Stenglein, logging camp resident",
+    "6",
+    "\u2642",
+    "2000, April 26,",
+    "Predatory",
+    "Icy Bay, Alaska, USA",
+    "John and an older boy were playing near the edge of a logging camp when a wolf appeared and chased the boys, attacking John when he fell and dragging him and toward the woods. He was saved by his friend's Labrador retriever, Willie, followed by a group of people, and then John's father arrived and shot the wolf. It was neither sick nor starving, having been habituated to the presence of people. John received 19 laceration and puncture wounds on the back, legs, and buttocks.",
+    ""
+   ],
+   [
+    "Noah Graham, camper",
+    "16",
+    "\u2642",
+    "2013, August 24, 4:30AM",
+    "",
+    "Near Lake Winnibigoshish, Minnesota, USA",
+    "Awake and talking to his girlfriend when attacked from behind, biting his head. He kicked, screamed, punched, grabbed; and it disappeared. Was taken to the hospital for 17 staples to close a large head wound and to get precautionary injections. Authorities killed the wolf the next day and sent the body for rabies and DNA testing.",
+    ""
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 22
+ },
+ {
+  "id": "nt-8392",
+  "question": "how many films were directed by suresh krishna?",
+  "answers": [
+   "2"
+  ],
+  "ground_truth": "2",
+  "table_header": [
+   "Year",
+   "Film",
+   "Director",
+   "Cast",
+   "Details"
+  ],
+  "table_rows": [
+   [
+    "2014",
+    "Manam",
+    "Vikram Kumar",
+    "Akkineni Nageswara Rao\\nAkkineni Nagarjuna\\nNaga Chaitanya",
+    "in-production.\\nfirst time starring three generations of great akkineni dynasty heroes acting together."
+   ],
+   [
+    "2013",
+    "Bhai",
+    "Veerabhadram",
+    "Akkineni Nagarjuna\\nRicha Gangopadhyay",
+    ""
+   ],
+   [
+    "2011",
+    "Rajanna",
+    "Vijayendra Prasad",
+    "Akkineni Nagarjuna\\nSneha",
+    "Won Nandi Award for Best Feature Film (Silver),\\nNandi Award for Best Child Actress (Baby Annie),\\nNandi Award for Best Character Actor (Gandhi),\\nNandi Award for Best Art Director (S Ravinder),\\nNandi Award for Best Female Playback Singer (Malavika),\\nNandi Special Jury Award (Nagarjuna)"
+   ],
+   [
+    "2005",
+    "Super",
+    "Puri Jagannadh",
+    "Akkineni Nagarjuna\\nAyesha Takia\\nSonu Sood\\nAnushka Shetty",
+    "Won Filmfare Best Comedian in Telugu(Ali),\\nNominated for Filmfare Best Film in Telugu,\\nFilmfare Best Director (Puri Jagannadh),\\nFilmfare Best Actor (Akkineni Nagarjuna).\\nFilmfare Best Music Director (Sandeep Chowta),\\nFilmfare Best Actress (Sandhya)"
+   ],
+   [
+    "2004",
+    "Mass",
+    "Raghava Lawrence",
+    "Akkineni Nagarjuna\\nJyothika\\nCharmy Kaur",
+    "Won CineMAA Award for Best Actor (Nagarjuna),\\nSantosham Best Actress Award (Jyothika)"
+   ],
+   [
+    "2003",
+    "Satyam",
+    "Surya Kiran",
+    "Sumanth\\nGenelia D'Souza",
+    ""
+   ],
+   [
+    "2002",
+    "Manmadhudu",
+    "K. Vijaya Bhaskar",
+    "Akkineni Nagarjuna\\nSonali Bendre",
+    "Won Nandi Award for Best Feature Film (Gold)"
+   ],
+   [
+    "1999",
+    "Prema Katha",
+    "Ram Gopal Varma",
+    "Sumanth\\nAntara Mali",
+    "Won Nandi Award for Best Feature Film (Bronze),\\nNandi Award for Best Director (Ram Gopal Varma),\\nNandi Award for Best Supporting Actress (Radhika),\\nNandi Award for Best Male Dubbing Artist (P.Shankar)"
+   ],
+   [
+    "1999",
+    "Seetharama Raju",
+    "Suresh Krishna",
+    "Nagarjuna Akkineni\\nNandamuri Harikrishna\\nSakshi Sivanand\\nSanghavi",
+    "Co-produced with D.Siva Prasad Reddy"
+   ],
+   [
+    "1998",
+    "Aaha",
+    "Suresh Krishna",
+    "Jagapathi Babu\\nSanghavi",
+    ""
+   ],
+   [
+    "1998",
+    "Chandralekha (1998 film)",
+    "Krishna Vamsi",
+    "Nagarjuna Akkineni\\nRamya Krishna\\nIsha Koppikar",
+    "Co-produced with V.Ram Prasad"
+   ],
+   [
+    "1996",
+    "Ninne Pelladutha",
+    "Krishna Vamsi",
+    "Nagarjuna Akkineni\\nTabu",
+    "Won National Film Award for Best Feature Film in Telugu"
+   ],
+   [
+    "1995",
+    "Sisindri",
+    "Shiva Nageswara Rao",
+    "Akhil Akkineni\\nNagarjuna Akkineni",
+    ""
+   ],
+   [
+    "1993",
+    "Theerpu",
+    "",
+    "",
+    ""
+   ],
+   [
+    "1993",
+    "Rakshana",
+    "Uppala Pati Narayana Rao\\nR. R. Shinde",
+    "Nagarjuna Akkineni\\nShobhana",
+    ""
+   ],
+   [
+    "1990",
+    "Iddaru Iddare",
+    "A. Kodandarami Reddy",
+    "Akkineni Nageswara Rao\\nNagarjuna Akkineni\\nRamya Krishnan",
+    ""
+   ],
+   [
+    "1989",
+    "Shiva",
+    "Ram Gopal Verma",
+    "Akkineni Nagarjuna\\nAmala",
+    "Produced in association with S.S.Creations\\nWon Nandi Award for Best Director (Ram Gopal Varma)\\nReleased in Hindi in 1990"
+   ],
+   [
+    "1987",
+    "Agni Putrudu",
+    "K. Raghavendra Rao",
+    "Nagarjuna Akkineni\\nAkkineni Nageswara Rao\\nSarada\\nSivaji Ganesan",
+    "First film starring two generations\\nof the Akkineni family"
+   ],
+   [
+    "1986",
+    "Vikram",
+    "V. Madhusudhana Rao",
+    "Akkineni Nagarjuna\\nShobhana",
+    "Debut Film of Superstar Akkineni Nagarjuna"
+   ],
+   [
+    "1983",
+    "Sri Ranga Neethulu",
+    "A. Kodandarami Reddy",
+    "Akkineni Nageswara Rao\\nSridevi",
+    ""
+   ],
+   [
+    "1982",
+    "Yuvaraju",
+    "Dasari Narayana Rao",
+    "Akkineni Nageswara Rao\\nSujatha\\nJayasudha",
+    ""
+   ],
+   [
+    "1981",
+    "Prema Kaanuka",
+    "K. Raghavendra Rao",
+    "Akkineni Nageswara Rao\\nSridevi\\nMohan Babu",
+    ""
+   ],
+   [
+    "1980",
+    "Premabhishekam",
+    "Dasari Narayana Rao",
+    "Akkineni Nageswara Rao\\nSridevi\\nJayasudha",
+    "The film has completed 100 days in 30 centres"
+   ],
+   [
+    "1980",
+    "Pilla Zameendar",
+    "Singeetam Srinivasa Rao",
+    "Akkineni Nageswara Rao\\nJayasudha\\nMohan Babu",
+    ""
+   ],
+   [
+    "1980",
+    "Butchi Babu",
+    "Dasari Narayana Rao",
+    "Akkineni Nageswara Rao\\nJaya Prada",
+    ""
+   ],
+   [
+    "1979",
+    "Kalyani",
+    "Dasari Narayana Rao",
+    "Murali Mohan\\nKaikala Satyanarayana\\nJayasudha",
+    ""
+   ],
+   [
+    "1978",
+    "Manchi Manasulu",
+    "Adurthi Subba Rao",
+    "Akkineni Nageshwara Rao\\nSavitri\\nShowkar Janaki",
+    ""
+   ],
+   [
+    "1970",
+    "Maro Prapancham",
+    "Adurthi Subba Rao",
+    "Akkineni Nageswara Rao\\nSavitri",
+    ""
+   ],
+   [
+    "1968",
+    "Sudigundalu",
+    "Adurthi Subba Rao",
+    "Akkineni Nageswara Rao, Sandhya Rani",
+    "Won National Film Award for Best Feature Film in Telugu\\nNandi Award for Best Feature Film\\nFilmfare Best Film Award (Telugu)"
+   ],
+   [
+    "1955",
+    "Donga Ramudu",
+    "Kadiri Venkata Reddy",
+    "Akkineni Nageswara Rao\\nJamuna\\nSavitri",
+    ""
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 30
+ },
+ {
+  "id": "nt-7004",
+  "question": "which country has the most stadiums with a capacity of more than 70,000?",
+  "answers": [
+   "United States"
+  ],
+  "ground_truth": "United States",
+  "table_header": [
+   "#",
+   "Stadium",
+   "Capacity",
+   "City",
+   "Country",
+   "Domed or Retractable roof"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Wembley Stadium",
+    "90,000",
+    "London, England",
+    "United Kingdom",
+    "RR *only covers seats, playing surface uncovered at all times"
+   ],
+   [
+    "2",
+    "AT&T Stadium",
+    "80,000",
+    "Arlington, Texas",
+    "United States",
+    "RR"
+   ],
+   [
+    "3",
+    "Millennium Stadium",
+    "74,500",
+    "Cardiff",
+    "Wales",
+    "RR"
+   ],
+   [
+    "4",
+    "University of Phoenix Stadium",
+    "73,719",
+    "Glendale, Arizona",
+    "United States",
+    "RR; retractable playing surface"
+   ],
+   [
+    "5",
+    "Mercedes-Benz Superdome",
+    "73,208",
+    "New Orleans, Louisiana",
+    "United States",
+    "D"
+   ],
+   [
+    "6",
+    "Reliant Stadium",
+    "71,500",
+    "Houston, Texas",
+    "United States",
+    "RR"
+   ],
+   [
+    "7",
+    "Georgia Dome",
+    "71,228",
+    "Atlanta, Georgia",
+    "United States",
+    "D"
+   ],
+   [
+    "8",
+    "Lucas Oil Stadium",
+    "70,000",
+    "Indianapolis, Indiana",
+    "United States",
+    "RR"
+   ],
+   [
+    "9",
+    "Stade olympique de Montr\u00e9al",
+    "66,308",
+    "Montreal, Quebec",
+    "Canada",
+    "D"
+   ],
+   [
+    "10",
+    "Edward Jones Dome",
+    "66,000",
+    "St. Louis, Missouri",
+    "United States",
+    "D"
+   ],
+   [
+    "11",
+    "Alamodome",
+    "65,000",
+    "San Antonio, Texas",
+    "United States",
+    "D"
+   ],
+   [
+    "12",
+    "Ford Field",
+    "65,000",
+    "Detroit, Michigan",
+    "United States",
+    "D"
+   ],
+   [
+    "13",
+    "Stadion Narodowy im. Kazimierza G\u00f3rskiego",
+    "58,145",
+    "Warszawa",
+    "Poland",
+    "RR"
+   ],
+   [
+    "14",
+    "Etihad Stadium",
+    "56,347",
+    "Melbourne",
+    "Australia",
+    "RR"
+   ],
+   [
+    "15",
+    "Arena Na\u021bional\u0103",
+    "55,600",
+    "Bucharest",
+    "Romania",
+    "RR"
+   ],
+   [
+    "16",
+    "Tokyo Dome",
+    "55,000",
+    "Tokyo",
+    "Japan",
+    "D"
+   ],
+   [
+    "17",
+    "BC Place",
+    "54,500",
+    "Vancouver, British Columbia",
+    "Canada",
+    "RR"
+   ],
+   [
+    "18",
+    "Friends Arena",
+    "54,329",
+    "Solna, Stockholm",
+    "Sweden",
+    "RR"
+   ],
+   [
+    "19",
+    "Safeco Field",
+    "54,097",
+    "Seattle, Washington",
+    "United States",
+    "RR"
+   ],
+   [
+    "20",
+    "Veltins-Arena",
+    "53,951",
+    "Gelsenkirchen",
+    "Germany",
+    "RR; retractable playing surface"
+   ],
+   [
+    "21",
+    "Sapporo Dome",
+    "53,845",
+    "Sapporo",
+    "Japan",
+    "D; retractable playing surface"
+   ],
+   [
+    "22",
+    "T\u00fcrk Telekom Arena",
+    "52,647",
+    "Istanbul",
+    "Turkey",
+    "RR"
+   ],
+   [
+    "23",
+    "Commerzbank-Arena",
+    "52,300",
+    "Frankfurt",
+    "Germany",
+    "RR"
+   ],
+   [
+    "24",
+    "Rogers Centre",
+    "52,230",
+    "Toronto, Ontario",
+    "Canada",
+    "RR"
+   ],
+   [
+    "25",
+    "Amsterdam ArenA",
+    "51,628",
+    "Amsterdam",
+    "Netherlands",
+    "RR"
+   ],
+   [
+    "26",
+    "Esprit Arena",
+    "51,500",
+    "D\u00fcsseldorf",
+    "Germany",
+    "RR"
+   ],
+   [
+    "27",
+    "Stade Pierre-Mauroy",
+    "50,186",
+    "Lille",
+    "France",
+    "RR"
+   ],
+   [
+    "28",
+    "Carrier Dome",
+    "49,262",
+    "Syracuse, New York",
+    "United States",
+    "D"
+   ],
+   [
+    "29",
+    "Chase Field",
+    "49,033",
+    "Phoenix, Arizona",
+    "United States",
+    "RR"
+   ],
+   [
+    "30",
+    "Tropicana Field",
+    "45,369",
+    "St. Petersburg, Florida",
+    "United States",
+    "D"
+   ],
+   [
+    "31",
+    "Toyota Stadium",
+    "45,000",
+    "Toyota",
+    "Japan",
+    "RR"
+   ],
+   [
+    "32",
+    "Miller Park",
+    "42,200",
+    "Milwaukee, Wisconsin",
+    "United States",
+    "RR"
+   ],
+   [
+    "33",
+    "Minute Maid Park",
+    "40,950",
+    "Houston, Texas",
+    "United States",
+    "RR"
+   ],
+   [
+    "34",
+    "Nagoya Dome",
+    "40,500",
+    "Nagoya",
+    "Japan",
+    "D"
+   ],
+   [
+    "35",
+    "\u014cita Stadium",
+    "40,000",
+    "\u014cita",
+    "Japan",
+    "RR"
+   ],
+   [
+    "36",
+    "Marlins Ballpark",
+    "37,000",
+    "Miami, Florida",
+    "United States",
+    "RR"
+   ],
+   [
+    "37",
+    "Osaka Dome",
+    "36,477",
+    "Osaka",
+    "Japan",
+    "D"
+   ],
+   [
+    "38",
+    "Fukuoka Dome",
+    "35,695",
+    "Fukuoka",
+    "Japan",
+    "RR"
+   ],
+   [
+    "39",
+    "Seibu Dome",
+    "35,655",
+    "Tokorozawa",
+    "Japan",
+    "RR"
+   ],
+   [
+    "40",
+    "Ordos Stadium",
+    "35,107",
+    "Ordos",
+    "China",
+    "RR"
+   ],
+   [
+    "41",
+    "Parken Stadion",
+    "38,065",
+    "Copenhagen",
+    "Denmark",
+    "RR"
+   ],
+   [
+    "42",
+    "GelreDome",
+    "32,500",
+    "Arnhem",
+    "Netherlands",
+    "RR; retractable playing surface"
+   ],
+   [
+    "43",
+    "Nantong Stadium",
+    "32,244",
+    "Nantong",
+    "China",
+    "RR"
+   ],
+   [
+    "44",
+    "Forsyth Barr Stadium at University Plaza",
+    "30,748",
+    "Dunedin",
+    "New Zealand",
+    "D"
+   ],
+   [
+    "45",
+    "Astana Arena",
+    "30,000",
+    "Astana",
+    "Kazakhstan",
+    "RR"
+   ],
+   [
+    "46",
+    "Tele2 Arena",
+    "30,000",
+    "Stockholm",
+    "Sweden",
+    "RR"
+   ],
+   [
+    "47",
+    "Tacoma Dome",
+    "23,000",
+    "Tacoma, Washington",
+    "United States",
+    "D"
+   ],
+   [
+    "48",
+    "Fargodome",
+    "19,000",
+    "Fargo, North Dakota",
+    "United States",
+    "D"
+   ],
+   [
+    "49",
+    "Walkup Skydome",
+    "16,230",
+    "Flagstaff, Arizona",
+    "United States",
+    "D"
+   ],
+   [
+    "50",
+    "Kibbie Dome",
+    "16,000",
+    "Moscow, Idaho",
+    "United States",
+    "D"
+   ],
+   [
+    "51",
+    "Alerus Center",
+    "13,500",
+    "Grand Forks, North Dakota",
+    "United States",
+    "D"
+   ],
+   [
+    "52",
+    "Holt Arena",
+    "12,000",
+    "Pocatello, Idaho",
+    "United States",
+    "D"
+   ],
+   [
+    "53",
+    "DakotaDome",
+    "10,000",
+    "Vermillion, South Dakota",
+    "United States",
+    "D"
+   ],
+   [
+    "54",
+    "UNI-Dome",
+    "10,000",
+    "Cedar Falls, Iowa",
+    "United States",
+    "D"
+   ],
+   [
+    "55",
+    "ETSU/Mountain States Health Alliance Athletic Center",
+    "8,539",
+    "Johnson City, Tennessee",
+    "United States",
+    "D"
+   ],
+   [
+    "56",
+    "Superior Dome",
+    "8,432",
+    "Marquette, Michigan",
+    "United States",
+    "D"
+   ],
+   [
+    "57",
+    "Round Valley Ensphere",
+    "5,500",
+    "Eagar, Arizona",
+    "United States",
+    "D"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 57
+ },
+ {
+  "id": "nt-5699",
+  "question": "how many cars in a unit will the en71 accommodate?",
+  "answers": [
+   "4"
+  ],
+  "ground_truth": "4",
+  "table_header": [
+   "Parameter",
+   "EN57",
+   "EN71",
+   "EW58"
+  ],
+  "table_rows": [
+   [
+    "Top speed",
+    "110\u00a0km/h",
+    "110\u00a0km/h",
+    "120\u00a0km/h"
+   ],
+   [
+    "Power (at h)",
+    "740\u00a0kW",
+    "1480\u00a0kW",
+    "1864\u00a0kW"
+   ],
+   [
+    "Constant power",
+    "608\u00a0kW",
+    "1216\u00a0kW",
+    "1648\u00a0kW"
+   ],
+   [
+    "Top acceleration",
+    "0,5\u00a0m/s\u00b2",
+    "0,6\u00a0m/s\u00b2",
+    "0,9\u00a0m/s\u00b2"
+   ],
+   [
+    "Max. axle pressure",
+    "14,3 t",
+    "14,3 t",
+    "13,0 t"
+   ],
+   [
+    "Car weight",
+    "57 + 2 x 34 t",
+    "2 x 57 + 2 x 34 t",
+    "42 + 2 x 52 t"
+   ],
+   [
+    "Wheel diameter (driving/non driving)",
+    "1000/940\u00a0mm",
+    "1000/940\u00a0mm",
+    "1000/920\u00a0mm"
+   ],
+   [
+    "Car length (external + internal)",
+    "20700 + 21570\u00a0mm",
+    "20700 + 21570\u00a0mm",
+    "21130 + 20940\u00a0mm"
+   ],
+   [
+    "Places (seating/standing)",
+    "212/468",
+    "288/624",
+    "212/352"
+   ],
+   [
+    "Number of cars in unit",
+    "3",
+    "4",
+    "3"
+   ],
+   [
+    "Traction scheme (m-motor, d-motorman's cabin, n-no cabin/motor)",
+    "d-m-d",
+    "d-m-m-d",
+    "dm-n-dm"
+   ],
+   [
+    "Number of doors per car per side",
+    "2",
+    "2",
+    "3"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 12
+ },
+ {
+  "id": "nt-12598",
+  "question": "what is the last xbox 360 release date?",
+  "answers": [
+   "5 September 2012"
+  ],
+  "ground_truth": "5 September 2012",
+  "table_header": [
+   "Drop(s)",
+   "Multiplayer Map(s)",
+   "Spec Ops Mission(s)",
+   "Face Off Map(s)",
+   "Xbox 360 release date",
+   "PlayStation 3 release date"
+  ],
+  "table_rows": [
+   [
+    "1-2",
+    "Liberation & Piazza",
+    "None",
+    "None",
+    "24 January 2012",
+    "28 February 2012"
+   ],
+   [
+    "3",
+    "Overwatch",
+    "None",
+    "None",
+    "21 February 2012",
+    "29 March 2012"
+   ],
+   [
+    "4-6",
+    "Black Box",
+    "Black Ice & Negotiator",
+    "None",
+    "13 March 2012",
+    "12 April 2012"
+   ],
+   [
+    "7-8",
+    "Sanctuary & Foundation",
+    "None",
+    "None",
+    "10 April 2012",
+    "10 May 2012"
+   ],
+   [
+    "9-12",
+    "Oasis",
+    "Iron Clad & Kill Switch",
+    "Getaway & Lookout",
+    "15 May 2012",
+    "14 June 2012"
+   ],
+   [
+    "13-15",
+    "None",
+    "Arctic Recon",
+    "Vortex, U-Turn & Intersection",
+    "19 June 2012",
+    "19 July 2012"
+   ],
+   [
+    "16-18",
+    "Decommission & Offshore",
+    "Vertigo",
+    "None",
+    "17 July 2012",
+    "16 August 2012"
+   ],
+   [
+    "19-21",
+    "None",
+    "Special Delivery, Light 'Em Up & Special Ops Chaos Mode",
+    "None",
+    "7 August 2012",
+    "6 September 2012"
+   ],
+   [
+    "22-24",
+    "Parish, Gulch & Boardwalk",
+    "None",
+    "None",
+    "5 September 2012",
+    "9 October 2012"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 9
+ },
+ {
+  "id": "nt-10527",
+  "question": "how many representatives served before the 1800s began?",
+  "answers": [
+   "7"
+  ],
+  "ground_truth": "7",
+  "table_header": [
+   "",
+   "Name",
+   "Took office",
+   "Left office",
+   "Party",
+   "Notes/Events"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Benjamin Contee",
+    "March 4, 1789",
+    "March 3, 1791",
+    "Anti-Administration",
+    ""
+   ],
+   [
+    "2",
+    "William Pinkney",
+    "March 4, 1791",
+    "November, 1791",
+    "Pro-Administration",
+    "resigned"
+   ],
+   [
+    "3",
+    "John Francis Mercer",
+    "February 5, 1792",
+    "March 3, 1793",
+    "Anti-Administration",
+    ""
+   ],
+   [
+    "4",
+    "Uriah Forrest",
+    "March 4, 1793",
+    "November 8, 1794",
+    "Pro-Administration",
+    "resigned"
+   ],
+   [
+    "5",
+    "Benjamin Edwards",
+    "January 2, 1795",
+    "March 3, 1795",
+    "Pro-Administration",
+    ""
+   ],
+   [
+    "6",
+    "Jeremiah Crabb",
+    "March 4, 1795",
+    "June 1, 1796",
+    "Federalist",
+    "resigned"
+   ],
+   [
+    "7",
+    "William Craik",
+    "December 5, 1796",
+    "March 3, 1801",
+    "Federalist",
+    ""
+   ],
+   [
+    "8",
+    "Thomas Plater",
+    "March 4, 1801",
+    "March 3, 1805",
+    "Federalist",
+    ""
+   ],
+   [
+    "9",
+    "Patrick Magruder",
+    "March 4, 1805",
+    "March 3, 1807",
+    "Democratic-Republican",
+    ""
+   ],
+   [
+    "10",
+    "Philip Barton Key",
+    "March 4, 1807",
+    "March 3, 1813",
+    "Federalist",
+    ""
+   ],
+   [
+    "11",
+    "Alexander Contee Hanson",
+    "March 4, 1813",
+    "1816",
+    "Federalist",
+    "resigned"
+   ],
+   [
+    "12",
+    "George Peter",
+    "October 7, 1816",
+    "March 3, 1819",
+    "Federalist",
+    ""
+   ],
+   [
+    "13",
+    "Henry Ridgely Warfield",
+    "March 4, 1819",
+    "March 3, 1823",
+    "Federalist",
+    ""
+   ],
+   [
+    "13",
+    "Henry Ridgely Warfield",
+    "March 4, 1823",
+    "March 3, 1825",
+    "Adams Federalist",
+    ""
+   ],
+   [
+    "14",
+    "George Peter",
+    "March 4, 1825",
+    "March 3, 1827",
+    "Jacksonian",
+    ""
+   ],
+   [
+    "15",
+    "George Corbin Washington",
+    "March 4, 1827",
+    "March 3, 1829",
+    "Adams",
+    ""
+   ],
+   [
+    "15",
+    "George Corbin Washington",
+    "March 4, 1829",
+    "March 3, 1833",
+    "Anti-Jacksonian",
+    ""
+   ],
+   [
+    "17",
+    "James Turner",
+    "March 4, 1833",
+    "March 3, 1837",
+    "Jacksonian",
+    ""
+   ],
+   [
+    "18",
+    "John Tolley Hood Worthington",
+    "March 4, 1837",
+    "March 3, 1841",
+    "Democratic",
+    ""
+   ],
+   [
+    "19",
+    "James Wray Williams",
+    "March 4, 1841",
+    "December 2, 1842",
+    "Democratic",
+    "died"
+   ],
+   [
+    "20",
+    "Charles S. Sewall",
+    "January 2, 1843",
+    "March 3, 1843",
+    "Democratic",
+    ""
+   ],
+   [
+    "21",
+    "John Wethered",
+    "March 4, 1843",
+    "March 3, 1845",
+    "Whig",
+    ""
+   ],
+   [
+    "22",
+    "Thomas Watkins Ligon",
+    "March 4, 1845",
+    "March 3, 1849",
+    "Democratic",
+    ""
+   ],
+   [
+    "23",
+    "Edward Hammond",
+    "March 4, 1849",
+    "March 3, 1853",
+    "Democratic",
+    ""
+   ],
+   [
+    "24",
+    "Joshua Van Sant",
+    "March 4, 1853",
+    "March 3, 1855",
+    "Democratic",
+    ""
+   ],
+   [
+    "25",
+    "James Morrison Harris",
+    "March 4, 1855",
+    "March 3, 1861",
+    "Know-Nothing",
+    ""
+   ],
+   [
+    "26",
+    "Cornelius Lawrence Ludlow Leary",
+    "March 4, 1861",
+    "March 3, 1863",
+    "Unionist",
+    ""
+   ],
+   [
+    "27",
+    "Henry Winter Davis",
+    "March 4, 1863",
+    "March 3, 1865",
+    "Unconditional Unionist",
+    ""
+   ],
+   [
+    "28",
+    "Charles Edward Phelps",
+    "March 4, 1865",
+    "March 3, 1867",
+    "Unconditional Unionist",
+    ""
+   ],
+   [
+    "28",
+    "Charles Edward Phelps",
+    "March 4, 1867",
+    "March 4, 1869",
+    "Conservative",
+    ""
+   ],
+   [
+    "29",
+    "Thomas Swann",
+    "March 4, 1869",
+    "March 3, 1873",
+    "Democratic",
+    "Redistricted to the 4th district"
+   ],
+   [
+    "30",
+    "William James O'Brien",
+    "March 4, 1873",
+    "March 3, 1877",
+    "Democratic",
+    ""
+   ],
+   [
+    "31",
+    "William Kimmel",
+    "March 4, 1877",
+    "March 3, 1881",
+    "Democratic",
+    ""
+   ],
+   [
+    "32",
+    "Fetter Schrier Hoblitzell",
+    "March 4, 1881",
+    "March 3, 1885",
+    "Democratic",
+    ""
+   ],
+   [
+    "33",
+    "William Hinson Cole",
+    "March 4, 1885",
+    "July 8, 1886",
+    "Democratic",
+    "died"
+   ],
+   [
+    "34",
+    "Harry Welles Rusk",
+    "November 2, 1886",
+    "March 3, 1897",
+    "Democratic",
+    ""
+   ],
+   [
+    "35",
+    "William Samuel Booze",
+    "March 4, 1897",
+    "March 3, 1899",
+    "Republican",
+    ""
+   ],
+   [
+    "36",
+    "Frank Charles Wachter",
+    "March 4, 1899",
+    "March 3, 1907",
+    "Democratic",
+    ""
+   ],
+   [
+    "37",
+    "Harry Benjamin Wolf",
+    "March 4, 1907",
+    "March 3, 1909",
+    "Democratic",
+    ""
+   ],
+   [
+    "38",
+    "John Kronmiller",
+    "March 4, 1909",
+    "March 3, 1911",
+    "Republican",
+    ""
+   ],
+   [
+    "39",
+    "George Konig",
+    "March 4, 1911",
+    "May 31, 1913",
+    "Democratic",
+    "died"
+   ],
+   [
+    "40",
+    "Charles Pearce Coady",
+    "November 4, 1913",
+    "March 3, 1921",
+    "Democratic",
+    ""
+   ],
+   [
+    "41",
+    "John Boynton Philip Clayton Hill",
+    "March 4, 1921",
+    "March 3, 1927",
+    "Republican",
+    ""
+   ],
+   [
+    "42",
+    "Vincent Palmisano",
+    "March 4, 1927",
+    "January 3, 1939",
+    "Democratic",
+    ""
+   ],
+   [
+    "43",
+    "Thomas D'Alesandro, Jr.",
+    "January 3, 1939",
+    "May 16, 1947",
+    "Democratic",
+    "resigned to become Mayor of Baltimore"
+   ],
+   [
+    "44",
+    "Edward Garmatz",
+    "July 15, 1947",
+    "January 3, 1973",
+    "Democratic",
+    ""
+   ],
+   [
+    "45",
+    "Paul Sarbanes",
+    "January 3, 1973",
+    "January 3, 1977",
+    "Democratic",
+    "Redistricted from the 4th district"
+   ],
+   [
+    "46",
+    "Barbara Mikulski",
+    "January 3, 1977",
+    "January 3, 1987",
+    "Democratic",
+    ""
+   ],
+   [
+    "47",
+    "Benjamin Cardin",
+    "January 3, 1987",
+    "January 3, 2007",
+    "Democratic",
+    ""
+   ],
+   [
+    "48",
+    "John Sarbanes",
+    "January 3, 2007",
+    "Incumbent",
+    "Democratic",
+    ""
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 50
+ },
+ {
+  "id": "nt-12946",
+  "question": "find the country of the first speaker whose name is unknown.",
+  "answers": [
+   "Bolivia"
+  ],
+  "ground_truth": "Bolivia",
+  "table_header": [
+   "State",
+   "Title",
+   "Name",
+   "Entered office"
+  ],
+  "table_rows": [
+   [
+    "Barbados",
+    "President of the Senate",
+    "Sir Stanley Robinson",
+    "1966"
+   ],
+   [
+    "Barbados",
+    "Speaker of the House of Assembly",
+    "Sir Theodore Brancker",
+    "1961"
+   ],
+   [
+    "Bolivia",
+    "President of the Senate",
+    "?",
+    "1970"
+   ],
+   [
+    "Bolivia",
+    "President of the Chamber of Deputies",
+    "?",
+    "1970"
+   ],
+   [
+    "Brazil",
+    "President of the Senate",
+    "Jo\u00e3o Cleofas de Oliveira",
+    "1970"
+   ],
+   [
+    "Brazil",
+    "President of the Chamber of Deputies",
+    "Geraldo Freire da Silva",
+    "1970"
+   ],
+   [
+    "Canada",
+    "Speaker of the Senate",
+    "Hon. Jean-Paul Deschatelets",
+    "September 5, 1968"
+   ],
+   [
+    "Canada",
+    "Speaker of the House of Commons",
+    "Hon. Lucien Lamoureux",
+    "January 18, 1966"
+   ],
+   [
+    "Chile",
+    "President of the Senate",
+    "Tom\u00e1s Pablo Elorza",
+    "1969"
+   ],
+   [
+    "Chile",
+    "President of the Chamber of Deputies",
+    "Fernando Humberto Andr\u00e9s Sanhueza Herbarge",
+    "July 20, 1970"
+   ],
+   [
+    "Colombia",
+    "President of the Senate",
+    "Eduardo Abuchaibe Ram\u00edrez",
+    "1970"
+   ],
+   [
+    "Colombia",
+    "President of the Chamber of Representatives",
+    "?",
+    "?"
+   ],
+   [
+    "Costa Rica",
+    "President of the Congress",
+    "Daniel Oduber Quir\u00f3s",
+    "1970"
+   ],
+   [
+    "Dominican Republic",
+    "President of Assembly",
+    "Pedro V\u00e1ldez\u00a0?",
+    "1966\u00a0?"
+   ],
+   [
+    "Ecuador",
+    "President of the Senate",
+    "?",
+    "?"
+   ],
+   [
+    "Ecuador",
+    "President of the Chamber of Deputies",
+    "?",
+    "?"
+   ],
+   [
+    "El Salvador",
+    "President of the Legislative Assembly",
+    "Dr. Benjamin Iteriano\u00a0?",
+    "1970\u00a0?"
+   ],
+   [
+    "Guatemala",
+    "President of the Congress",
+    "Mario Sandoval Alarc\u00f3n",
+    "1970"
+   ],
+   [
+    "Guyana",
+    "Speaker of the Legislative Assembly",
+    "Hon. Rahman Bacchus Gajraj",
+    "1968"
+   ],
+   [
+    "Haiti",
+    "President of the National Assembly",
+    "Ulrick St. Louis\u00a0?",
+    "?"
+   ],
+   [
+    "Honduras",
+    "President of the National Congress",
+    "Lic. Mario Rivera L\u00f3pez",
+    "1965"
+   ],
+   [
+    "Jamaica",
+    "President of the Senate",
+    "G. S. Ranglin",
+    "December 7, 1962"
+   ],
+   [
+    "Jamaica",
+    "Speaker of the House of Representatives",
+    "Eugene Parkinson",
+    "1967"
+   ],
+   [
+    "Mexico",
+    "President of the Senate",
+    "Lic. Manuel Aguirre[disambiguation needed]\u00a0?",
+    "1967\u00a0?"
+   ],
+   [
+    "Mexico",
+    "President of the Federal Chamber of Deputies",
+    "Lic. Luis Farias\u00a0?",
+    "1967\u00a0?"
+   ],
+   [
+    "Nicaragua",
+    "President of the Senate",
+    "Dr. Adr\u00edan Cuadra Guti\u00e9rrez\u00a0?",
+    ""
+   ],
+   [
+    "Nicaragua",
+    "President of the Chamber of Deputies",
+    "Dr. Orlando Montenegro\u00a0?",
+    ""
+   ],
+   [
+    "Paraguay",
+    "President of the Council of State",
+    "Dr. Juan Ram\u00f3n Chavez\u00a0?",
+    "1967\u00a0?"
+   ],
+   [
+    "Trinidad and Tobago",
+    "President of the Senate",
+    "J. Hamilton Maurice",
+    "December 29, 1961"
+   ],
+   [
+    "Trinidad and Tobago",
+    "Speaker of the House of Representatives",
+    "A. C. Thomasos",
+    "December 29, 1961"
+   ],
+   [
+    "USA",
+    "President of the Senate (The Vice President of the United States of America)",
+    "Spiro Agnew",
+    "January 20, 1969"
+   ],
+   [
+    "USA",
+    "President pro tempore of the Senate",
+    "Richard B. Russell",
+    "January 2, 1969"
+   ],
+   [
+    "USA",
+    "Speaker of the House of Representatives",
+    "John William McCormack",
+    "January 10, 1962"
+   ],
+   [
+    "Puerto Rico",
+    "President of the Senate",
+    "Rafael Hern\u00e1ndez Col\u00f3n",
+    "1969"
+   ],
+   [
+    "Puerto Rico",
+    "Speaker of the House of Representatives",
+    "Angel Viera Mart\u00ednez",
+    "January 13, 1969"
+   ],
+   [
+    "Uruguay",
+    "President of the Senate (The Vice President of Uruguay)",
+    "Dr. Alberto Abdala",
+    "December 6, 1967"
+   ],
+   [
+    "Uruguay",
+    "President of the Chamber of Deputies",
+    "Fernando Elichirigoity",
+    "March 1, 1970"
+   ],
+   [
+    "Venezuela",
+    "President of the Senate",
+    "Dr. Jos\u00e9 A. P\u00e9rez D\u00edaz\u00a0?",
+    "1968\u00a0?"
+   ],
+   [
+    "Venezuela",
+    "President of the Chamber of Deputies",
+    "Prof. Jorge Dargen\u00a0?",
+    "1968\u00a0?"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 39
+ },
+ {
+  "id": "nt-3491",
+  "question": "what is the first song on this album?",
+  "answers": [
+   "\"A Dream Is a Wish Your Heart Makes\""
+  ],
+  "ground_truth": "\"A Dream Is a Wish Your Heart Makes\"",
+  "table_header": [
+   "#",
+   "Title",
+   "Performer(s)",
+   "Film",
+   "Length"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "\"A Dream Is a Wish Your Heart Makes\"",
+    "Disney Channel Stars",
+    "Cinderella",
+    "3:46"
+   ],
+   [
+    "2",
+    "\"Zip-a-Dee-Doo-Dah\"",
+    "Miley Cyrus",
+    "Song of the South",
+    "3:06"
+   ],
+   [
+    "3",
+    "\"If I Never Knew You\"",
+    "The Cheetah Girls",
+    "Pocahontas",
+    "3:16"
+   ],
+   [
+    "4",
+    "\"Who's Afraid of the Big Bad Wolf?\"",
+    "B5",
+    "Three Little Pigs",
+    "3:32"
+   ],
+   [
+    "5",
+    "\"Reflection\" (Remix)",
+    "Christina Aguilera",
+    "Mulan",
+    "3:15"
+   ],
+   [
+    "6",
+    "\"I'll Try\"",
+    "Jesse McCartney",
+    "Return to Never Land",
+    "3:51"
+   ],
+   [
+    "7",
+    "\"Look Through My Eyes\"",
+    "Everlife",
+    "Brother Bear",
+    "3:11"
+   ],
+   [
+    "8",
+    "\"Candle on the Water\"",
+    "Anneliese van der Pol",
+    "Pete's Dragon",
+    "3:08"
+   ],
+   [
+    "9",
+    "\"You'll Be in My Heart\"",
+    "Teddy Geiger",
+    "Tarzan",
+    "4:15"
+   ],
+   [
+    "10",
+    "\"Yo Ho (A Pirate's Life for Me)\"",
+    "Jonas Brothers",
+    "Pirates of the Caribbean",
+    "2:04"
+   ],
+   [
+    "11",
+    "\"Someday My Prince Will Come (feat. Drew Seeley)\"",
+    "Ashley Tisdale",
+    "Snow White and the Seven Dwarfs",
+    "3:31"
+   ],
+   [
+    "12",
+    "\"Hawaiian Roller Coaster Ride\"",
+    "Baha Men",
+    "Lilo & Stitch",
+    "3:30"
+   ],
+   [
+    "13",
+    "\"Can You Feel the Love Tonight\"",
+    "Sara Paxton",
+    "The Lion King",
+    "3:40"
+   ],
+   [
+    "14",
+    "\"Super Cali (BoiOB Mix)\"",
+    "Orlando Brown",
+    "Mary Poppins",
+    "3:32"
+   ],
+   [
+    "15",
+    "\"Monkey's Uncle\"",
+    "Devo 2.0",
+    "The Monkey's Uncle",
+    "2:24"
+   ],
+   [
+    "16",
+    "\"Cruella De Vil\" 1",
+    "Skye Sweetnam",
+    "101 Dalmatians",
+    "2:55"
+   ],
+   [
+    "17",
+    "\"Go the Distance\" 1",
+    "K-Ci & JoJo",
+    "Hercules",
+    "4:10"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 17
+ },
+ {
+  "id": "nt-14030",
+  "question": "pune or surat had a 2001 population on 2,538,473?",
+  "answers": [
+   "Pune"
+  ],
+  "ground_truth": "Pune",
+  "table_header": [
+   "Rank",
+   "City",
+   "Population (2011)",
+   "Population (2001)",
+   "State/Territory"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Mumbai",
+    "12,478,447",
+    "11,978,450",
+    "Maharashtra"
+   ],
+   [
+    "2",
+    "Delhi",
+    "11,007,835",
+    "9,879,172",
+    "Delhi"
+   ],
+   [
+    "3",
+    "Bangalore",
+    "8,425,970",
+    "5,438,065",
+    "Karnataka"
+   ],
+   [
+    "4",
+    "Hyderabad",
+    "6,809,970",
+    "3,637,483",
+    "Andhra Pradesh"
+   ],
+   [
+    "5",
+    "Ahmedabad",
+    "5,570,585",
+    "3,520,085",
+    "Gujarat"
+   ],
+   [
+    "6",
+    "Chennai",
+    "4,681,087",
+    "4,343,645",
+    "Tamil Nadu"
+   ],
+   [
+    "7",
+    "Kolkata",
+    "4,486,679",
+    "4,572,876",
+    "West Bengal"
+   ],
+   [
+    "8",
+    "Surat",
+    "4,462,002",
+    "2,433,835",
+    "Gujarat"
+   ],
+   [
+    "9",
+    "Pune",
+    "3,115,431",
+    "2,538,473",
+    "Maharashtra"
+   ],
+   [
+    "10",
+    "Jaipur",
+    "3,073,350",
+    "2,322,575",
+    "Rajasthan"
+   ],
+   [
+    "11",
+    "Lucknow",
+    "2,815,601",
+    "2,185,927",
+    "Uttar Pradesh"
+   ],
+   [
+    "12",
+    "Kanpur",
+    "2,767,031",
+    "2,551,337",
+    "Uttar Pradesh"
+   ],
+   [
+    "13",
+    "Nagpur",
+    "2,405,421",
+    "2,052,066",
+    "Maharashtra"
+   ],
+   [
+    "14",
+    "Indore",
+    "1,960,631",
+    "1,474,968",
+    "Madhya Pradesh"
+   ],
+   [
+    "15",
+    "Thane",
+    "1,818,872",
+    "1,262,551",
+    "Maharashtra"
+   ],
+   [
+    "16",
+    "Bhopal",
+    "1,795,648",
+    "1,437,354",
+    "Madhya Pradesh"
+   ],
+   [
+    "17",
+    "Visakhapatnam",
+    "1,730,320",
+    "982,904",
+    "Andhra Pradesh"
+   ],
+   [
+    "18",
+    "Pimpri-Chinchwad",
+    "1,729,359",
+    "1,012,472",
+    "Maharashtra"
+   ],
+   [
+    "19",
+    "Patna",
+    "1,683,200",
+    "1,366,444",
+    "Bihar"
+   ],
+   [
+    "20",
+    "Vadodara",
+    "1,666,703",
+    "1,306,227",
+    "Gujarat"
+   ],
+   [
+    "21",
+    "Ghaziabad",
+    "1,636,068",
+    "968,256",
+    "Uttar Pradesh"
+   ],
+   [
+    "22",
+    "Ludhiana",
+    "1,613,878",
+    "1,398,467",
+    "Punjab"
+   ],
+   [
+    "23",
+    "Agra",
+    "1,574,542",
+    "1,275,134",
+    "Uttar Pradesh"
+   ],
+   [
+    "24",
+    "Nashik",
+    "1,486,973",
+    "1,077,236",
+    "Maharashtra"
+   ],
+   [
+    "25",
+    "Faridabad",
+    "1,404,653",
+    "1,055,938",
+    "Haryana"
+   ],
+   [
+    "26",
+    "Meerut",
+    "1,309,023",
+    "1,068,772",
+    "Uttar Pradesh"
+   ],
+   [
+    "27",
+    "Rajkot",
+    "1,286,995",
+    "967,476",
+    "Gujarat"
+   ],
+   [
+    "28",
+    "Kalyan-Dombivali",
+    "1,246,381",
+    "1,193,512",
+    "Maharashtra"
+   ],
+   [
+    "29",
+    "Vasai-Virar",
+    "1,221,233",
+    "Not Available",
+    "Maharashtra"
+   ],
+   [
+    "30",
+    "Varanasi",
+    "1,201,815",
+    "1,091,918",
+    "Uttar Pradesh"
+   ],
+   [
+    "31",
+    "Srinagar",
+    "1,192,792",
+    "898,440",
+    "Jammu and Kashmir"
+   ],
+   [
+    "32",
+    "Aurangabad",
+    "1,171,330",
+    "873,311",
+    "Maharashtra"
+   ],
+   [
+    "33",
+    "Dhanbad",
+    "1,161,561",
+    "99,258",
+    "Jharkhand"
+   ],
+   [
+    "34",
+    "Amritsar",
+    "1,132,761",
+    "966,862",
+    "Punjab"
+   ],
+   [
+    "35",
+    "Navi Mumbai",
+    "1,119,477",
+    "704,002",
+    "Maharashtra"
+   ],
+   [
+    "36",
+    "Allahabad",
+    "1,117,094",
+    "975,393",
+    "Uttar Pradesh"
+   ],
+   [
+    "37",
+    "Ranchi",
+    "1,073,440",
+    "847,093",
+    "Jharkhand"
+   ],
+   [
+    "38",
+    "Howrah",
+    "1,072,161",
+    "1,007,532",
+    "West Bengal"
+   ],
+   [
+    "39",
+    "Coimbatore",
+    "1,061,447",
+    "930,882",
+    "Tamil Nadu"
+   ],
+   [
+    "40",
+    "Jabalpur",
+    "1,054,336",
+    "932,484",
+    "Madhya Pradesh"
+   ],
+   [
+    "41",
+    "Gwalior",
+    "1,053,505",
+    "827,026",
+    "Madhya Pradesh"
+   ],
+   [
+    "42",
+    "Vijayawada",
+    "1,048,240",
+    "851,282",
+    "Andhra Pradesh"
+   ],
+   [
+    "43",
+    "Jodhpur",
+    "1,033,918",
+    "851,051",
+    "Rajasthan"
+   ],
+   [
+    "44",
+    "Madurai",
+    "1,016,885",
+    "928,869",
+    "Tamil Nadu"
+   ],
+   [
+    "45",
+    "Raipur",
+    "1,010,087",
+    "605,747",
+    "Chhattisgarh"
+   ],
+   [
+    "46",
+    "Kota",
+    "1,001,365",
+    "694,316",
+    "Rajasthan"
+   ],
+   [
+    "47",
+    "Guwahati",
+    "963,429",
+    "809,895",
+    "Assam"
+   ],
+   [
+    "48",
+    "Chandigarh",
+    "960,787",
+    "808,515",
+    "Chandigarh"
+   ],
+   [
+    "49",
+    "Solapur",
+    "951,118",
+    "872,478",
+    "Maharashtra"
+   ],
+   [
+    "50",
+    "Hubballi-Dharwad",
+    "943,857",
+    "786,195",
+    "Karnataka"
+   ],
+   [
+    "51",
+    "Bareilly",
+    "898,167",
+    "718,395",
+    "Uttar Pradesh"
+   ],
+   [
+    "52",
+    "Moradabad",
+    "889,810",
+    "641,583",
+    "Uttar Pradesh"
+   ],
+   [
+    "53",
+    "Mysore",
+    "887,446",
+    "755,379",
+    "Karnataka"
+   ],
+   [
+    "54",
+    "Gurgaon",
+    "876,824",
+    "173,542",
+    "Haryana"
+   ],
+   [
+    "55",
+    "Aligarh",
+    "872,575",
+    "669,087",
+    "Uttar Pradesh"
+   ],
+   [
+    "56",
+    "Jalandhar",
+    "862,196",
+    "706,043",
+    "Punjab"
+   ],
+   [
+    "57",
+    "Tiruchirappalli",
+    "846,915",
+    "752,066",
+    "Tamil Nadu"
+   ],
+   [
+    "58",
+    "Bhubaneswar",
+    "837,737",
+    "648,032",
+    "Orissa"
+   ],
+   [
+    "59",
+    "Salem",
+    "831,038",
+    "696,760",
+    "Tamil Nadu"
+   ],
+   [
+    "60",
+    "Mira-Bhayandar",
+    "814,655",
+    "520,388",
+    "Maharashtra"
+   ],
+   [
+    "61",
+    "Trivandrum (Thiruvananthapuram)",
+    "752,490",
+    "744,983",
+    "Kerala"
+   ],
+   [
+    "62",
+    "Bhiwandi",
+    "711,329",
+    "598,741",
+    "Maharashtra"
+   ],
+   [
+    "63",
+    "Saharanpur",
+    "703,345",
+    "455,754",
+    "Uttar Pradesh"
+   ],
+   [
+    "64",
+    "Gorakhpur",
+    "671,048",
+    "622,701",
+    "Uttar Pradesh"
+   ],
+   [
+    "65",
+    "Guntur",
+    "651,382",
+    "514,461",
+    "Andhra Pradesh"
+   ],
+   [
+    "66",
+    "Bikaner",
+    "647,804",
+    "529,690",
+    "Rajasthan"
+   ],
+   [
+    "67",
+    "Amravati",
+    "646,801",
+    "549,510",
+    "Maharashtra"
+   ],
+   [
+    "68",
+    "Noida",
+    "642,381",
+    "305,058",
+    "Uttar Pradesh"
+   ],
+   [
+    "69",
+    "Jamshedpur",
+    "629,659",
+    "573,096",
+    "Jharkhand"
+   ],
+   [
+    "70",
+    "Bhilai",
+    "625,697",
+    "556,366",
+    "Chhattisgarh"
+   ],
+   [
+    "71",
+    "Warangal",
+    "620,116",
+    "530,636",
+    "Andhra Pradesh"
+   ],
+   [
+    "72",
+    "Mangalore",
+    "619,664",
+    "399,565",
+    "Karnataka"
+   ],
+   [
+    "73",
+    "Cuttack",
+    "606,007",
+    "534,654",
+    "Orissa"
+   ],
+   [
+    "74",
+    "Firozabad",
+    "603,797",
+    "279,102",
+    "Uttar Pradesh"
+   ],
+   [
+    "75",
+    "Kochi (Cochin)",
+    "601,574",
+    "596,473",
+    "Kerala"
+   ],
+   [
+    "76",
+    "Bhavnagar",
+    "593,768",
+    "511,085",
+    "Gujarat"
+   ],
+   [
+    "77",
+    "Dehradun",
+    "578,420",
+    "426,674",
+    "Uttarakhand"
+   ],
+   [
+    "78",
+    "Durgapur",
+    "566,937",
+    "493,405",
+    "West Bengal"
+   ],
+   [
+    "79",
+    "Asansol",
+    "564,491",
+    "475,439",
+    "West Bengal"
+   ],
+   [
+    "80",
+    "Nanded",
+    "550,564",
+    "430,733",
+    "Maharashtra"
+   ],
+   [
+    "81",
+    "Kolhapur",
+    "549,283",
+    "493,167",
+    "Maharashtra"
+   ],
+   [
+    "82",
+    "Ajmer",
+    "542,580",
+    "485,575",
+    "Rajasthan"
+   ],
+   [
+    "83",
+    "Gulbarga",
+    "532,031",
+    "422,569",
+    "Karnataka"
+   ],
+   [
+    "84",
+    "Jamnagar",
+    "529,308",
+    "443,518",
+    "Gujarat"
+   ],
+   [
+    "85",
+    "Ujjain",
+    "515,215",
+    "430,427",
+    "Madhya Pradesh"
+   ],
+   [
+    "86",
+    "Loni",
+    "512,296",
+    "120,945",
+    "Uttar Pradesh"
+   ],
+   [
+    "87",
+    "Siliguri",
+    "509,709",
+    "472,374",
+    "West Bengal"
+   ],
+   [
+    "88",
+    "Jhansi",
+    "507,293",
+    "383,644",
+    "Uttar Pradesh"
+   ],
+   [
+    "89",
+    "Ulhasnagar",
+    "506,937",
+    "473,731",
+    "Maharashtra"
+   ],
+   [
+    "90",
+    "Nellore",
+    "505,258",
+    "378,428",
+    "Andhra Pradesh"
+   ],
+   [
+    "91",
+    "Jammu",
+    "503,690",
+    "369,959",
+    "Jammu and Kashmir"
+   ],
+   [
+    "92",
+    "Sangli-Miraj & Kupwad",
+    "502,697",
+    "436,781",
+    "Maharashtra"
+   ],
+   [
+    "93",
+    "Belgaum",
+    "488,292",
+    "399,653",
+    "Karnataka"
+   ],
+   [
+    "94",
+    "Ambattur",
+    "478,134",
+    "310,967",
+    "Tamil Nadu"
+   ],
+   [
+    "95",
+    "Tirunelveli",
+    "474,838",
+    "411,831",
+    "Tamil Nadu"
+   ],
+   [
+    "96",
+    "Malegaon",
+    "471,006",
+    "409,403",
+    "Maharashtra"
+   ],
+   [
+    "97",
+    "Gaya",
+    "463,454",
+    "385,432",
+    "Bihar"
+   ],
+   [
+    "98",
+    "Jalgaon",
+    "460,468",
+    "368,618",
+    "Maharashtra"
+   ],
+   [
+    "99",
+    "Udaipur",
+    "451,735",
+    "389,438",
+    "Rajasthan"
+   ],
+   [
+    "100",
+    "Maheshtala",
+    "449,423",
+    "385,266",
+    "West Bengal"
+   ],
+   [
+    "101",
+    "Tirupur",
+    "444,543",
+    "344,543",
+    "Tamil Nadu"
+   ],
+   [
+    "102",
+    "Davanagere",
+    "435,128",
+    "364,523",
+    "Karnataka"
+   ],
+   [
+    "103",
+    "Kozhikode (Calicut)",
+    "432,097",
+    "436,556",
+    "Kerala"
+   ],
+   [
+    "104",
+    "Akola",
+    "427,146",
+    "400,520",
+    "Maharashtra"
+   ],
+   [
+    "105",
+    "Kurnool",
+    "424,920",
+    "269,122",
+    "Andhra Pradesh"
+   ],
+   [
+    "106",
+    "Rajpur Sonarpur",
+    "423,806",
+    "336,707",
+    "West Bengal"
+   ],
+   [
+    "107",
+    "Bokaro",
+    "413,934",
+    "393,805",
+    "Jharkhand"
+   ],
+   [
+    "108",
+    "South Dumdum",
+    "410,524",
+    "392,444",
+    "West Bengal"
+   ],
+   [
+    "109",
+    "Bellary",
+    "409,644",
+    "316,766",
+    "Karnataka"
+   ],
+   [
+    "110",
+    "Patiala",
+    "405,164",
+    "303,151",
+    "Punjab"
+   ],
+   [
+    "111",
+    "Gopalpur",
+    "404,991",
+    "271,811",
+    "West Bengal"
+   ],
+   [
+    "112",
+    "Agartala",
+    "399,688",
+    "271,811",
+    "Tripura"
+   ],
+   [
+    "113",
+    "Bhagalpur",
+    "398,138",
+    "340,767",
+    "Bihar"
+   ],
+   [
+    "114",
+    "Muzaffarnagar",
+    "392,451",
+    "316,729",
+    "Uttar Pradesh"
+   ],
+   [
+    "115",
+    "Bhatpara",
+    "390,467",
+    "442,385",
+    "West Bengal"
+   ],
+   [
+    "116",
+    "Panihati",
+    "383,522",
+    "348,438",
+    "West Bengal"
+   ],
+   [
+    "117",
+    "Latur",
+    "382,754",
+    "299,985",
+    "Maharashtra"
+   ],
+   [
+    "118",
+    "Dhule",
+    "376,093",
+    "341,755",
+    "Maharashtra"
+   ],
+   [
+    "119",
+    "Rohtak",
+    "373,133",
+    "286,807",
+    "Haryana"
+   ],
+   [
+    "120",
+    "Korba",
+    "363,210",
+    "315,690",
+    "Chhattisgarh"
+   ],
+   [
+    "121",
+    "Bhilwara",
+    "360,009",
+    "280,128",
+    "Rajasthan"
+   ],
+   [
+    "122",
+    "Brahmapur",
+    "355,823",
+    "307,792",
+    "Orissa"
+   ],
+   [
+    "123",
+    "Muzaffarpur",
+    "351,838",
+    "305,525",
+    "Bihar"
+   ],
+   [
+    "124",
+    "Ahmednagar",
+    "350,905",
+    "307,615",
+    "Maharashtra"
+   ],
+   [
+    "125",
+    "Mathura",
+    "349,336",
+    "302,770",
+    "Uttar Pradesh"
+   ],
+   [
+    "126",
+    "Kollam (Quilon)",
+    "349,033",
+    "361,560",
+    "Kerala"
+   ],
+   [
+    "127",
+    "Avadi",
+    "344,701",
+    "229,403",
+    "Tamil Nadu"
+   ],
+   [
+    "128",
+    "Rajahmundry",
+    "343,903",
+    "315,251",
+    "Andhra Pradesh"
+   ],
+   [
+    "129",
+    "Kadapa",
+    "341,823",
+    "125,725",
+    "Andhra Pradesh"
+   ],
+   [
+    "130",
+    "Kamarhati",
+    "336,579",
+    "314,507",
+    "West Bengal"
+   ],
+   [
+    "131",
+    "Bilaspur",
+    "330,106",
+    "274,917",
+    "Chhattisgarh"
+   ],
+   [
+    "132",
+    "Shahjahanpur",
+    "327,975",
+    "296,662",
+    "Uttar Pradesh"
+   ],
+   [
+    "133",
+    "Bijapur",
+    "326,360",
+    "228,175",
+    "Karnataka"
+   ],
+   [
+    "134",
+    "Rampur",
+    "325,248",
+    "281,494",
+    "Uttar Pradesh"
+   ],
+   [
+    "135",
+    "Shivamogga (Shimoga)",
+    "322,428",
+    "274,352",
+    "Karnataka"
+   ],
+   [
+    "136",
+    "Chandrapur",
+    "321,036",
+    "289,450",
+    "Maharashtra"
+   ],
+   [
+    "137",
+    "Junagadh",
+    "320,250",
+    "168,686",
+    "Gujarat"
+   ],
+   [
+    "138",
+    "Thrissur",
+    "315,596",
+    "317,526",
+    "Kerala"
+   ],
+   [
+    "139",
+    "Alwar",
+    "315,310",
+    "260,593",
+    "Rajasthan"
+   ],
+   [
+    "140",
+    "Bardhaman",
+    "314,638",
+    "285,602",
+    "West Bengal"
+   ],
+   [
+    "141",
+    "Kulti",
+    "313,977",
+    "289,903",
+    "West Bengal"
+   ],
+   [
+    "142",
+    "Kakinada",
+    "312,255",
+    "296,329",
+    "Andhra Pradesh"
+   ],
+   [
+    "143",
+    "Nizamabad",
+    "310,467",
+    "288,722",
+    "Andhra Pradesh"
+   ],
+   [
+    "144",
+    "Parbhani",
+    "307,191",
+    "259,329",
+    "Maharashtra"
+   ],
+   [
+    "145",
+    "Tumkur",
+    "305,821",
+    "248,929",
+    "Karnataka"
+   ],
+   [
+    "146",
+    "Hisar",
+    "301,249",
+    "256,689",
+    "Haryana"
+   ],
+   [
+    "147",
+    "Ozhukarai",
+    "300,028",
+    "217,707",
+    "Puducherry"
+   ],
+   [
+    "148",
+    "Bihar Sharif",
+    "296,889",
+    "232,071",
+    "Bihar"
+   ],
+   [
+    "149",
+    "Panipat",
+    "294,150",
+    "261,740",
+    "Haryana"
+   ],
+   [
+    "150",
+    "Darbhanga",
+    "294,116",
+    "267,348",
+    "Bihar"
+   ],
+   [
+    "151",
+    "Bally",
+    "291,972",
+    "260,906",
+    "West Bengal"
+   ],
+   [
+    "152",
+    "Aizawl",
+    "291,822",
+    "228,280",
+    "Mizoram"
+   ],
+   [
+    "153",
+    "Dewas",
+    "289,438",
+    "231,672",
+    "Madhya Pradesh"
+   ],
+   [
+    "154",
+    "Ichalkaranji",
+    "287,570",
+    "257,610",
+    "Maharashtra"
+   ],
+   [
+    "155",
+    "Tirupati",
+    "287,035",
+    "228,202",
+    "Andhra Pradesh"
+   ],
+   [
+    "156",
+    "Karnal",
+    "286,974",
+    "210,476",
+    "Haryana"
+   ],
+   [
+    "157",
+    "Bathinda",
+    "285,813",
+    "217,256",
+    "Punjab"
+   ],
+   [
+    "158",
+    "Jalna",
+    "285,349",
+    "235,795",
+    "Maharashtra"
+   ],
+   [
+    "159",
+    "Barasat",
+    "283,443",
+    "231,515",
+    "West Bengal"
+   ],
+   [
+    "160",
+    "Kirari Suleman Nagar",
+    "282,598",
+    "153,874",
+    "Delhi"
+   ],
+   [
+    "161",
+    "Purnia",
+    "280,547",
+    "171,687",
+    "Bihar"
+   ],
+   [
+    "162",
+    "Satna",
+    "280,248",
+    "225,464",
+    "Madhya Pradesh"
+   ],
+   [
+    "163",
+    "Mau",
+    "279,060",
+    "212,657",
+    "Uttar Pradesh"
+   ],
+   [
+    "164",
+    "Sonipat",
+    "277,053",
+    "214,974",
+    "Haryana"
+   ],
+   [
+    "165",
+    "Farrukhabad",
+    "275,750",
+    "228,333",
+    "Uttar Pradesh"
+   ],
+   [
+    "166",
+    "Sagar",
+    "273,357",
+    "232,133",
+    "Madhya Pradesh"
+   ],
+   [
+    "167",
+    "Rourkela",
+    "273,217",
+    "224,601",
+    "Orissa"
+   ],
+   [
+    "168",
+    "Durg",
+    "268,679",
+    "232,517",
+    "Chhattisgarh"
+   ],
+   [
+    "169",
+    "Imphal",
+    "264,986",
+    "221,492",
+    "Manipur"
+   ],
+   [
+    "170",
+    "Ratlam",
+    "264,810",
+    "222,202",
+    "Madhya Pradesh"
+   ],
+   [
+    "171",
+    "Hapur",
+    "262,801",
+    "211,983",
+    "Uttar Pradesh"
+   ],
+   [
+    "172",
+    "Anantapur",
+    "262,340",
+    "218,808",
+    "Andhra Pradesh"
+   ],
+   [
+    "173",
+    "Arrah",
+    "261,099",
+    "203,380",
+    "Bihar"
+   ],
+   [
+    "174",
+    "Karimnagar",
+    "260,899",
+    "205,653",
+    "Andhra Pradesh"
+   ],
+   [
+    "175",
+    "Etawah",
+    "256,790",
+    "210,453",
+    "Uttar Pradesh"
+   ],
+   [
+    "176",
+    "Ambernath",
+    "254,003",
+    "203,795",
+    "Maharashtra"
+   ],
+   [
+    "177",
+    "North Dumdum",
+    "253,625",
+    "220,042",
+    "West Bengal"
+   ],
+   [
+    "178",
+    "Bharatpur",
+    "252,109",
+    "204,587",
+    "Rajasthan"
+   ],
+   [
+    "179",
+    "Begusarai",
+    "251,136",
+    "93,378",
+    "Bihar"
+   ],
+   [
+    "180",
+    "New Delhi",
+    "249,998",
+    "302,147",
+    "Delhi"
+   ],
+   [
+    "181",
+    "Gandhidham",
+    "248,705",
+    "166,388",
+    "Gujarat"
+   ],
+   [
+    "182",
+    "Baranagar",
+    "248,466",
+    "250,768",
+    "West Bengal"
+   ],
+   [
+    "183",
+    "Tiruvottiyur",
+    "248,059",
+    "212,281",
+    "Tamil Nadu"
+   ],
+   [
+    "184",
+    "Puducherry",
+    "241,773",
+    "220,749",
+    "Puducherry"
+   ],
+   [
+    "185",
+    "Sikar",
+    "237,579",
+    "184,904",
+    "Rajasthan"
+   ],
+   [
+    "186",
+    "Thoothukudi",
+    "237,374",
+    "216,058",
+    "Tamil Nadu"
+   ],
+   [
+    "187",
+    "Rewa",
+    "235,422",
+    "183,274",
+    "Madhya Pradesh"
+   ],
+   [
+    "188",
+    "Mirzapur",
+    "233,691",
+    "205,053",
+    "Uttar Pradesh"
+   ],
+   [
+    "189",
+    "Raichur",
+    "232,456",
+    "207,421",
+    "Karnataka"
+   ],
+   [
+    "190",
+    "Pali",
+    "229,956",
+    "187,641",
+    "Rajasthan"
+   ],
+   [
+    "191",
+    "Ramagundam",
+    "229,632",
+    "236,600",
+    "Andhra Pradesh"
+   ],
+   [
+    "192",
+    "Vizianagaram",
+    "227,533",
+    "174,324",
+    "Andhra Pradesh"
+   ],
+   [
+    "193",
+    "Katihar",
+    "225,982",
+    "175,169",
+    "Bihar"
+   ],
+   [
+    "194",
+    "Haridwar",
+    "225,235",
+    "175,010",
+    "Uttarakhand"
+   ],
+   [
+    "195",
+    "Sri Ganganagar",
+    "224,773",
+    "210,713",
+    "Rajasthan"
+   ],
+   [
+    "196",
+    "Karawal Nagar",
+    "224,666",
+    "148,549",
+    "Delhi"
+   ],
+   [
+    "197",
+    "Nagercoil",
+    "224,329",
+    "208,149",
+    "Tamil Nadu"
+   ],
+   [
+    "198",
+    "Mango",
+    "224,002",
+    "166,091",
+    "Jharkhand"
+   ],
+   [
+    "199",
+    "Bulandshahr",
+    "222,826",
+    "176,256",
+    "Uttar Pradesh"
+   ],
+   [
+    "200",
+    "Thanjavur",
+    "222,619",
+    "215,725",
+    "Tamil Nadu"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 200
+ },
+ {
+  "id": "nt-3834",
+  "question": "how many camps did vavuniya represent?",
+  "answers": [
+   "11"
+  ],
+  "ground_truth": "11",
+  "table_header": [
+   "Camp",
+   "Div Sec\\nDivision",
+   "Admin\\nDistrict",
+   "9 Feb",
+   "11 Feb",
+   "16 Feb",
+   "25 Feb",
+   "27 Feb",
+   "2 Mar",
+   "4 Mar",
+   "6 Mar",
+   "11 Mar",
+   "13 Mar",
+   "24 Mar",
+   "30 Mar",
+   "31 Mar"
+  ],
+  "table_rows": [
+   [
+    "Menik Farm Zone 0\\n(Kathirkamar Village)",
+    "Vengalachedikulam",
+    "VAV",
+    "",
+    "",
+    "1,353",
+    "2,768",
+    "2,791",
+    "2,791",
+    "3,344",
+    "4,212",
+    "4,679",
+    "4,679",
+    "6,459",
+    "6,459",
+    "6,459"
+   ],
+   [
+    "Menik Farm Zone 3\\n(Arunachchalam Village)",
+    "Vengalachedikulam",
+    "VAV",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "6,729",
+    "11,881",
+    "11,881"
+   ],
+   [
+    "Ariviththodam Sivanantha Vidyalayam, Menik Farm",
+    "Vengalachedikulam",
+    "VAV",
+    "581",
+    "581",
+    "581",
+    "581",
+    "584",
+    "584",
+    "585",
+    "585",
+    "583",
+    "583",
+    "601",
+    "601",
+    "601"
+   ],
+   [
+    "Cheddikulam Maha Vidyalayam",
+    "Vengalachedikulam",
+    "VAV",
+    "1,624",
+    "1,624",
+    "1,624",
+    "1,965",
+    "1,965",
+    "1,965",
+    "1,996",
+    "1,996",
+    "2,001",
+    "2,001",
+    "1,995",
+    "1,995",
+    "1,995"
+   ],
+   [
+    "Gamini Maha Vidyalayam",
+    "Vavuniya",
+    "VAV",
+    "1,306",
+    "1,306",
+    "2,017",
+    "1,618",
+    "1,618",
+    "1,618",
+    "1,263",
+    "1,307",
+    "1,382",
+    "1,382",
+    "1,471",
+    "1,487",
+    "1,487"
+   ],
+   [
+    "Kovilkulam Hindu College",
+    "Vavuniya",
+    "VAV",
+    "",
+    "1,066",
+    "1,056",
+    "1,081",
+    "1,143",
+    "1,143",
+    "1,130",
+    "1,130",
+    "1,139",
+    "1,139",
+    "1,167",
+    "1,166",
+    "1,166"
+   ],
+   [
+    "Nelukkulam Kalaimahal Maha Vidyalayam",
+    "Vavuniya",
+    "VAV",
+    "2,829",
+    "2,829",
+    "2,829",
+    "3,071",
+    "3,084",
+    "3,084",
+    "3,084",
+    "3,068",
+    "3,068",
+    "3,082",
+    "3,101",
+    "3,070",
+    "3,070"
+   ],
+   [
+    "Nelukkulam Technical College",
+    "Vavuniya",
+    "VAV",
+    "",
+    "1,527",
+    "2,374",
+    "2,913",
+    "2,913",
+    "2,913",
+    "2,730",
+    "2,801",
+    "2,801",
+    "2,968",
+    "3,020",
+    "3,032",
+    "3,032"
+   ],
+   [
+    "Pampamadhu Hostel School",
+    "Vavuniya",
+    "VAV",
+    "2,779",
+    "2,779",
+    "4,181",
+    "4,131",
+    "4,131",
+    "4,131",
+    "4,131",
+    "4,108",
+    "4,108",
+    "4,108",
+    "4,178",
+    "4,178",
+    "4,178"
+   ],
+   [
+    "Ponthoodam Government Tamil Mixed School",
+    "Vavuniya",
+    "VAV",
+    "1,351",
+    "1,351",
+    "1,351",
+    "1,365",
+    "1,310",
+    "1,310",
+    "1,310",
+    "1,308",
+    "1,308",
+    "1,320",
+    "1,327",
+    "1,319",
+    "1,319"
+   ],
+   [
+    "Poonathoddam College of Education",
+    "Vavuniya",
+    "VAV",
+    "4,406",
+    "4,406",
+    "5,302",
+    "5,302",
+    "5,009",
+    "5,009",
+    "5,009",
+    "5,036",
+    "5,036",
+    "5,119",
+    "5,236",
+    "5,243",
+    "5,243"
+   ],
+   [
+    "Sivapirakasa Ladies College, Vavuniya",
+    "Vavuniya",
+    "VAV",
+    "",
+    "",
+    "",
+    "",
+    "2,257",
+    "2,257",
+    "2,346",
+    "2,390",
+    "2,612",
+    "2,612",
+    "3,020",
+    "2,973",
+    "2,973"
+   ],
+   [
+    "Vavuniya Muslim Maha Vidyalayam",
+    "Vavuniya",
+    "VAV",
+    "",
+    "1,333",
+    "1,767",
+    "1,767",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "1,360",
+    "1,394",
+    "1,394"
+   ],
+   [
+    "Vavuniya Tamil Maha Vidyalayam (Primary)",
+    "Vavuniya",
+    "VAV",
+    "",
+    "",
+    "1,916",
+    "1,929",
+    "1,390",
+    "1,390",
+    "",
+    "1,153",
+    "1,153",
+    "1,153",
+    "1,196",
+    "1,168",
+    "1,168"
+   ],
+   [
+    "Vavuniya Tamil Maha Vidyalayam (Senior)",
+    "Vavuniya",
+    "VAV",
+    "",
+    "1,200",
+    "4,390",
+    "3,838",
+    "4,085",
+    "4,085",
+    "5,475",
+    "3,540",
+    "3,390",
+    "3,390",
+    "3,963",
+    "3,969",
+    "3,969"
+   ],
+   [
+    "Kaithady Ayurvedic University Hostel",
+    "Thenmarachchi",
+    "JAF",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "647",
+    "647",
+    "1,073",
+    "1,073",
+    "1,083"
+   ],
+   [
+    "Kaithady Hindu Children Home",
+    "Thenmarachchi",
+    "JAF",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "184",
+    "184",
+    "184",
+    "667",
+    "667",
+    "668"
+   ],
+   [
+    "Kaithady Palmyra Research Institute 1",
+    "Thenmarachchi",
+    "JAF",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "357"
+   ],
+   [
+    "Kodikamam Government Tamil Mixed School",
+    "Thenmarachchi",
+    "JAF",
+    "",
+    "",
+    "411",
+    "424",
+    "503",
+    "503",
+    "655",
+    "711",
+    "706",
+    "706",
+    "1,006",
+    "1,006",
+    "1,006"
+   ],
+   [
+    "Kopay Teacher Training College",
+    "Valikamam East",
+    "JAF",
+    "",
+    "",
+    "444",
+    "438",
+    "464",
+    "464",
+    "463",
+    "463",
+    "463",
+    "463",
+    "464",
+    "464",
+    "464"
+   ],
+   [
+    "Murusivil Roman Catholic Tamil Mixed School",
+    "Thenmarachchi",
+    "JAF",
+    "",
+    "",
+    "1,139",
+    "1,140",
+    "1,139",
+    "1,139",
+    "1,140",
+    "1,140",
+    "1,313",
+    "1,313",
+    "1,691",
+    "1,691",
+    "1,786"
+   ],
+   [
+    "Thirunagar Old Court House",
+    "Jaffna",
+    "JAF",
+    "",
+    "",
+    "73",
+    "74",
+    "49",
+    "49",
+    "108",
+    "108",
+    "113",
+    "113",
+    "114",
+    "114",
+    "140"
+   ],
+   [
+    "Illupaikkulam",
+    "Mannar Town",
+    "MAN",
+    "",
+    "",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52",
+    "52"
+   ],
+   [
+    "Kalimoddai",
+    "Nanaddan",
+    "MAN",
+    "",
+    "",
+    "445",
+    "445",
+    "445",
+    "445",
+    "445",
+    "454",
+    "454",
+    "454",
+    "454",
+    "454",
+    "454"
+   ],
+   [
+    "Mannar District General Hospital",
+    "Mannar Town",
+    "MAN",
+    "",
+    "",
+    "",
+    "",
+    "279",
+    "279",
+    "279",
+    "279",
+    "279",
+    "279",
+    "279",
+    "279",
+    "279"
+   ],
+   [
+    "Sirukandal",
+    "Nanaddan",
+    "MAN",
+    "",
+    "",
+    "357",
+    "357",
+    "357",
+    "357",
+    "357",
+    "350",
+    "350",
+    "350",
+    "350",
+    "350",
+    "350"
+   ],
+   [
+    "Kantale Base Hospital",
+    "Kantale",
+    "TRI",
+    "",
+    "",
+    "",
+    "84",
+    "160",
+    "127",
+    "127",
+    "127",
+    "80",
+    "80",
+    "57",
+    "57",
+    "57"
+   ],
+   [
+    "Methodist School",
+    "",
+    "TRI",
+    "",
+    "",
+    "",
+    "83",
+    "52",
+    "26",
+    "32",
+    "126",
+    "40",
+    "40",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Pulmoddai Field Hospital",
+    "Kuchaveli",
+    "TRI",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "79",
+    "79",
+    "129"
+   ],
+   [
+    "Thampalakamam Peripheral Unit",
+    "Thampalakamam",
+    "TRI",
+    "",
+    "",
+    "",
+    "33",
+    "76",
+    "79",
+    "77",
+    "77",
+    "75",
+    "75",
+    "35",
+    "35",
+    "35"
+   ],
+   [
+    "Trincomalee General Hospital",
+    "Town & Gravets",
+    "TRI",
+    "",
+    "",
+    "",
+    "678",
+    "544",
+    "512",
+    "417",
+    "492",
+    "426",
+    "426",
+    "374",
+    "374",
+    "296"
+   ],
+   [
+    "Colombo National Hospital",
+    "",
+    "COL",
+    "",
+    "",
+    "",
+    "28",
+    "75",
+    "106",
+    "106",
+    "106",
+    "97",
+    "97",
+    "186",
+    "186",
+    "118"
+   ],
+   [
+    "Padaviya Base Hospital",
+    "",
+    "ANU",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "145",
+    "145",
+    "223"
+   ],
+   [
+    "Polonnaruwa General Hospital",
+    "",
+    "POL",
+    "",
+    "",
+    "",
+    "86",
+    "171",
+    "171",
+    "171",
+    "171",
+    "171",
+    "171",
+    "100",
+    "100",
+    "92"
+   ],
+   [
+    "Total",
+    "Total",
+    "Total",
+    "14,876",
+    "20,002",
+    "33,662",
+    "36,251",
+    "36,646",
+    "36,589",
+    "36,832",
+    "37,474",
+    "38,710",
+    "38,986",
+    "51,949",
+    "57,061",
+    "57,524"
+   ]
+  ],
+  "n_cols": 16,
+  "n_rows": 35
+ },
+ {
+  "id": "nt-2869",
+  "question": "what was the difference in score in week 7?",
+  "answers": [
+   "17"
+  ],
+  "ground_truth": "17",
+  "table_header": [
+   "Week",
+   "Date",
+   "Opponent",
+   "Result",
+   "Venue",
+   "Attendance"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "September 3, 1978",
+    "at Detroit Lions",
+    "W 13\u20137",
+    "Pontiac Silverdome",
+    "51,187"
+   ],
+   [
+    "2",
+    "September 10, 1978",
+    "New Orleans Saints",
+    "W 28\u201317",
+    "Milwaukee County Stadium",
+    "54,336"
+   ],
+   [
+    "3",
+    "September 17, 1978",
+    "Oakland Raiders",
+    "L 28\u20133",
+    "Lambeau Field",
+    "55,903"
+   ],
+   [
+    "4",
+    "September 24, 1978",
+    "at San Diego Chargers",
+    "W 24\u20133",
+    "San Diego Stadium",
+    "42,755"
+   ],
+   [
+    "5",
+    "October 1, 1978",
+    "Detroit Lions",
+    "W 35\u201314",
+    "Milwaukee County Stadium",
+    "54,601"
+   ],
+   [
+    "6",
+    "October 8, 1978",
+    "Chicago Bears",
+    "W 24\u201314",
+    "Lambeau Field",
+    "56,267"
+   ],
+   [
+    "7",
+    "October 15, 1978",
+    "Seattle Seahawks",
+    "W 45\u201328",
+    "Milwaukee County Stadium",
+    "52,712"
+   ],
+   [
+    "8",
+    "October 22, 1978",
+    "at Minnesota Vikings",
+    "L 21\u20137",
+    "Metropolitan Stadium",
+    "47,411"
+   ],
+   [
+    "9",
+    "October 29, 1978",
+    "Tampa Bay Buccaneers",
+    "W 9\u20137",
+    "Lambeau Field",
+    "55,108"
+   ],
+   [
+    "10",
+    "November 5, 1978",
+    "at Philadelphia Eagles",
+    "L 10\u20133",
+    "Veterans Stadium",
+    "64,214"
+   ],
+   [
+    "11",
+    "November 12, 1978",
+    "Dallas Cowboys",
+    "L 42\u201314",
+    "Milwaukee County Stadium",
+    "55,256"
+   ],
+   [
+    "12",
+    "November 19, 1978",
+    "at Denver Broncos",
+    "L 16\u20133",
+    "Mile High Stadium",
+    "74,965"
+   ],
+   [
+    "13",
+    "November 26, 1978",
+    "Minnesota Vikings",
+    "T 10\u201310 (OT)",
+    "Lambeau Field",
+    "51,737"
+   ],
+   [
+    "14",
+    "December 3, 1978",
+    "at Tampa Bay Buccaneers",
+    "W 17\u20137",
+    "Tampa Stadium",
+    "67,754"
+   ],
+   [
+    "15",
+    "December 10, 1978",
+    "at Chicago Bears",
+    "L 14\u20130",
+    "Soldier Field",
+    "34,306"
+   ],
+   [
+    "16",
+    "December 17, 1978",
+    "at Los Angeles Rams",
+    "L 31\u201314",
+    "Los Angeles Memorial Coliseum",
+    "42,500"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-4690",
+  "question": "how many years did international passengers number at least 100,000?",
+  "answers": [
+   "4"
+  ],
+  "ground_truth": "4",
+  "table_header": [
+   "Year",
+   "Domestic passengers",
+   "International passengers",
+   "Total passengers",
+   "Change"
+  ],
+  "table_rows": [
+   [
+    "2006",
+    "764,831",
+    "83,115",
+    "847,946",
+    "+4.6%"
+   ],
+   [
+    "2007",
+    "764,674",
+    "75,276",
+    "839,950",
+    "\u22120.9%"
+   ],
+   [
+    "2008",
+    "709,779",
+    "92,176",
+    "801,955",
+    "\u22124.5%"
+   ],
+   [
+    "2009",
+    "605,534",
+    "82,424",
+    "687,958",
+    "\u221214.3%"
+   ],
+   [
+    "2010",
+    "595,457",
+    "105,119",
+    "700,576",
+    "+1.7%"
+   ],
+   [
+    "2011",
+    "850,305",
+    "123,607",
+    "973,912",
+    "+39.1%"
+   ],
+   [
+    "2012",
+    "899 854",
+    "178,679",
+    "1,078,533",
+    "+10.7%"
+   ],
+   [
+    "2013",
+    "745,178",
+    "131,902",
+    "877,080",
+    "-18.7%"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 8
+ }
+]

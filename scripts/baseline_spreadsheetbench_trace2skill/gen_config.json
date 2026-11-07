@@ -1,0 +1,5 @@
+{
+  "temperature": 1.0,
+  "timeout": 600,
+  "top_p": 1.0
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+evolution_methods/
+# gated OfficeQA data, rebuilt locally by scripts/build_officeqa_splits.py
+dataset/officeqa/docs/
+dataset/officeqa/rq1_*/items.json
+# run outputs
+runs/
+.env
+.DS_Store

@@ -1,0 +1,8874 @@
+[
+ {
+  "id": "nt-3931",
+  "question": "which location has the best time other than brussels?",
+  "answers": [
+   "Ostrava"
+  ],
+  "ground_truth": "Ostrava",
+  "table_header": [
+   "Year",
+   "Best",
+   "Location",
+   "Date",
+   "World rank"
+  ],
+  "table_rows": [
+   [
+    "2012",
+    "27:02.59",
+    "Birmingham",
+    "22 June",
+    "3rd"
+   ],
+   [
+    "2011",
+    "26:43.16",
+    "Brussels",
+    "16 September",
+    "1st"
+   ],
+   [
+    "2009",
+    "26:46.31",
+    "Berlin",
+    "17 August",
+    "1st"
+   ],
+   [
+    "2008",
+    "26:25.97",
+    "Eugene, Oregon",
+    "8 June",
+    "1st"
+   ],
+   [
+    "2007",
+    "26:46.19",
+    "Brussels",
+    "14 September",
+    "1st"
+   ],
+   [
+    "2005",
+    "26:17.53",
+    "Brussels",
+    "26 August",
+    "1st"
+   ],
+   [
+    "2004",
+    "26:20.31",
+    "Ostrava",
+    "8 June",
+    "1st"
+   ],
+   [
+    "2003",
+    "26:49.57",
+    "Paris",
+    "25 August",
+    "4th"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-8701",
+  "question": "how many films has neha appeared in?",
+  "answers": [
+   "8"
+  ],
+  "ground_truth": "8",
+  "table_header": [
+   "Year",
+   "Film",
+   "Role",
+   "Language",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "2007",
+    "Chirutha",
+    "Sanjna",
+    "Telugu",
+    "Debut Telugu Film"
+   ],
+   [
+    "2009",
+    "Kurradu",
+    "Hema",
+    "Telugu",
+    ""
+   ],
+   [
+    "2010",
+    "Crook: It's Good To Be Bad",
+    "Suhani",
+    "Hindi",
+    "Debut Hindi Film"
+   ],
+   [
+    "2012",
+    "Teri Meri Kahaani",
+    "Meera",
+    "Hindi",
+    "Special Appearance"
+   ],
+   [
+    "2012",
+    "Kyaa Super Kool Hain Hum",
+    "Simran",
+    "Hindi",
+    ""
+   ],
+   [
+    "2013",
+    "Jayantabhai Ki Luv Story",
+    "Simran",
+    "Hindi",
+    ""
+   ],
+   [
+    "2013",
+    "Yamla Pagla Deewana 2",
+    "Suman",
+    "Hindi",
+    ""
+   ],
+   [
+    "2014",
+    "Youngistaan",
+    "Anwita Chauhan",
+    "Hindi",
+    ""
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-4080",
+  "question": "what country has the most start records?",
+  "answers": [
+   "Germany"
+  ],
+  "ground_truth": "Germany",
+  "table_header": [
+   "Event",
+   "Record",
+   "Athlete(s)",
+   "Date",
+   "Time (s)"
+  ],
+  "table_rows": [
+   [
+    "Bobsleigh \u2013 two-man",
+    "Start",
+    "Beat Hefti & Thomas Lamparter\u00a0(SUI)",
+    "6 February 2009",
+    "4.70"
+   ],
+   [
+    "Bobsleigh \u2013 two-man",
+    "Track",
+    "Thomas Florsch\u00fctz & Richard Adjei\u00a0(GER)\\n\u00a0Andr\u00e9 Lange & Kevin Kuske\u00a0(GER)",
+    "20 February 2010\\n21 February 2010",
+    "51.57"
+   ],
+   [
+    "Bobsleigh \u2013 four-man",
+    "Start",
+    "Andr\u00e9 Lange, Kevin Kuske, Alexander R\u00f6diger, & Martin Putze\u00a0(GER)",
+    "26 February 2010",
+    "4.70"
+   ],
+   [
+    "Bobsleigh \u2013 four-man",
+    "Track",
+    "Steve Holcomb, Justin Olsen, Steve Mesler, & Curtis Tomasevicz\u00a0(USA)",
+    "26 February 2010",
+    "50.86"
+   ],
+   [
+    "Bobsleigh \u2013 two-woman",
+    "Start",
+    "Kaillie Humphries & Heather Moyse\u00a0(CAN)",
+    "23 February 2010\\n24 February 2010",
+    "5.11"
+   ],
+   [
+    "Bobsleigh \u2013 two-woman",
+    "Track",
+    "Kaillie Humphries & Heather Moyse\u00a0(CAN)",
+    "24 February 2010",
+    "52.85"
+   ],
+   [
+    "Men's skeleton",
+    "Start",
+    "Alexander Tretiakov\u00a0(RUS)",
+    "18 February 2010",
+    "4.48"
+   ],
+   [
+    "Men's skeleton",
+    "Track",
+    "Jon Montgomery\u00a0(CAN)",
+    "19 February 2010",
+    "52.20"
+   ],
+   [
+    "Women's skeleton",
+    "Start",
+    "Anja Huber\u00a0(GER)",
+    "18 February 2010",
+    "4.90"
+   ],
+   [
+    "Women's skeleton",
+    "Track",
+    "Amy Williams\u00a0(GBR)",
+    "19 February 2010",
+    "53.68"
+   ],
+   [
+    "Luge \u2013 men's singles",
+    "Start",
+    "Andi Langenhan\u00a0(GER)",
+    "21 February 2009",
+    "3.541"
+   ],
+   [
+    "Luge \u2013 men's singles",
+    "Track",
+    "Felix Loch\u00a0(GER)",
+    "21 February 2009",
+    "46.808"
+   ],
+   [
+    "Luge \u2013 women's singles",
+    "Start",
+    "Natalie Geisenberger\u00a0(GER)",
+    "20 February 2009",
+    "7.183"
+   ],
+   [
+    "Luge \u2013 women's singles",
+    "Track",
+    "Natalie Geisenberger\u00a0(GER)",
+    "20 February 2009",
+    "48.992"
+   ],
+   [
+    "Luge \u2013 men's doubles",
+    "Start",
+    "Tobias Wendl & Tobias Arlt\u00a0(GER)",
+    "20 February 2009",
+    "7.054"
+   ],
+   [
+    "Luge \u2013 men's doubles",
+    "Track",
+    "Patric Leitner & Alexander Resch\u00a0(GER)",
+    "20 February 2009",
+    "48.608"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-9920",
+  "question": "what are the only three census subdivisions that had a population over 1,000,000 in 2011?",
+  "answers": [
+   "Toronto",
+   "Montreal",
+   "Calgary"
+  ],
+  "ground_truth": "Toronto",
+  "table_header": [
+   "Rank",
+   "Census subdivision",
+   "Province",
+   "Type",
+   "Land area\\n(km2, 2011)",
+   "Population 2011",
+   "Population 2006",
+   "Population 2001",
+   "Population 1996",
+   "Change\u00a0in\u00a0% 2006\u20132011",
+   "Change\u00a0in\u00a0% 1996\u20132011"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Toronto",
+    "Ontario",
+    "city",
+    "630.21",
+    "2,615,060",
+    "2,503,281",
+    "2,481,494",
+    "2,385,421",
+    "4.5",
+    "9.6"
+   ],
+   [
+    "2",
+    "Montreal",
+    "Quebec",
+    "ville",
+    "365.13",
+    "1,649,519",
+    "1,620,693",
+    "1,583,590",
+    "1,547,030",
+    "1.8",
+    "6.6"
+   ],
+   [
+    "3",
+    "Calgary",
+    "Alberta",
+    "city",
+    "825.29",
+    "1,096,833",
+    "988,193",
+    "879,003",
+    "768,082",
+    "10.9",
+    "42.7"
+   ],
+   [
+    "4",
+    "Ottawa",
+    "Ontario",
+    "city",
+    "2,790.22",
+    "883,391",
+    "812,129",
+    "774,072",
+    "721,136",
+    "8.8",
+    "22.5"
+   ],
+   [
+    "5",
+    "Edmonton",
+    "Alberta",
+    "city",
+    "684.37",
+    "812,201",
+    "730,372",
+    "666,104",
+    "616,306",
+    "11.2",
+    "31.8"
+   ],
+   [
+    "6",
+    "Mississauga",
+    "Ontario",
+    "city",
+    "292.40",
+    "713,443",
+    "668,549",
+    "612,000",
+    "544,382",
+    "6.7",
+    "31.1"
+   ],
+   [
+    "7",
+    "Winnipeg",
+    "Manitoba",
+    "city",
+    "464.08",
+    "663,617",
+    "633,451",
+    "619,544",
+    "618,477",
+    "4.8",
+    "7.3"
+   ],
+   [
+    "8",
+    "Vancouver",
+    "British Columbia",
+    "city",
+    "114.97",
+    "603,502",
+    "578,041",
+    "545,671",
+    "514,008",
+    "4.4",
+    "17.3"
+   ],
+   [
+    "9",
+    "Brampton",
+    "Ontario",
+    "city",
+    "266.34",
+    "523,911",
+    "433,806",
+    "325,428",
+    "268,251",
+    "20.8",
+    "95.1"
+   ],
+   [
+    "10",
+    "Hamilton",
+    "Ontario",
+    "city",
+    "1,117.23",
+    "519,949",
+    "504,559",
+    "490,268",
+    "467,799",
+    "3.1",
+    "11.1"
+   ],
+   [
+    "11",
+    "Quebec City",
+    "Quebec",
+    "ville",
+    "454.10",
+    "516,622",
+    "491,142",
+    "476,330",
+    "467,728",
+    "5.2",
+    "10.5"
+   ],
+   [
+    "12",
+    "Surrey",
+    "British Columbia",
+    "city",
+    "316.41",
+    "468,251",
+    "394,976",
+    "347,820",
+    "304,477",
+    "18.6",
+    "53.9"
+   ],
+   [
+    "13",
+    "Laval",
+    "Quebec",
+    "ville",
+    "247.09",
+    "401,553",
+    "368,709",
+    "343,005",
+    "330,393",
+    "8.9",
+    "21.5"
+   ],
+   [
+    "14",
+    "Halifax",
+    "Nova Scotia",
+    "regional municipality",
+    "5,490.28",
+    "390,096",
+    "372,679",
+    "359,111",
+    "342,851",
+    "4.7",
+    "14.1"
+   ],
+   [
+    "15",
+    "London",
+    "Ontario",
+    "city",
+    "420.57",
+    "366,151",
+    "352,395",
+    "336,539",
+    "325,669",
+    "3.9",
+    "12.6"
+   ],
+   [
+    "16",
+    "Markham",
+    "Ontario",
+    "city",
+    "212.58",
+    "301,709",
+    "261,573",
+    "208,615",
+    "173,383",
+    "15.3",
+    "74.0"
+   ],
+   [
+    "17",
+    "Vaughan",
+    "Ontario",
+    "city",
+    "273.52",
+    "288,301",
+    "238,866",
+    "182,022",
+    "132,549",
+    "20.7",
+    "118.2"
+   ],
+   [
+    "18",
+    "Gatineau",
+    "Quebec",
+    "ville",
+    "342.98",
+    "265,349",
+    "242,124",
+    "226,696",
+    "217,591",
+    "9.6",
+    "22.1"
+   ],
+   [
+    "19",
+    "Longueuil",
+    "Quebec",
+    "ville",
+    "115.59",
+    "231,409",
+    "229,330",
+    "225,761",
+    "225,722",
+    "0.9",
+    "2.7"
+   ],
+   [
+    "20",
+    "Burnaby",
+    "British Columbia",
+    "city",
+    "90.61",
+    "223,218",
+    "202,799",
+    "193,954",
+    "179,209",
+    "10.1",
+    "24.6"
+   ],
+   [
+    "21",
+    "Saskatoon",
+    "Saskatchewan",
+    "city",
+    "209.56",
+    "222,189",
+    "202,340",
+    "196,861",
+    "193,653",
+    "9.8",
+    "15.0"
+   ],
+   [
+    "22",
+    "Kitchener",
+    "Ontario",
+    "city",
+    "136.79",
+    "219,153",
+    "204,668",
+    "190,399",
+    "178,420",
+    "7.1",
+    "22.3"
+   ],
+   [
+    "23",
+    "Windsor",
+    "Ontario",
+    "city",
+    "146.32",
+    "210,891",
+    "216,473",
+    "209,218",
+    "197,694",
+    "\u22122.6",
+    "6.6"
+   ],
+   [
+    "24",
+    "Regina",
+    "Saskatchewan",
+    "city",
+    "145.45",
+    "193,100",
+    "179,246",
+    "178,225",
+    "180,404",
+    "7.7",
+    "7.2"
+   ],
+   [
+    "25",
+    "Richmond",
+    "British Columbia",
+    "city",
+    "129.27",
+    "190,473",
+    "174,461",
+    "164,345",
+    "148,867",
+    "9.2",
+    "28.4"
+   ],
+   [
+    "26",
+    "Richmond Hill",
+    "Ontario",
+    "town",
+    "100.95",
+    "185,541",
+    "162,704",
+    "132,030",
+    "101,725",
+    "14.0",
+    "83.1"
+   ],
+   [
+    "27",
+    "Oakville",
+    "Ontario",
+    "town",
+    "138.88",
+    "182,520",
+    "165,613",
+    "144,738",
+    "128,405",
+    "10.2",
+    "42.2"
+   ],
+   [
+    "28",
+    "Burlington",
+    "Ontario",
+    "city",
+    "185.66",
+    "175,779",
+    "164,415",
+    "150,836",
+    "136,976",
+    "6.9",
+    "28.7"
+   ],
+   [
+    "29",
+    "Greater Sudbury",
+    "Ontario",
+    "city",
+    "3,227.38",
+    "160,274",
+    "157,857",
+    "155,219",
+    "165,336",
+    "1.5",
+    "\u22123.2"
+   ],
+   [
+    "30",
+    "Sherbrooke",
+    "Quebec",
+    "ville",
+    "353.49",
+    "154,601",
+    "147,427",
+    "138,785",
+    "136,883",
+    "4.9",
+    "13.2"
+   ],
+   [
+    "31",
+    "Oshawa",
+    "Ontario",
+    "city",
+    "145.68",
+    "149,607",
+    "141,590",
+    "139,051",
+    "134,464",
+    "5.7",
+    "11.1"
+   ],
+   [
+    "32",
+    "Saguenay",
+    "Quebec",
+    "ville",
+    "1,126.48",
+    "144,746",
+    "143,692",
+    "147,133",
+    "152,811",
+    "0.7",
+    "\u22125.2"
+   ],
+   [
+    "33",
+    "L\u00e9vis",
+    "Quebec",
+    "ville",
+    "449.31",
+    "138,769",
+    "130,006",
+    "121,999",
+    "103,750",
+    "6.7",
+    "33.9"
+   ],
+   [
+    "34",
+    "Barrie",
+    "Ontario",
+    "city",
+    "77.39",
+    "135,711",
+    "128,430",
+    "103,710",
+    "79,191",
+    "5.7",
+    "70.9"
+   ],
+   [
+    "35",
+    "Abbotsford",
+    "British Columbia",
+    "city",
+    "375.55",
+    "133,497",
+    "123,864",
+    "115,494",
+    "105,403",
+    "7.4",
+    "26.7"
+   ],
+   [
+    "36",
+    "St. Catharines",
+    "Ontario",
+    "city",
+    "96.11",
+    "131,400",
+    "131,989",
+    "129,170",
+    "130,926",
+    "\u22120.4",
+    "0.4"
+   ],
+   [
+    "37",
+    "Trois-Rivi\u00e8res",
+    "Quebec",
+    "ville",
+    "288.90",
+    "131,338",
+    "126,323",
+    "122,395",
+    "124,417",
+    "4.0",
+    "5.6"
+   ],
+   [
+    "38",
+    "Cambridge",
+    "Ontario",
+    "city",
+    "113.00",
+    "126,748",
+    "120,371",
+    "110,372",
+    "101,429",
+    "5.3",
+    "24.6"
+   ],
+   [
+    "39",
+    "Coquitlam",
+    "British Columbia",
+    "city",
+    "122.30",
+    "126,456",
+    "114,565",
+    "112,890",
+    "101,820",
+    "10.4",
+    "24.8"
+   ],
+   [
+    "40",
+    "Kingston",
+    "Ontario",
+    "city",
+    "451.17",
+    "123,363",
+    "117,207",
+    "114,195",
+    "112,605",
+    "5.3",
+    "9.8"
+   ],
+   [
+    "41",
+    "Whitby",
+    "Ontario",
+    "town",
+    "146.53",
+    "122,022",
+    "111,184",
+    "87,413",
+    "73,794",
+    "9.7",
+    "64.9"
+   ],
+   [
+    "42",
+    "Guelph",
+    "Ontario",
+    "city",
+    "87.20",
+    "121,688",
+    "114,943",
+    "106,170",
+    "95,821",
+    "5.9",
+    "26.1"
+   ],
+   [
+    "43",
+    "Kelowna",
+    "British Columbia",
+    "city",
+    "211.62",
+    "117,312",
+    "106,707",
+    "96,288",
+    "89,442",
+    "9.6",
+    "31.5"
+   ],
+   [
+    "44",
+    "Saanich",
+    "British Columbia",
+    "district municipality",
+    "103.78",
+    "109,752",
+    "108,265",
+    "103,654",
+    "101,388",
+    "1.4",
+    "7.9"
+   ],
+   [
+    "45",
+    "Ajax",
+    "Ontario",
+    "town",
+    "67.07",
+    "109,600",
+    "90,167",
+    "73,753",
+    "64,430",
+    "21.6",
+    "70.3"
+   ],
+   [
+    "46",
+    "Thunder Bay",
+    "Ontario",
+    "city",
+    "328.24",
+    "108,359",
+    "109,140",
+    "109,016",
+    "113,662",
+    "\u22120.7",
+    "\u22124.4"
+   ],
+   [
+    "47",
+    "Terrebonne",
+    "Quebec",
+    "ville",
+    "154.74",
+    "106,322",
+    "94,703",
+    "80,536",
+    "75,116",
+    "12.3",
+    "41.3"
+   ],
+   [
+    "48",
+    "St. John's",
+    "Newfoundland and Labrador",
+    "city",
+    "446.04",
+    "106,172",
+    "100,646",
+    "99,182",
+    "101,936",
+    "5.5",
+    "4.0"
+   ],
+   [
+    "49",
+    "Langley",
+    "British Columbia",
+    "district municipality",
+    "308.03",
+    "104,177",
+    "93,726",
+    "86,896",
+    "80,179",
+    "11.2",
+    "30.0"
+   ],
+   [
+    "50",
+    "Chatham-Kent",
+    "Ontario",
+    "municipality",
+    "2,458.09",
+    "103,671",
+    "108,177",
+    "107,341",
+    "109,950",
+    "\u22124.2",
+    "\u22125.8"
+   ],
+   [
+    "51",
+    "Delta",
+    "British Columbia",
+    "district municipality",
+    "180.11",
+    "99,863",
+    "96,723",
+    "96,950",
+    "95,411",
+    "3.3",
+    "4.7"
+   ],
+   [
+    "52",
+    "Waterloo",
+    "Ontario",
+    "city",
+    "64.02",
+    "98,780",
+    "97,475",
+    "86,543",
+    "77,949",
+    "1.3",
+    "26.7"
+   ],
+   [
+    "53",
+    "Cape Breton",
+    "Nova Scotia",
+    "regional municipality",
+    "2,433.35",
+    "97,398",
+    "102,250",
+    "105,968",
+    "114,733",
+    "\u22124.7",
+    "\u221215.2"
+   ],
+   [
+    "54",
+    "Brantford",
+    "Ontario",
+    "city",
+    "72.47",
+    "93,650",
+    "90,192",
+    "86,417",
+    "86,417",
+    "3.8",
+    "8.4"
+   ],
+   [
+    "55",
+    "Strathcona County",
+    "Alberta",
+    "specialized municipality",
+    "1,180.56",
+    "92,490",
+    "82,511",
+    "71,986",
+    "64,176",
+    "12.1",
+    "44.1"
+   ],
+   [
+    "56",
+    "Saint-Jean-sur-Richelieu",
+    "Quebec",
+    "ville",
+    "225.78",
+    "92,394",
+    "87,492",
+    "79,600",
+    "76,461",
+    "5.6",
+    "20.8"
+   ],
+   [
+    "57",
+    "Red Deer",
+    "Alberta",
+    "city",
+    "104.29",
+    "90,564",
+    "82,772",
+    "67,829",
+    "60,080",
+    "8.9",
+    "50.7"
+   ],
+   [
+    "58",
+    "Pickering",
+    "Ontario",
+    "city",
+    "231.59",
+    "88,721",
+    "87,838",
+    "87,139",
+    "78,989",
+    "1.0",
+    "12.3"
+   ],
+   [
+    "59",
+    "Kamloops",
+    "British Columbia",
+    "city",
+    "299.23",
+    "85,678",
+    "80,376",
+    "77,281",
+    "76,394",
+    "6.6",
+    "12.2"
+   ],
+   [
+    "60",
+    "Clarington",
+    "Ontario",
+    "municipality",
+    "611.30",
+    "84,548",
+    "77,820",
+    "69,834",
+    "60,615",
+    "8.6",
+    "39.5"
+   ],
+   [
+    "61",
+    "North Vancouver",
+    "British Columbia",
+    "district municipality",
+    "160.76",
+    "84,412",
+    "82,562",
+    "82,310",
+    "80,418",
+    "2.2",
+    "5.0"
+   ],
+   [
+    "62",
+    "Milton",
+    "Ontario",
+    "town",
+    "363.22",
+    "84,362",
+    "53,939",
+    "31,471",
+    "32,104",
+    "56.5",
+    "162.8"
+   ],
+   [
+    "63",
+    "Nanaimo",
+    "British Columbia",
+    "city",
+    "91.30",
+    "83,810",
+    "78,692",
+    "73,000",
+    "70,130",
+    "6.5",
+    "18.0"
+   ],
+   [
+    "64",
+    "Lethbridge",
+    "Alberta",
+    "city",
+    "122.36",
+    "83,517",
+    "74,637",
+    "67,374",
+    "63,053",
+    "11.8",
+    "32.5"
+   ],
+   [
+    "65",
+    "Niagara Falls",
+    "Ontario",
+    "city",
+    "209.71",
+    "82,997",
+    "82,184",
+    "78,815",
+    "76,917",
+    "1.0",
+    "7.9"
+   ],
+   [
+    "66",
+    "Repentigny",
+    "Quebec",
+    "ville",
+    "61.79",
+    "82,000",
+    "76,237",
+    "72,218",
+    "70,677",
+    "7.6",
+    "16.0"
+   ],
+   [
+    "67",
+    "Victoria",
+    "British Columbia",
+    "city",
+    "19.47",
+    "80,017",
+    "78,057",
+    "74,125",
+    "73,405",
+    "2.5",
+    "9.0"
+   ],
+   [
+    "68",
+    "Newmarket",
+    "Ontario",
+    "town",
+    "38.33",
+    "79,978",
+    "74,295",
+    "65,788",
+    "57,125",
+    "7.6",
+    "40.0"
+   ],
+   [
+    "69",
+    "Brossard",
+    "Quebec",
+    "ville",
+    "45.20",
+    "79,273",
+    "71,154",
+    "65,026",
+    "65,927",
+    "11.4",
+    "20.2"
+   ],
+   [
+    "70",
+    "Peterborough",
+    "Ontario",
+    "city",
+    "63.80",
+    "78,698",
+    "74,898",
+    "71,446",
+    "69,742",
+    "4.4",
+    "12.8"
+   ],
+   [
+    "71",
+    "Chilliwack",
+    "British Columbia",
+    "city",
+    "261.50",
+    "77,936",
+    "69,217",
+    "62,567",
+    "60,186",
+    "12.6",
+    "29.5"
+   ],
+   [
+    "72",
+    "Maple Ridge",
+    "British Columbia",
+    "district municipality",
+    "266.78",
+    "76,052",
+    "68,949",
+    "63,169",
+    "56,173",
+    "10.3",
+    "35.4"
+   ],
+   [
+    "73",
+    "Sault Ste. Marie",
+    "Ontario",
+    "city",
+    "223.26",
+    "75,141",
+    "74,948",
+    "74,566",
+    "80,054",
+    "0.3",
+    "\u22126.3"
+   ],
+   [
+    "74",
+    "Kawartha Lakes",
+    "Ontario",
+    "city",
+    "3,083.06",
+    "73,214",
+    "74,561",
+    "69,179",
+    "67,926",
+    "\u22121.8",
+    "7.8"
+   ],
+   [
+    "75",
+    "Sarnia",
+    "Ontario",
+    "city",
+    "164.71",
+    "72,366",
+    "71,419",
+    "70,876",
+    "72,738",
+    "1.3",
+    "\u22120.5"
+   ],
+   [
+    "76",
+    "Prince George",
+    "British Columbia",
+    "city",
+    "318.26",
+    "71,974",
+    "70,981",
+    "72,406",
+    "75,510",
+    "1.4",
+    "\u22124.7"
+   ],
+   [
+    "77",
+    "Drummondville",
+    "Quebec",
+    "ville",
+    "246.85",
+    "71,852",
+    "67,392",
+    "63,029",
+    "58,588",
+    "6.6",
+    "22.6"
+   ],
+   [
+    "78",
+    "Saint John",
+    "New Brunswick",
+    "city",
+    "315.82",
+    "70,063",
+    "68,043",
+    "69,661",
+    "72,494",
+    "3.0",
+    "-3.4"
+   ],
+   [
+    "79",
+    "Moncton",
+    "New Brunswick",
+    "city",
+    "141.17",
+    "69,074",
+    "64,128",
+    "61,046",
+    "59,313",
+    "7.7",
+    "16.5"
+   ],
+   [
+    "80",
+    "Saint-J\u00e9r\u00f4me",
+    "Quebec",
+    "ville",
+    "90.52",
+    "68,456",
+    "63,729",
+    "59,614",
+    "59,533",
+    "7.4",
+    "15.0"
+   ],
+   [
+    "81",
+    "New Westminster",
+    "British Columbia",
+    "city",
+    "15.63",
+    "65,976",
+    "58,549",
+    "54,656",
+    "49,350",
+    "12.7",
+    "33.7"
+   ],
+   [
+    "82",
+    "Wood Buffalo",
+    "Alberta",
+    "specialized municipality",
+    "63,637.47",
+    "65,565",
+    "51,496",
+    "41,445",
+    "35,213",
+    "27.3",
+    "86.2"
+   ],
+   [
+    "83",
+    "Granby",
+    "Quebec",
+    "ville",
+    "152.72",
+    "63,433",
+    "47,637",
+    "44,121",
+    "43,316",
+    "6.8",
+    "46.4"
+   ],
+   [
+    "84",
+    "Norfolk County",
+    "Ontario",
+    "city",
+    "1,607.60",
+    "63,175",
+    "62,563",
+    "60,847",
+    "60,534",
+    "1.0",
+    "4.4"
+   ],
+   [
+    "85",
+    "St. Albert",
+    "Alberta",
+    "city",
+    "48.27",
+    "61,466",
+    "57,719",
+    "53,081",
+    "46,888",
+    "6.4",
+    "31.1"
+   ],
+   [
+    "86",
+    "Medicine Hat",
+    "Alberta",
+    "city",
+    "112.01",
+    "60,005",
+    "56,997",
+    "51,249",
+    "46,783",
+    "5.3",
+    "28.3"
+   ],
+   [
+    "87",
+    "Caledon",
+    "Ontario",
+    "town",
+    "688.15",
+    "59,460",
+    "57,050",
+    "50,605",
+    "39,893",
+    "4.2",
+    "49.1"
+   ],
+   [
+    "88",
+    "Halton Hills",
+    "Ontario",
+    "town",
+    "276.25",
+    "59,008",
+    "55,289",
+    "48,184",
+    "42,390",
+    "6.7",
+    "39.2"
+   ],
+   [
+    "89",
+    "Port Coquitlam",
+    "British Columbia",
+    "city",
+    "29.17",
+    "56,342",
+    "52,687",
+    "51,257",
+    "46,682",
+    "6.9",
+    "20.7"
+   ],
+   [
+    "90",
+    "Fredericton",
+    "New Brunswick",
+    "city",
+    "131.67",
+    "56,224",
+    "50,535",
+    "47,580",
+    "46,507",
+    "11.3",
+    "20.9"
+   ],
+   [
+    "91",
+    "Grande Prairie",
+    "Alberta",
+    "city",
+    "72.80",
+    "55,032",
+    "47,076",
+    "36,983",
+    "31,353",
+    "16.8",
+    "75.5"
+   ],
+   [
+    "92",
+    "North Bay",
+    "Ontario",
+    "city",
+    "319.05",
+    "53,651",
+    "53,966",
+    "52,771",
+    "54,332",
+    "\u22120.6",
+    "\u22121.2"
+   ],
+   [
+    "93",
+    "Blainville",
+    "Quebec",
+    "ville",
+    "55.10",
+    "53,510",
+    "46,493",
+    "36,029",
+    "29,603",
+    "15.1",
+    "80.8"
+   ],
+   [
+    "94",
+    "Saint-Hyacinthe",
+    "Quebec",
+    "ville",
+    "188.69",
+    "53,236",
+    "51,616",
+    "50,394",
+    "50,027",
+    "3.1",
+    "6.4"
+   ],
+   [
+    "95",
+    "Aurora",
+    "Ontario",
+    "town",
+    "49.78",
+    "53,203",
+    "47,629",
+    "40,167",
+    "34,857",
+    "11.7",
+    "52.6"
+   ],
+   [
+    "96",
+    "Welland",
+    "Ontario",
+    "city",
+    "81.09",
+    "50,631",
+    "50,331",
+    "48,402",
+    "48,411",
+    "0.6",
+    "4.6"
+   ],
+   [
+    "97",
+    "Shawinigan",
+    "Quebec",
+    "ville",
+    "733.48",
+    "50,060",
+    "51,904",
+    "52,040",
+    "56,721",
+    "\u22123.6",
+    "\u221211.7"
+   ],
+   [
+    "98",
+    "Dollard-des-Ormeaux",
+    "Quebec",
+    "ville",
+    "15.10",
+    "49,637",
+    "48,930",
+    "48,206",
+    "47,826",
+    "1.4",
+    "3.8"
+   ],
+   [
+    "99",
+    "Belleville",
+    "Ontario",
+    "city",
+    "247.21",
+    "49,454",
+    "48,821",
+    "46,029",
+    "46,195",
+    "1.3",
+    "7.1"
+   ],
+   [
+    "100",
+    "North Vancouver",
+    "British Columbia",
+    "city",
+    "11.83",
+    "48,196",
+    "45,165",
+    "44,303",
+    "41,475",
+    "6.7",
+    "16.2"
+   ]
+  ],
+  "n_cols": 11,
+  "n_rows": 100
+ },
+ {
+  "id": "nt-1742",
+  "question": "who took office in 2000?",
+  "answers": [
+   "Nikos Christodoulakis"
+  ],
+  "ground_truth": "Nikos Christodoulakis",
+  "table_header": [
+   "",
+   "Name",
+   "Took Office",
+   "Left Office",
+   "Party"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Vasso Papandreou",
+    "21 February 1996",
+    "19 February 1999",
+    "Panhellenic Socialist Movement"
+   ],
+   [
+    "2",
+    "Evangelos Venizelos",
+    "19 February 1999",
+    "13 April 2000",
+    "Panhellenic Socialist Movement"
+   ],
+   [
+    "3",
+    "Nikos Christodoulakis",
+    "13 April 2000",
+    "24 October 2001",
+    "Panhellenic Socialist Movement"
+   ],
+   [
+    "4",
+    "Akis Tsochatzopoulos",
+    "24 October 2001",
+    "10 March 2004",
+    "Panhellenic Socialist Movement"
+   ],
+   [
+    "5",
+    "Dimitris Sioufas",
+    "10 March 2004",
+    "19 September 2007",
+    "New Democracy"
+   ],
+   [
+    "6",
+    "Christos Folias",
+    "19 September 2007",
+    "8 January 2009",
+    "New Democracy"
+   ],
+   [
+    "7",
+    "Kostis Hatzidakis",
+    "8 January 2009",
+    "7 October 2009",
+    "New Democracy"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 7
+ },
+ {
+  "id": "nt-5697",
+  "question": "which team conceded the least goals?",
+  "answers": [
+   "C.D. FAS"
+  ],
+  "ground_truth": "C.D. FAS",
+  "table_header": [
+   "Place",
+   "Team",
+   "Played",
+   "Won",
+   "Draw",
+   "Lost",
+   "Goals\\nScored",
+   "Goals\\nConceded",
+   "+/-",
+   "Points"
+  ],
+  "table_rows": [
+   [
+    "1.",
+    "C.D. FAS",
+    "18",
+    "10",
+    "6",
+    "2",
+    "27",
+    "13",
+    "+14",
+    "36"
+   ],
+   [
+    "2.",
+    "C.D. \u00c1guila",
+    "18",
+    "9",
+    "4",
+    "5",
+    "38",
+    "26",
+    "+12",
+    "31"
+   ],
+   [
+    "3.",
+    "C.D. Luis \u00c1ngel Firpo",
+    "18",
+    "7",
+    "7",
+    "4",
+    "25",
+    "18",
+    "+7",
+    "28"
+   ],
+   [
+    "4.",
+    "San Salvador F.C.",
+    "18",
+    "8",
+    "4",
+    "6",
+    "31",
+    "27",
+    "+4",
+    "28"
+   ],
+   [
+    "5.",
+    "Alianza F.C.",
+    "18",
+    "8",
+    "4",
+    "6",
+    "26",
+    "24",
+    "+2",
+    "28"
+   ],
+   [
+    "6.",
+    "A.D. Isidro Metap\u00e1n",
+    "18",
+    "4",
+    "9",
+    "5",
+    "20",
+    "23",
+    "-3",
+    "21"
+   ],
+   [
+    "7.",
+    "Municipal Lime\u00f1o",
+    "18",
+    "5",
+    "5",
+    "8",
+    "27",
+    "29",
+    "-2",
+    "20"
+   ],
+   [
+    "8.",
+    "C.D. Arcense",
+    "18",
+    "2",
+    "11",
+    "5",
+    "23",
+    "32",
+    "-11",
+    "17"
+   ],
+   [
+    "9.",
+    "Chalatenango",
+    "18",
+    "4",
+    "5",
+    "9",
+    "13",
+    "22",
+    "-9",
+    "17"
+   ],
+   [
+    "10.",
+    "C.D. Atl\u00e9tico Balboa",
+    "18",
+    "4",
+    "3",
+    "11",
+    "15",
+    "31",
+    "-24",
+    "15"
+   ]
+  ],
+  "n_cols": 10,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-12034",
+  "question": "when is the next date after the first one on the top?",
+  "answers": [
+   "22 November 1992"
+  ],
+  "ground_truth": "22 November 1992",
+  "table_header": [
+   "Date",
+   "Operation",
+   "Location",
+   "Type",
+   "Information"
+  ],
+  "table_rows": [
+   [
+    "16 July 1992 \u2013\\n22 November 1992",
+    "Operation Maritime Monitor",
+    "International waters off Serbia",
+    "Naval blockade",
+    "Naval blockade aimed at enforcing sanctions stipulated in UN Security Council Resolutions 713 and 757."
+   ],
+   [
+    "16 October 1992 \u2013\\n12 April 1993",
+    "Operation Sky Monitor\\n(Resolution 781)",
+    "Bosnian airspace",
+    "No-fly zone",
+    "Established a no-fly zone over the airspace of Bosnia and Herzegovina. Effectiveness of the no-fly zone is debatable as by April 1993 500 violations (by all sides) of the no-fly zone had been recorded. NATO members voted for an \"all necessary measures\" resolution by the United Nations to allow NATO a mandate to enforce the no-fly zone more stringently."
+   ],
+   [
+    "22 November 1992 \u2013 1993",
+    "Operation Maritime Guard\\n(Resolution 787)",
+    "International waters in Adriatic Sea",
+    "Naval blockade",
+    "Authorized NATO to use force, and included stopping, inspecting, and diverting ships bound for the former Yugoslavia. All ships bound to or coming from the territorial waters of the former Yugoslavia were halted for inspection and verification of their cargoes and destinations."
+   ],
+   [
+    "13 April 1993 \u2013\\n20 December 1995",
+    "Operation Deny Flight\\n(Resolutions 816 and 836)",
+    "Bosnian airspace",
+    "No-fly zone",
+    "Resolution 816 extended the ban to cover flights by all fixed-wing and rotary-wing aircraft over the country, and to use all measures necessary to ensure compliance with the ban. Resolution 836 authorized the use of force by UNPROFOR in the protection of specially designated UN \"safe areas\"."
+   ],
+   [
+    "15 June 1993 \u2013\\n2 October 1996",
+    "Operation Sharp Guard\\n(Numerous resolutions)",
+    "Yugoslavia",
+    "Naval blockade",
+    "A widespread naval blockade aimed at all former Yugoslavia."
+   ],
+   [
+    "30 August \u2013\\n20 September 1995",
+    "Operation Deliberate Force",
+    "Bosnia and Herzegovina",
+    "Air campaign",
+    "Involving approximately 400 aircraft, Deliberate Force targeted at the Army of Republika Srpska whose presence in Bosnia posed a danger to United Nations \"safe areas\"."
+   ],
+   [
+    "20 December 1995 -\\n20 December 1996",
+    "Operation Joint Endeavour",
+    "Bosnia and Herzegovina",
+    "Peacekeeping force",
+    "NATO-led Implementation Force(IFOR) peacekeeping force was established which was a force tasked with enforcing the peace under the Dayton Accords."
+   ],
+   [
+    "21 December 1996 -\\n19 June 1998",
+    "Operation Joint Guard",
+    "Bosnia and Herzegovina",
+    "Peacekeeping force",
+    "NATO-led Stabilisation Force(SFOR) peacekeeping force which replaced the IFOR which was a force tasked with enforcing peace under the Dayton Accords."
+   ],
+   [
+    "20 June 1998 -\\n2 December 2004",
+    "Operation Joint Forge",
+    "Bosnia and Herzegovina",
+    "Peacekeeping force",
+    "A continuation of Operation Joint Guard."
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 9
+ },
+ {
+  "id": "nt-5481",
+  "question": "on how many dates was the sum of the scores at most 10?",
+  "answers": [
+   "8"
+  ],
+  "ground_truth": "8",
+  "table_header": [
+   "Date",
+   "Opponent",
+   "Score",
+   "Overall Record",
+   "SCBA Record"
+  ],
+  "table_rows": [
+   [
+    "April 3",
+    "UC Santa Barbara",
+    "5\u20131",
+    "28\u20136",
+    "4\u20130"
+   ],
+   [
+    "April 6",
+    "San Diego",
+    "11\u201311",
+    "28\u20136\u20131",
+    "4\u20130\u20131"
+   ],
+   [
+    "April 7",
+    "at San Diego",
+    "10\u20133",
+    "29\u20136\u20131",
+    "5\u20130\u20131"
+   ],
+   [
+    "April 7",
+    "at San Diego",
+    "8\u20132",
+    "30\u20136\u20131",
+    "6\u20130\u20131"
+   ],
+   [
+    "April 8",
+    "at Loyola Marymount",
+    "2\u20131",
+    "31\u20136\u20131",
+    "7\u20130\u20131"
+   ],
+   [
+    "April 12",
+    "vs. UC Irvine",
+    "16\u20132",
+    "32\u20136\u20131",
+    "\u2013"
+   ],
+   [
+    "April 13",
+    "vs. Chapman",
+    "4\u201313",
+    "32\u20137\u20131",
+    "\u2013"
+   ],
+   [
+    "April 13",
+    "vs. UC Irvine",
+    "11\u20132",
+    "33\u20137\u20131",
+    "\u2013"
+   ],
+   [
+    "April 14",
+    "vs. Chapman",
+    "5\u20132",
+    "34\u20137\u20131",
+    "\u2013"
+   ],
+   [
+    "April 14",
+    "vs. Chapman",
+    "5\u20136",
+    "34\u20138\u20131",
+    "\u2013"
+   ],
+   [
+    "April 17",
+    "Cal State LA",
+    "12\u20136",
+    "35\u20138\u20131",
+    "7\u20132\u20131"
+   ],
+   [
+    "April 20",
+    "Pepperdine",
+    "3\u20135",
+    "35\u20139\u20131",
+    "7\u20131\u20131"
+   ],
+   [
+    "April 21",
+    "at Pepperdine",
+    "9\u201310",
+    "35\u201310\u20131",
+    "8\u20132\u20131"
+   ],
+   [
+    "April 21",
+    "Pepperdine",
+    "8\u20137",
+    "36\u201310\u20131",
+    "9\u20132\u20131"
+   ],
+   [
+    "April 22",
+    "Hawaii",
+    "12\u20134",
+    "37\u201310\u20131",
+    "\u2013"
+   ],
+   [
+    "April 24",
+    "San Diego",
+    "7\u20132",
+    "38\u201310\u20131",
+    "10\u20132\u20131"
+   ],
+   [
+    "April 27",
+    "at Long Beach State",
+    "6\u20139",
+    "38\u201311\u20131",
+    "10\u20133\u20131"
+   ],
+   [
+    "April 28",
+    "Long Beach State",
+    "7\u20131",
+    "39\u201311\u20131",
+    "11\u20133\u20131"
+   ],
+   [
+    "April 28",
+    "Long Beach State",
+    "5\u20133",
+    "40\u201311\u20131",
+    "12\u20133\u20131"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 19
+ },
+ {
+  "id": "nt-11116",
+  "question": "what was the last game released?",
+  "answers": [
+   "Omerta - City of Gangsters"
+  ],
+  "ground_truth": "Omerta - City of Gangsters",
+  "table_header": [
+   "Title",
+   "Release date",
+   "Developer(s)",
+   "Publisher(s)",
+   "Genre(s)"
+  ],
+  "table_rows": [
+   [
+    "187 Ride or Die",
+    "2005-08-23",
+    "Ubisoft",
+    "Ubisoft",
+    "Driving"
+   ],
+   [
+    "50 Cent: Bulletproof",
+    "2005-11-17",
+    "Genuine Games",
+    "Sierra Entertainment",
+    ""
+   ],
+   [
+    "50 Cent: Blood on the Sand",
+    "2009-02-20",
+    "Swordfish Studios",
+    "THQ",
+    ""
+   ],
+   [
+    "25 To Life",
+    "2006-01-17",
+    "Avalanche Software, Ritual Entertainment",
+    "Eidos Interactive",
+    ""
+   ],
+   [
+    "Gangland (video game)",
+    "2004-02-14",
+    "MediaMobsters",
+    "Whiptail Interactive",
+    ""
+   ],
+   [
+    "Gangsters: Organized Crime",
+    "1998-11-30",
+    "Hothouse Creations",
+    "Eidos Interactive",
+    ""
+   ],
+   [
+    "Gangsters 2",
+    "2001-06-01",
+    "Hothouse Creations",
+    "Eidos Interactive",
+    ""
+   ],
+   [
+    "The Godfather: The Game",
+    "2006-03-21",
+    "EA Redwood Shores",
+    "Electronic Arts",
+    ""
+   ],
+   [
+    "The Godfather II",
+    "2009-04-07",
+    "EA Redwood Shores",
+    "Electronic Arts",
+    ""
+   ],
+   [
+    "Grand Theft Auto III",
+    "2001-10-22",
+    "DMA Design",
+    "Rockstar Games",
+    ""
+   ],
+   [
+    "Grand Theft Auto: Vice City",
+    "2002-10-22",
+    "Rockstar North",
+    "Rockstar Games",
+    ""
+   ],
+   [
+    "Grand Theft Auto: San Andreas",
+    "2004-10-24",
+    "Rockstar North",
+    "Rockstar Games",
+    ""
+   ],
+   [
+    "Mafia: The City of Lost Heaven",
+    "2002-08-28",
+    "Illusion Softworks",
+    "Gathering of Developers",
+    ""
+   ],
+   [
+    "Mafia II",
+    "2010-08-24",
+    "2K Czech, Massive Bear Studios",
+    "2K Games, 1C Company",
+    ""
+   ],
+   [
+    "Mob Rule",
+    "1999-9-30",
+    "Simon & Schuster Interactive",
+    "Studio 3 Interactive",
+    ""
+   ],
+   [
+    "Saints Row",
+    "2006-08-29",
+    "Volition",
+    "THQ",
+    ""
+   ],
+   [
+    "Saints Row 2",
+    "2008-10-14",
+    "Volition, Inc.",
+    "THQ",
+    ""
+   ],
+   [
+    "Omerta - City of Gangsters",
+    "2013-01-31",
+    "Haemimont Games",
+    "Kalypso Media",
+    "Building Simulation, RPG"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 18
+ },
+ {
+  "id": "nt-7128",
+  "question": "what was the number of points scored in week 3?",
+  "answers": [
+   "23"
+  ],
+  "ground_truth": "23",
+  "table_header": [
+   "Week",
+   "Date",
+   "Opponent",
+   "Result",
+   "Attendance"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "September 9, 1990",
+    "at New England Patriots",
+    "W 27\u201324",
+    "45,305"
+   ],
+   [
+    "2",
+    "September 16, 1990",
+    "Buffalo Bills",
+    "W 30\u20137",
+    "68,142"
+   ],
+   [
+    "3",
+    "September 23, 1990",
+    "at New York Giants",
+    "L 20\u20133",
+    "76,483"
+   ],
+   [
+    "4",
+    "September 30, 1990",
+    "at Pittsburgh Steelers",
+    "W 28\u20136",
+    "54,691"
+   ],
+   [
+    "5",
+    "October 7, 1990",
+    "New York Jets",
+    "W 20\u201316",
+    "69,678"
+   ],
+   [
+    "6",
+    "Bye",
+    "Bye",
+    "Bye",
+    "Bye"
+   ],
+   [
+    "7",
+    "October 18, 1990",
+    "New England Patriots",
+    "W 17\u201310",
+    "62,630"
+   ],
+   [
+    "8",
+    "October 28, 1990",
+    "at Indianapolis Colts",
+    "W 27\u20137",
+    "59,213"
+   ],
+   [
+    "9",
+    "November 4, 1990",
+    "Phoenix Cardinals",
+    "W 23\u20133",
+    "54,294"
+   ],
+   [
+    "10",
+    "November 11, 1990",
+    "at New York Jets",
+    "W 17\u20133",
+    "68,362"
+   ],
+   [
+    "11",
+    "November 19, 1990",
+    "Los Angeles Raiders",
+    "L 13\u201310",
+    "70,553"
+   ],
+   [
+    "12",
+    "November 25, 1990",
+    "at Cleveland Browns",
+    "W 30\u201313",
+    "70,225"
+   ],
+   [
+    "13",
+    "December 2, 1990",
+    "at Washington Redskins",
+    "L 42\u201320",
+    "53,599"
+   ],
+   [
+    "14",
+    "December 9, 1990",
+    "Philadelphia Eagles",
+    "W 23\u201320",
+    "67,034"
+   ],
+   [
+    "15",
+    "December 16, 1990",
+    "Seattle Seahawks",
+    "W 24\u201317",
+    "57,851"
+   ],
+   [
+    "16",
+    "December 23, 1990",
+    "at Buffalo Bills",
+    "L 24\u201314",
+    "80,235"
+   ],
+   [
+    "17",
+    "December 30, 1990",
+    "Indianapolis Colts",
+    "W 23\u201317",
+    "59,547"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 17
+ },
+ {
+  "id": "nt-12511",
+  "question": "which province has less population density than independencia?",
+  "answers": [
+   "Pedernales"
+  ],
+  "ground_truth": "Pedernales",
+  "table_header": [
+   "Province",
+   "Capital",
+   "Area (km\u00b2)",
+   "Population",
+   "Density"
+  ],
+  "table_rows": [
+   [
+    "Azua",
+    "Azua",
+    "2,531.77",
+    "298,246",
+    "118"
+   ],
+   [
+    "Bahoruco",
+    "Neiba",
+    "1,282.23",
+    "111,269",
+    "87"
+   ],
+   [
+    "Barahona",
+    "Barahona",
+    "1,739.38",
+    "232,818",
+    "134"
+   ],
+   [
+    "Dajab\u00f3n",
+    "Dajab\u00f3n",
+    "1,020.73",
+    "87,274",
+    "86"
+   ],
+   [
+    "Distrito Nacional",
+    "Santo Domingo",
+    "104.44",
+    "1,402,749",
+    "13,431"
+   ],
+   [
+    "Duarte",
+    "San Francisco de Macor\u00eds",
+    "1,605.35",
+    "338,649",
+    "211"
+   ],
+   [
+    "El Seibo",
+    "El Seibo",
+    "1,786.80",
+    "110,212",
+    "62"
+   ],
+   [
+    "El\u00edas Pi\u00f1a",
+    "Comendador",
+    "1,426.20",
+    "84,632",
+    "59"
+   ],
+   [
+    "Espaillat",
+    "Moca",
+    "838.62",
+    "333,401",
+    "398"
+   ],
+   [
+    "Hato Mayor",
+    "Hato Mayor",
+    "1,329.29",
+    "103,032",
+    "78"
+   ],
+   [
+    "Hermanas Mirabal",
+    "Salcedo",
+    "440.43",
+    "121,887",
+    "277"
+   ],
+   [
+    "Independencia",
+    "Jiman\u00ed",
+    "2,006.44",
+    "74,583",
+    "37"
+   ],
+   [
+    "La Altagracia",
+    "Hig\u00fcey",
+    "3,010.34",
+    "372,289",
+    "124"
+   ],
+   [
+    "La Romana",
+    "La Romana",
+    "653.95",
+    "344,580",
+    "527"
+   ],
+   [
+    "La Vega",
+    "Concepci\u00f3n de La Vega",
+    "2,287.24",
+    "447,905",
+    "196"
+   ],
+   [
+    "Mar\u00eda Trinidad S\u00e1nchez",
+    "Nagua",
+    "1,271.71",
+    "195,886",
+    "154"
+   ],
+   [
+    "Monse\u00f1or Nouel",
+    "Bonao",
+    "992.39",
+    "203,183",
+    "205"
+   ],
+   [
+    "Monte Cristi",
+    "Monte Cristi",
+    "1,924.35",
+    "150,833",
+    "78"
+   ],
+   [
+    "Monte Plata",
+    "Monte Plata",
+    "2,632.14",
+    "222,641",
+    "85"
+   ],
+   [
+    "Pedernales",
+    "Pedernales",
+    "2,074.53",
+    "52,165",
+    "25"
+   ],
+   [
+    "Peravia",
+    "Ban\u00ed",
+    "792.33",
+    "217,241",
+    "274"
+   ],
+   [
+    "Puerto Plata",
+    "Puerto Plata",
+    "1,852.90",
+    "498,232",
+    "269"
+   ],
+   [
+    "Saman\u00e1",
+    "Saman\u00e1",
+    "853.74",
+    "139,707",
+    "164"
+   ],
+   [
+    "San Crist\u00f3bal",
+    "San Crist\u00f3bal",
+    "1,265.77",
+    "640,066",
+    "506"
+   ],
+   [
+    "San Jos\u00e9 de Ocoa",
+    "San Jos\u00e9 de Ocoa",
+    "855.40",
+    "97,640",
+    "114"
+   ],
+   [
+    "San Juan",
+    "San Juan de la Maguana",
+    "3,569.39",
+    "317,293",
+    "89"
+   ],
+   [
+    "San Pedro de Macor\u00eds",
+    "San Pedro de Macor\u00eds",
+    "1,255.46",
+    "392,911",
+    "313"
+   ],
+   [
+    "S\u00e1nchez Ram\u00edrez",
+    "Cotu\u00ed",
+    "1,196.13",
+    "248,807",
+    "208"
+   ],
+   [
+    "Santiago",
+    "Santiago de los Caballeros",
+    "2,836.51",
+    "1,543,362",
+    "544"
+   ],
+   [
+    "Santiago Rodr\u00edguez",
+    "Sabaneta",
+    "1,111.14",
+    "99,044",
+    "89"
+   ],
+   [
+    "Santo Domingo",
+    "Santo Domingo Este",
+    "1,296.35",
+    "3,263,053",
+    "2,517"
+   ],
+   [
+    "Valverde",
+    "Mao",
+    "823.38",
+    "217,026",
+    "264"
+   ],
+   [
+    "Total",
+    "",
+    "48,666.83",
+    "12,935,223",
+    "266"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 33
+ },
+ {
+  "id": "nt-13366",
+  "question": "number of albums released under the ode label",
+  "answers": [
+   "4"
+  ],
+  "ground_truth": "4",
+  "table_header": [
+   "Year",
+   "Album",
+   "Label",
+   "Peak chart\\npositions\\nUS",
+   "Peak chart\\npositions\\nUS R&B"
+  ],
+  "table_rows": [
+   [
+    "1969",
+    "Gimme Shelter",
+    "Ode",
+    "\u2014",
+    "\u2014"
+   ],
+   [
+    "1971",
+    "Celebration",
+    "Ode",
+    "\u2014",
+    "\u2014"
+   ],
+   [
+    "1971",
+    "Merry Clayton",
+    "Ode",
+    "180",
+    "36"
+   ],
+   [
+    "1975",
+    "Keep Your Eye on the Sparrow",
+    "Ode",
+    "146",
+    "50"
+   ],
+   [
+    "1979",
+    "Emotion",
+    "Fontana",
+    "\u2014",
+    "\u2014"
+   ],
+   [
+    "1994",
+    "Miracles",
+    "A&M",
+    "\u2014",
+    "\u2014"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 6
+ },
+ {
+  "id": "nt-10018",
+  "question": "what was the only episode without a highest seller?",
+  "answers": [
+   "Express: Impossible"
+  ],
+  "ground_truth": "Express: Impossible",
+  "table_header": [
+   "Episode",
+   "Name",
+   "Synopsis",
+   "Sent Home",
+   "Highest Seller"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Vegas Meltdown",
+    "Nine aspiring restaurateurs arrive in Las Vegas, where they meet Chef Robert Irvine and the Restaurant Express Bus. In order to secure one of the eight spots on board, they must first pitch their dream restaurant concept to Robert: Those with the best concepts head into Lake Las Vegas for the first challenge. They'll have to create a restaurant from the ground up with just $500 and six hours to feed 250 hungry guests! The bottom three earners will be up for elimination.",
+    "Ammerah, Kimmy",
+    "Patrick"
+   ],
+   [
+    "2",
+    "Tantrum in Temecula",
+    "The Restaurant Express bus arrives in Temecula, Calif., a small, upscale town with lots of restaurants. The contestants' market knowledge is tested when they must propose to Robert and the mayor a new restaurant that they think could be successful in the town. The winner of the mini challenge will get extra money for the main challenge, where they will test their restaurant ideas on the locals at a lunch fair. The bottom three earners will be up for elimination.",
+    "Johnathan",
+    "Eric"
+   ],
+   [
+    "3",
+    "Express: Impossible",
+    "The Restaurant Express bus arrives in Los Angeles, where the contestants face their first group challenge. Inspired by Restaurant: Impossible, the teams will be given 24 hours and $5,000 to revitalize two struggling restaurants. Robert and two visiting critics will dine at each location to determine who won this round, and who will be off the bus.",
+    "Bianca",
+    "None"
+   ],
+   [
+    "4",
+    "Battle By the Beach",
+    "The Restaurant Express bus arrives at the iconic Balboa Pier in Newport Beach, Calif. The remaining five contestants will each have to open a concession stand with the same three dishes; a burger, a dessert and something on a stick. They also must produce a commercial for their stand. The contestant with the best commercial gets to have their ad play on the pier, but will that marketing advantage be enough to draw the most customers?",
+    "Patrick",
+    "Eric"
+   ],
+   [
+    "5",
+    "Going, Going, Gone!",
+    "The remaining four contestants are given their biggest budget challenge: create a supper club with $1,000 and an empty restaurant shell. They first attend an auction with items that could be a big benefit during dinner service, challenging them to spend wisely for an advantage, with enough money left over for food and supplies.",
+    "Eric",
+    "Adam"
+   ],
+   [
+    "6",
+    "The Truck Stops Here!",
+    "The three remaining chefs are each given a food truck and are challenged on their ability to serve specific groups of diners at three iconic locations: a zoo, an upscale shopping center and a late night bar scene. The winner gets a big advantage heading into the final challenge.",
+    "None",
+    "Adam"
+   ],
+   [
+    "7",
+    "Vegas or Bust",
+    "Jan and Seonkyoung battle to see who would face Adam in the final challenge. Seonkyoung won, therefore advancing herself to the final challenge. The two finalists then competed head-to-head against each other in the same restaurant. In the end, Seonkyoung beat Adam and she won a restaurant in the M, named Jade.",
+    "Jan, Adam",
+    "Seonkyoung"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 7
+ },
+ {
+  "id": "nt-13290",
+  "question": "the united states has won only one time. what place did they come in?",
+  "answers": [
+   "4th"
+  ],
+  "ground_truth": "4th",
+  "table_header": [
+   "Rank",
+   "Country/Territory",
+   "Miss Supranational",
+   "1st Runner-up",
+   "2nd Runner-up",
+   "3rd Runner-up",
+   "4th Runner-up",
+   "Semifinalists",
+   "Total"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Belarus",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "1",
+    "4"
+   ],
+   [
+    "2",
+    "Poland",
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "3",
+    "5"
+   ],
+   [
+    "3",
+    "Philippines",
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "2"
+   ],
+   [
+    "4",
+    "Panama",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "3"
+   ],
+   [
+    "5",
+    "Ukraine",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "3"
+   ],
+   [
+    "6",
+    "Czech Republic",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "1",
+    "3"
+   ],
+   [
+    "7",
+    "Thailand",
+    "0",
+    "1",
+    "0",
+    "0",
+    "1",
+    "1",
+    "3"
+   ],
+   [
+    "8",
+    "Mexico",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+   ],
+   [
+    "9",
+    "Puerto Rico",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "2",
+    "3"
+   ],
+   [
+    "10",
+    "Slovenia",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "1",
+    "2"
+   ],
+   [
+    "11",
+    "Turkey",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "1"
+   ],
+   [
+    "12",
+    "Honduras",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "2",
+    "3"
+   ],
+   [
+    "13",
+    "Peru",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1",
+    "2"
+   ],
+   [
+    "13",
+    "Vietnam",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1",
+    "2"
+   ],
+   [
+    "15",
+    "Indonesia",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "1"
+   ],
+   [
+    "16",
+    "England",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "2"
+   ],
+   [
+    "17",
+    "Ecuador",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1"
+   ],
+   [
+    "17",
+    "United States",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1"
+   ],
+   [
+    "17",
+    "U.S. Virgin Islands",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1"
+   ],
+   [
+    "20",
+    "Brazil",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "4",
+    "4"
+   ],
+   [
+    "21",
+    "Canada",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Colombia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Dominican Republic",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "France",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Greece",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Iceland",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "India",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Latvia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Russia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "South Africa",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "21",
+    "Venezuela",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2"
+   ],
+   [
+    "32",
+    "Albania",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Australia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Bahamas",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Belgium",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Bosnia and Herzegovina",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Costa Rica",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Croatia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Denmark",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Finland",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "French Polynesia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Gabon",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Gambia",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Hungary",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Kazakhstan",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Korea",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Lebanon",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Lithuania",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Luxembourg",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Moldova",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Myanmar",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Portugal",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Romania",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Slovak Republic",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Spain",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Suriname",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "32",
+    "Chinese Taipei",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ]
+  ],
+  "n_cols": 9,
+  "n_rows": 57
+ },
+ {
+  "id": "nt-9947",
+  "question": "what was the last year of manufacture for these revolvers?",
+  "answers": [
+   "1875"
+  ],
+  "ground_truth": "1875",
+  "table_header": [
+   "Model",
+   "Frame",
+   "Years Mfg'd",
+   "Caliber(s)",
+   "Production",
+   "Barrel",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "Remington-Beals Army Model Revolver",
+    "Large",
+    "1861-1862",
+    ".44",
+    "1,900 (estimated)",
+    "8 inch octagon",
+    ""
+   ],
+   [
+    "Remington-Beals Navy Model Revolver",
+    "Medium",
+    "1861-1862",
+    ".36",
+    "14,500 (estimated)",
+    "7 1/2 inch octagon",
+    ""
+   ],
+   [
+    "1861 Army Revolver (Old Model Army)",
+    "Large",
+    "1862",
+    ".44",
+    "6,000 (estimated)",
+    "8 inch octagon",
+    ""
+   ],
+   [
+    "1861 Navy Revolver",
+    "Medium",
+    "1862",
+    ".36",
+    "7,000 (estimated)",
+    "7 3/8 inch octagon",
+    ""
+   ],
+   [
+    "New Model Army Revolver",
+    "Large",
+    "1863-1875",
+    ".44",
+    "122,000 (approximately)",
+    "8 inch octagon",
+    "Used for factory conversions in .46 RF & .44 Remington"
+   ],
+   [
+    "New Model Navy Revolver",
+    "Medium",
+    "1863-1875",
+    ".36",
+    "28,000 (approximately)",
+    "7 3/8 inch octagon",
+    "Used for factory and U.S. Navy conversions to .38 RF & CF"
+   ],
+   [
+    "New Model Single Action Belt Revolver",
+    "Large",
+    "1863-1875",
+    ".36 percussion and .38 CF",
+    "2,500 - 3,000 (estimated)",
+    "6 1/2 inch octagon",
+    "Factory conversion production started in 1873"
+   ],
+   [
+    "Remington-Rider Double Action New Model Belt Revolver",
+    "Large",
+    "1863-1873",
+    ".36 percussion and .38 CF",
+    "3,000 - 5,000 (estimated)",
+    "6 1/2 inch octagon",
+    "1863-1865 available with fluted cylinder, conversions had two-piece cylinder"
+   ],
+   [
+    "New Model Police Revolver",
+    "Medium",
+    "1865-1873",
+    ".36 percussion and .38 RF",
+    "25,000 (estimated)",
+    "3 1/2, 4 1/2, 5 1/2, 6 1/2 inch octagon",
+    "Conversions all believed to be rimfire only"
+   ],
+   [
+    "New Model Pocket Revolver",
+    "Medium",
+    "1865-1873",
+    ".31 percussion and .32 CF",
+    "25,000 (estimated)",
+    "3, 3 1/2, 4, 4 1/2",
+    "Majority produced as conversions or cartridge"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-7816",
+  "question": "hinnigan and purdie were the only scorers against what opponent this team faced in september 1978?",
+  "answers": [
+   "Newport County"
+  ],
+  "ground_truth": "Newport County",
+  "table_header": [
+   "Game",
+   "Date",
+   "Opponent",
+   "Venue",
+   "Result",
+   "Attendance",
+   "Goalscorers"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "19 August 1978",
+    "Hereford United",
+    "Away",
+    "0\u20130",
+    "5,674",
+    ""
+   ],
+   [
+    "2",
+    "23 August 1978",
+    "Grimsby Town",
+    "Home",
+    "0\u20133",
+    "9,227",
+    ""
+   ],
+   [
+    "3",
+    "26 August 1978",
+    "Reading",
+    "Away",
+    "0\u20132",
+    "4,788",
+    ""
+   ],
+   [
+    "4",
+    "2 September 1978",
+    "Newport County",
+    "Home",
+    "2\u20133",
+    "5,319",
+    "Hinnigan, Purdie"
+   ],
+   [
+    "5",
+    "9 September 1978",
+    "Wimbledon",
+    "Away",
+    "1\u20132",
+    "3,217",
+    "Corrigan"
+   ],
+   [
+    "6",
+    "13 September 1978",
+    "Rochdale",
+    "Home",
+    "3\u20130",
+    "5,746",
+    "Wright, Corrigan, Hinnigan"
+   ],
+   [
+    "7",
+    "16 September 1978",
+    "Bradford City",
+    "Home",
+    "1\u20133",
+    "7,090",
+    "Purdie"
+   ],
+   [
+    "8",
+    "23 September 1978",
+    "York City",
+    "Away",
+    "1\u20130",
+    "3,307",
+    "Gore"
+   ],
+   [
+    "9",
+    "26 September 1978",
+    "Portsmouth",
+    "Away",
+    "0\u20131",
+    "13,902",
+    ""
+   ],
+   [
+    "10",
+    "30 September 1978",
+    "Scunthorpe United",
+    "Home",
+    "1\u20130",
+    "4,459",
+    "Brownbill"
+   ],
+   [
+    "11",
+    "7 October 1978",
+    "Huddersfield Town",
+    "Away",
+    "1\u20131",
+    "5,150",
+    "Brownbill"
+   ],
+   [
+    "12",
+    "14 October 1978",
+    "Doncaster Rovers",
+    "Home",
+    "1\u20130",
+    "5,788",
+    "Ward"
+   ],
+   [
+    "13",
+    "18 October 1978",
+    "Halifax Town",
+    "Home",
+    "1\u20130",
+    "5,216",
+    "Hinnigan"
+   ],
+   [
+    "14",
+    "21 October 1978",
+    "Barnsley",
+    "Away",
+    "0\u20130",
+    "9,841",
+    ""
+   ],
+   [
+    "15",
+    "28 October 1978",
+    "Northampton Town",
+    "Home",
+    "2\u20130",
+    "6,264",
+    "Purdie (2, 1 pen.)"
+   ],
+   [
+    "16",
+    "3 November 1978",
+    "Stockport County",
+    "Away",
+    "1\u20130",
+    "8,357",
+    "Hinnigan"
+   ],
+   [
+    "17",
+    "10 November 1978",
+    "Newport County",
+    "Away",
+    "1\u20132",
+    "4,142",
+    "Houghton"
+   ],
+   [
+    "18",
+    "18 November 1978",
+    "Reading",
+    "Home",
+    "3\u20130",
+    "5,858",
+    "Houghton (2), Ward"
+   ],
+   [
+    "19",
+    "9 December 1978",
+    "Darlington",
+    "Away",
+    "1\u20131",
+    "1,967",
+    "Moore"
+   ],
+   [
+    "20",
+    "16 December 1978",
+    "Halifax Town",
+    "Away",
+    "2\u20131",
+    "2,437",
+    "Moore, Purdie"
+   ],
+   [
+    "21",
+    "26 December 1978",
+    "Crewe Alexandra",
+    "Home",
+    "1\u20130",
+    "7,586",
+    "Houghton"
+   ],
+   [
+    "22",
+    "30 December 1978",
+    "Aldershot",
+    "Home",
+    "3\u20132",
+    "7,289",
+    "Moore, Houghton (2)"
+   ],
+   [
+    "23",
+    "9 January 1979",
+    "Port Vale",
+    "Away",
+    "1\u20132",
+    "3,744",
+    "Wright (pen.)"
+   ],
+   [
+    "24",
+    "3 February 1979",
+    "Portsmouth",
+    "Home",
+    "2\u20130",
+    "8,289",
+    "Wright, Corrigan"
+   ],
+   [
+    "25",
+    "14 February 1979",
+    "Wimbledon",
+    "Home",
+    "1\u20132",
+    "6,704",
+    "Purdie (pen.)"
+   ],
+   [
+    "26",
+    "17 February 1979",
+    "Huddersfield Town",
+    "Home",
+    "2\u20131",
+    "7,420",
+    "Ward (2)"
+   ],
+   [
+    "27",
+    "24 February 1979",
+    "Doncaster Rovers",
+    "Away",
+    "1\u20130",
+    "4,612",
+    "Wright"
+   ],
+   [
+    "28",
+    "28 February 1979",
+    "York City",
+    "Home",
+    "1\u20131",
+    "5,896",
+    "Houghton"
+   ],
+   [
+    "29",
+    "3 March 1979",
+    "Barnsley",
+    "Home",
+    "1\u20131",
+    "9,427",
+    "Wright"
+   ],
+   [
+    "30",
+    "10 March 1979",
+    "Northampton Town",
+    "Away",
+    "4\u20132",
+    "2,275",
+    "Brownbill (2), Purdie, Corrigan"
+   ],
+   [
+    "31",
+    "14 March 1979",
+    "Torquay United",
+    "Home",
+    "3\u20131",
+    "5,722",
+    "Moore (2), Hinnigan"
+   ],
+   [
+    "32",
+    "17 March 1979",
+    "Stockport County",
+    "Home",
+    "2\u20130",
+    "7,610",
+    "Wright, Smart"
+   ],
+   [
+    "33",
+    "19 March 1979",
+    "Rochdale",
+    "Away",
+    "2\u20130",
+    "3,621",
+    "Purdie, Moore"
+   ],
+   [
+    "34",
+    "24 March 1979",
+    "Grimsby Town",
+    "Away",
+    "1\u20133",
+    "8,252",
+    "Wigginton (o.g.)"
+   ],
+   [
+    "35",
+    "28 March 1979",
+    "Hereford United",
+    "Home",
+    "0\u20130",
+    "4,876",
+    ""
+   ],
+   [
+    "36",
+    "31 March 1979",
+    "Bournemouth",
+    "Home",
+    "1\u20130",
+    "5,527",
+    "Houghton"
+   ],
+   [
+    "37",
+    "3 April 1979",
+    "Hartlepool United",
+    "Away",
+    "1\u20131",
+    "2,081",
+    "Houghton"
+   ],
+   [
+    "38",
+    "7 April 1979",
+    "Torquay United",
+    "Away",
+    "1\u20131",
+    "2,969",
+    "Houghton"
+   ],
+   [
+    "39",
+    "13 April 1979",
+    "Port Vale",
+    "Home",
+    "5\u20133",
+    "8,452",
+    "Houghton (3), Brownbill, Moore"
+   ],
+   [
+    "40",
+    "14 April 1979",
+    "Crewe Alexandra",
+    "Away",
+    "1\u20131",
+    "4,604",
+    "Purdie (pen.)"
+   ],
+   [
+    "41",
+    "16 April 1979",
+    "Hartlepool United",
+    "Home",
+    "2\u20132",
+    "8,217",
+    "Wright, Purdie"
+   ],
+   [
+    "42",
+    "21 April 1979",
+    "Aldershot",
+    "Away",
+    "0\u20131",
+    "5,466",
+    ""
+   ],
+   [
+    "43",
+    "28 April 1979",
+    "Darlington",
+    "Home",
+    "2\u20132",
+    "6,153",
+    "Moore, Brownbill"
+   ],
+   [
+    "44",
+    "1 May 1979",
+    "Scunthorpe United",
+    "Away",
+    "1\u20130",
+    "1,582",
+    "Gore"
+   ],
+   [
+    "45",
+    "5 May 1979",
+    "Bournemouth",
+    "Away",
+    "1\u20132",
+    "3,063",
+    "Purdie"
+   ],
+   [
+    "46",
+    "7 May 1979",
+    "Bradford City",
+    "Away",
+    "1\u20131",
+    "3,748",
+    "Moore"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 46
+ },
+ {
+  "id": "nt-4810",
+  "question": "what is the difference in speed number of the fastest and slowest trains in km/h?",
+  "answers": [
+   "197.6"
+  ],
+  "ground_truth": "197.6",
+  "table_header": [
+   "Speed [km/h (mph)]",
+   "Train",
+   "Type",
+   "Location",
+   "Date",
+   "Comments"
+  ],
+  "table_rows": [
+   [
+    "504 (313.2)",
+    "ML-500",
+    "Maglev",
+    "Miyazaki Maglev Test Track",
+    "12 December 1979",
+    ""
+   ],
+   [
+    "517 (321.2)",
+    "ML-500",
+    "Maglev",
+    "Miyazaki Maglev Test Track",
+    "21 December 1979",
+    ""
+   ],
+   [
+    "352.4 (219.0)",
+    "MLU001",
+    "Maglev",
+    "Miyazaki Maglev Test Track",
+    "January 1986",
+    "Three-car train set"
+   ],
+   [
+    "405.3 (251.8)",
+    "MLU001",
+    "Maglev",
+    "Miyazaki Maglev Test Track",
+    "January 1987",
+    "Two-car train set"
+   ],
+   [
+    "431 (267.8)",
+    "MLU002N",
+    "Maglev",
+    "Miyazaki Maglev Test Track",
+    "February 1994",
+    "Single-car"
+   ],
+   [
+    "550 (341.8)",
+    "MLX01",
+    "Maglev",
+    "Yamanashi Maglev Test Line",
+    "24 December 1997",
+    "Three-car train set"
+   ],
+   [
+    "548 (340.5)",
+    "MLX01",
+    "Maglev",
+    "Yamanashi Maglev Test Line",
+    "18 March 1999",
+    "Five-car train set"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 7
+ },
+ {
+  "id": "nt-7273",
+  "question": "which couple was the chumps the same amount of times as chantelle and steve?",
+  "answers": [
+   "Kyal and Kara"
+  ],
+  "ground_truth": "Kyal and Kara",
+  "table_header": [
+   "Week",
+   "Room",
+   "Winning Couple",
+   "2nd Couple",
+   "3rd Couple",
+   "Chumps"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Guest Bedroom 1",
+    "Alisa and Lysandra",
+    "Kyal and Kara/Brad and Dale",
+    "Chantelle and Steve",
+    ""
+   ],
+   [
+    "2",
+    "Downstairs Bathrooms, Laundry & Terrace",
+    "Brad and Dale",
+    "Alisa and Lysandra",
+    "Chantelle and Steve",
+    "Kyal and Kara"
+   ],
+   [
+    "3",
+    "Guest Bedroom 2",
+    "Kyal and Kara",
+    "Chantalle and Steve",
+    "Alisa and Lysandra",
+    "Brad and Dale"
+   ],
+   [
+    "4",
+    "Upstairs Bathroom",
+    "Kyal and Kara",
+    "Brad and Dale",
+    "Chantelle and Steve",
+    "Alisa and Lysandra"
+   ],
+   [
+    "5",
+    "Kitchen",
+    "Alisa and Lysandra",
+    "Kyal and Kara",
+    "Brad and Dale",
+    "Chantelle and Steve"
+   ],
+   [
+    "6",
+    "Living Room and Dining Room",
+    "Chantelle and Steve",
+    "Alisa and Lysandra",
+    "Brad and Dale / Kyal and Kara",
+    ""
+   ],
+   [
+    "7",
+    "Master Bedroom and Ensuite",
+    "Brad and Dale",
+    "Chantelle and Steve",
+    "Alisa and Lysandra",
+    "Kyal and Kara"
+   ],
+   [
+    "8",
+    "Rooftop/Outside Terrace",
+    "Kyal and Kara",
+    "Brad and Dale",
+    "Alisa and Lysandra",
+    "Chantelle and Steve"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-1537",
+  "question": "what is the next county listed after grant county?",
+  "answers": [
+   "Guadalupe"
+  ],
+  "ground_truth": "Guadalupe",
+  "table_header": [
+   "County",
+   "Obama",
+   "Votes",
+   "Romney",
+   "Votes",
+   "Others",
+   "Votes",
+   "Total"
+  ],
+  "table_rows": [
+   [
+    "Bernalillo",
+    "55.55%",
+    "147,183",
+    "39.35%",
+    "104,242",
+    "5.10%",
+    "13,517",
+    "264,942"
+   ],
+   [
+    "Catron",
+    "26.38%",
+    "560",
+    "70.37%",
+    "1,494",
+    "3.25%",
+    "69",
+    "2,123"
+   ],
+   [
+    "Chaves",
+    "32.28%",
+    "6,641",
+    "64.77%",
+    "13,327",
+    "2.95%",
+    "607",
+    "20,575"
+   ],
+   [
+    "Cibola",
+    "60.18%",
+    "4,907",
+    "36.37%",
+    "2,966",
+    "3.45%",
+    "281",
+    "8,154"
+   ],
+   [
+    "Colfax",
+    "49.05%",
+    "2,828",
+    "46.83%",
+    "2,700",
+    "4.11%",
+    "237",
+    "5,765"
+   ],
+   [
+    "Curry",
+    "29.51%",
+    "4,019",
+    "67.91%",
+    "9,250",
+    "2.58%",
+    "352",
+    "13,621"
+   ],
+   [
+    "DeBaca",
+    "31.82%",
+    "287",
+    "64.97%",
+    "586",
+    "3.22%",
+    "29",
+    "902"
+   ],
+   [
+    "Do\u00f1a Ana",
+    "55.97%",
+    "36,778",
+    "41.07%",
+    "26,988",
+    "2.96%",
+    "1,946",
+    "65,712"
+   ],
+   [
+    "Eddy",
+    "31.83%",
+    "6,110",
+    "65.36%",
+    "12,546",
+    "2.81%",
+    "539",
+    "19,195"
+   ],
+   [
+    "Grant",
+    "55.00%",
+    "7,009",
+    "41.48%",
+    "5,286",
+    "3.52%",
+    "449",
+    "12,744"
+   ],
+   [
+    "Guadalupe",
+    "69.68%",
+    "1,478",
+    "26.12%",
+    "554",
+    "4.20%",
+    "89",
+    "2,121"
+   ],
+   [
+    "Harding",
+    "43.26%",
+    "260",
+    "54.41%",
+    "327",
+    "2.33%",
+    "14",
+    "601"
+   ],
+   [
+    "Hidalgo",
+    "51.42%",
+    "995",
+    "46.46%",
+    "899",
+    "2.12%",
+    "41",
+    "1,935"
+   ],
+   [
+    "Lea",
+    "23.98%",
+    "4,080",
+    "73.75%",
+    "12,548",
+    "2.27%",
+    "387",
+    "17,015"
+   ],
+   [
+    "Lincoln",
+    "31.82%",
+    "2,940",
+    "64.51%",
+    "5,961",
+    "3.67%",
+    "339",
+    "9,240"
+   ],
+   [
+    "Los Alamos",
+    "48.72%",
+    "5,191",
+    "45.02%",
+    "4,796",
+    "6.26%",
+    "667",
+    "10,654"
+   ],
+   [
+    "Luna",
+    "47.77%",
+    "3,583",
+    "48.93%",
+    "3,670",
+    "3.29%",
+    "247",
+    "7,500"
+   ],
+   [
+    "McKinley",
+    "72.08%",
+    "15,363",
+    "25.43%",
+    "5,420",
+    "2.49%",
+    "530",
+    "21,313"
+   ],
+   [
+    "Mora",
+    "74.85%",
+    "1,952",
+    "22.81%",
+    "595",
+    "2.34%",
+    "61",
+    "2,608"
+   ],
+   [
+    "Otero",
+    "34.15%",
+    "6,811",
+    "62.23%",
+    "12,412",
+    "3.62%",
+    "723",
+    "19,946"
+   ],
+   [
+    "Quay",
+    "37.32%",
+    "1,384",
+    "59.39%",
+    "2,202",
+    "3.29%",
+    "122",
+    "3,708"
+   ],
+   [
+    "Rio Arriba",
+    "74.74%",
+    "11,389",
+    "22.13%",
+    "3,373",
+    "3.13%",
+    "477",
+    "15,239"
+   ],
+   [
+    "Roosevelt",
+    "28.92%",
+    "1,730",
+    "67.73%",
+    "4,052",
+    "3.36%",
+    "201",
+    "5,983"
+   ],
+   [
+    "San Juan",
+    "34.11%",
+    "15,688",
+    "62.57%",
+    "28,779",
+    "3.32%",
+    "1,527",
+    "45,994"
+   ],
+   [
+    "San Miguel",
+    "76.86%",
+    "8,751",
+    "20.04%",
+    "2,281",
+    "3.10%",
+    "353",
+    "11,385"
+   ],
+   [
+    "Sandoval",
+    "50.29%",
+    "26,976",
+    "45.17%",
+    "24,228",
+    "4.53%",
+    "2,432",
+    "53,636"
+   ],
+   [
+    "Santa Fe",
+    "73.37%",
+    "50,097",
+    "22.48%",
+    "15,351",
+    "4.15%",
+    "2,832",
+    "68,280"
+   ],
+   [
+    "Sierra",
+    "38.49%",
+    "1,964",
+    "57.39%",
+    "2,928",
+    "4.12%",
+    "210",
+    "5,102"
+   ],
+   [
+    "Socorro",
+    "56.37%",
+    "4,047",
+    "37.89%",
+    "2,720",
+    "5.74%",
+    "412",
+    "7,179"
+   ],
+   [
+    "Taos",
+    "78.06%",
+    "11,855",
+    "17.84%",
+    "2,710",
+    "4.10%",
+    "623",
+    "15,188"
+   ],
+   [
+    "Torrance",
+    "37.86%",
+    "2,414",
+    "55.22%",
+    "3,521",
+    "6.92%",
+    "441",
+    "6,376"
+   ],
+   [
+    "Union",
+    "26.83%",
+    "472",
+    "70.27%",
+    "1,236",
+    "2.90%",
+    "51",
+    "1,759"
+   ],
+   [
+    "Valencia",
+    "48.73%",
+    "13,473",
+    "46.25%",
+    "12,788",
+    "5.01%",
+    "1,386",
+    "27,647"
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 33
+ },
+ {
+  "id": "nt-8610",
+  "question": "where did they place the last season?",
+  "answers": [
+   "2nd"
+  ],
+  "ground_truth": "2nd",
+  "table_header": [
+   "Season",
+   "Tier",
+   "Division",
+   "Place"
+  ],
+  "table_rows": [
+   [
+    "1992\u201396",
+    "5",
+    "Regional",
+    "\u2014"
+   ],
+   [
+    "1996/97",
+    "4",
+    "3\u00aa",
+    "16th"
+   ],
+   [
+    "1997/98",
+    "4",
+    "3\u00aa",
+    "5th"
+   ],
+   [
+    "1998/99",
+    "4",
+    "3\u00aa",
+    "12th"
+   ],
+   [
+    "1999/00",
+    "4",
+    "3\u00aa",
+    "4th"
+   ],
+   [
+    "2000/01",
+    "4",
+    "3\u00aa",
+    "6th"
+   ],
+   [
+    "2001/02",
+    "4",
+    "3\u00aa",
+    "4th"
+   ],
+   [
+    "2002/03",
+    "4",
+    "3\u00aa",
+    "3rd"
+   ],
+   [
+    "2003/04",
+    "3",
+    "2\u00aaB",
+    "19th"
+   ],
+   [
+    "2004/05",
+    "4",
+    "3\u00aa",
+    "2nd"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-10789",
+  "question": "what constellation appears last on this table?",
+  "answers": [
+   "Draco"
+  ],
+  "ground_truth": "Draco",
+  "table_header": [
+   "Designation",
+   "Classification",
+   "Constellation",
+   "Apparent Magnitude"
+  ],
+  "table_rows": [
+   [
+    "Comet Galaxy",
+    "S",
+    "Sculptor",
+    ""
+   ],
+   [
+    "ESO 97-G13, Circinus Galaxy",
+    "S",
+    "Circinus",
+    "11"
+   ],
+   [
+    "ESO 269-57",
+    "SB(r)a",
+    "Centaurus",
+    "12.49"
+   ],
+   [
+    "ESO 510-G13",
+    "Sa: pec sp",
+    "Hydra",
+    "13.4"
+   ],
+   [
+    "IC 342",
+    "SAB(rs)cd",
+    "Camelopardalis",
+    "9.1"
+   ],
+   [
+    "IC 442",
+    "S",
+    "Camelopardalis",
+    "13.8"
+   ],
+   [
+    "IC 1296",
+    "SBbc",
+    "Lyra",
+    "14.8"
+   ],
+   [
+    "ISOHDFS 27",
+    "S",
+    "",
+    ""
+   ],
+   [
+    "IC 2163",
+    "SB(rs)c pec",
+    "Canis Major",
+    "11.6"
+   ],
+   [
+    "IC 4970",
+    "SA0- pec",
+    "Pavo",
+    "12.7"
+   ],
+   [
+    "LEDA 100170, Dwingeloo 1",
+    "SB(s)cd",
+    "Cassiopeia",
+    "8.3"
+   ],
+   [
+    "M31, Andromeda",
+    "SA(s)b",
+    "Andromeda",
+    "4.36"
+   ],
+   [
+    "M33, Triangulum Galaxy",
+    "SA(s)cd",
+    "Triangulum",
+    "6.3"
+   ],
+   [
+    "M51a, Whirlpool Galaxy",
+    "SA(s)bc pec",
+    "Canes Venatici",
+    "9.0"
+   ],
+   [
+    "M58",
+    "SAB(rs)b",
+    "Virgo",
+    "10.5"
+   ],
+   [
+    "M61",
+    "SAB(rs)bc",
+    "Virgo",
+    "10.2"
+   ],
+   [
+    "M63, Sunflower Galaxy",
+    "SA(rs)bc",
+    "Canes Venatici",
+    "9.3"
+   ],
+   [
+    "M64, Black Eye Galaxy",
+    "(R)SA(rs)ab",
+    "Coma Berenices",
+    "9.4"
+   ],
+   [
+    "M65",
+    "SAB(rs)a",
+    "Leo",
+    "10.3"
+   ],
+   [
+    "M66",
+    "SAB(s)b",
+    "Leo",
+    "9.7"
+   ],
+   [
+    "M74",
+    "SA(s)c",
+    "Pisces",
+    "9.95"
+   ],
+   [
+    "M77",
+    "(R)SA(rs)b",
+    "Cetus",
+    "9.6"
+   ],
+   [
+    "M81",
+    "SA(s)ab",
+    "Ursa Major",
+    "7.9"
+   ],
+   [
+    "M83",
+    "SAB(s)c",
+    "Hydra",
+    "8.2"
+   ],
+   [
+    "M88",
+    "SA(rs)b",
+    "Coma Berenices",
+    "10.4"
+   ],
+   [
+    "M90",
+    "SAB(rs)ab",
+    "Virgo",
+    "10.3"
+   ],
+   [
+    "M91",
+    "SBb(rs)",
+    "Coma Berenices",
+    "11.0"
+   ],
+   [
+    "M94",
+    "SA(r)ab",
+    "Canes Venatici",
+    "9.0"
+   ],
+   [
+    "M95",
+    "SB(r)b",
+    "Leo",
+    "11.4"
+   ],
+   [
+    "M96",
+    "SAB(rs)ab",
+    "Leo",
+    "10.1"
+   ],
+   [
+    "M98",
+    "SAB(s)ab",
+    "Coma Berenices",
+    "11"
+   ],
+   [
+    "M99, Coma Pinwheel Galaxy",
+    "SA(s)c",
+    "Coma Berenices",
+    "10.4"
+   ],
+   [
+    "M100",
+    "SAB(s)bc",
+    "Coma Berenices",
+    "10.1"
+   ],
+   [
+    "M101, Pinwheel Galaxy",
+    "SAB(rs)cd",
+    "Ursa Major",
+    "8.3"
+   ],
+   [
+    "M104, Sombrero Galaxy",
+    "SA(s)a",
+    "Virgo",
+    "9.0"
+   ],
+   [
+    "M106",
+    "SAB(s)bc",
+    "Canes Venatici",
+    "9.1"
+   ],
+   [
+    "M108",
+    "SB(s)cd",
+    "Ursa Major",
+    "10.7"
+   ],
+   [
+    "M109",
+    "SB(rs)bc",
+    "Ursa Major",
+    "10.6"
+   ],
+   [
+    "Maffei 2",
+    "SAB(rs)bc",
+    "Cassiopeia",
+    "16.0"
+   ],
+   [
+    "Milky Way",
+    "SBa[citation needed]",
+    "N/A",
+    "N/A"
+   ],
+   [
+    "NGC 1",
+    "SA(s)b",
+    "Pegasus",
+    "13.65"
+   ],
+   [
+    "NGC 2",
+    "Sab",
+    "Pegasus",
+    "+15.0"
+   ],
+   [
+    "NGC 17",
+    "Sc",
+    "Cetus",
+    "15.3"
+   ],
+   [
+    "NGC 47",
+    "SB(rs)bc",
+    "Cetus",
+    "13.5"
+   ],
+   [
+    "NGC 247",
+    "SAB(s)d",
+    "Cetus",
+    "9.9"
+   ],
+   [
+    "NGC 253, Sculptor Galaxy",
+    "SAB(s)c",
+    "Sculptor",
+    "8.0"
+   ],
+   [
+    "NGC 300",
+    "SA(s)d",
+    "Sculptor",
+    "9.0"
+   ],
+   [
+    "NGC 514",
+    "SAB(rs)c",
+    "Pisces",
+    "12.2"
+   ],
+   [
+    "NGC 625",
+    "SB(s)m",
+    "Phoenix",
+    "11.7"
+   ],
+   [
+    "NGC 772",
+    "SA(s)b",
+    "Aries",
+    "11.1"
+   ],
+   [
+    "NGC 891",
+    "SA(s)b",
+    "Andromeda",
+    "10.8"
+   ],
+   [
+    "NGC 1032",
+    "S0/a",
+    "Cetus",
+    "12.6"
+   ],
+   [
+    "NGC 1042",
+    "SAB(rs)cd",
+    "Cetus",
+    "14.0"
+   ],
+   [
+    "NGC 1055",
+    "SBb:II-III: spindle",
+    "Cetus",
+    "11.6"
+   ],
+   [
+    "NGC 1087",
+    "SAB(rs)c",
+    "Cetus",
+    "12.2"
+   ],
+   [
+    "NGC 1090",
+    "SB(rs)bc",
+    "Cetus",
+    "12.5"
+   ],
+   [
+    "NGC 1097",
+    "R'_1:)SB(r'l)bSy1",
+    "Fornax",
+    "10.2"
+   ],
+   [
+    "NGC 1232",
+    "SAB(rs)c",
+    "Eridanus",
+    "10.9"
+   ],
+   [
+    "NGC 1300",
+    "(R')SB(s)bc",
+    "Eridanus",
+    "11.4"
+   ],
+   [
+    "NGC 1365",
+    "(R')SBb(s)b",
+    "Fornax",
+    "10.3"
+   ],
+   [
+    "NGC 1512",
+    "SB(r)ab",
+    "Horologium",
+    "11.1"
+   ],
+   [
+    "NGC 1532",
+    "SB(s)b pec",
+    "Eridanus",
+    "10.7"
+   ],
+   [
+    "NGC 1637",
+    "SAB(rs)c",
+    "Eridanus",
+    "11.5"
+   ],
+   [
+    "NGC 2207",
+    "SAB(rs)bc pec",
+    "Canis Major",
+    "12.2"
+   ],
+   [
+    "NGC 2403",
+    "SAB(s)cd",
+    "Camelopardalis",
+    "8.9"
+   ],
+   [
+    "NGC 2442",
+    "SAB(s)bc pec",
+    "Volans",
+    "11.2"
+   ],
+   [
+    "NGC 2541",
+    "SA(s)cd",
+    "Lynx",
+    "12.3"
+   ],
+   [
+    "NGC 2683",
+    "SA(rs)b",
+    "Lynx",
+    "10.6"
+   ],
+   [
+    "NGC 2715",
+    "SABc",
+    "Camelopardalis",
+    "12"
+   ],
+   [
+    "NGC 2841",
+    "SA(r)b",
+    "Ursa Major",
+    "10.1"
+   ],
+   [
+    "NGC 2903",
+    "SB(s)d",
+    "Leo",
+    "9.7"
+   ],
+   [
+    "NGC 2976",
+    "SAc pec",
+    "Ursa Major",
+    "10.8"
+   ],
+   [
+    "NGC 2997",
+    "SA(s)c",
+    "Antlia",
+    "10.1"
+   ],
+   [
+    "NGC 3054",
+    "SAB(r)bc",
+    "Hydra",
+    "12.6"
+   ],
+   [
+    "NGC 3079",
+    "SB(s)c",
+    "Ursa Major",
+    "11.5"
+   ],
+   [
+    "NGC 3109",
+    "SB(s)m",
+    "Hydra",
+    "10.4"
+   ],
+   [
+    "NGC 3184",
+    "SA(s)b",
+    "Ursa Major",
+    "9.6"
+   ],
+   [
+    "NGC 3223",
+    "",
+    "Antlia",
+    "12"
+   ],
+   [
+    "NGC 3310",
+    "SAB(r)bc pec",
+    "Ursa Major",
+    "11.2"
+   ],
+   [
+    "NGC 3314",
+    "SBbc/SAab",
+    "Hydra",
+    "12.5"
+   ],
+   [
+    "NGC 3370",
+    "SA(s)c",
+    "Leo",
+    "12.3"
+   ],
+   [
+    "NGC 3486",
+    "Sb",
+    "Leo Minor",
+    "11.0"
+   ],
+   [
+    "NGC 3521",
+    "SABbc",
+    "Leo",
+    "10"
+   ],
+   [
+    "NGC 3596",
+    "SAB(rs)c",
+    "Leo",
+    "12.0"
+   ],
+   [
+    "NGC 3628",
+    "SAb pec",
+    "Leo",
+    "14.0"
+   ],
+   [
+    "NGC 3877",
+    "Sc",
+    "Ursa Major",
+    "12.1"
+   ],
+   [
+    "NGC 3949",
+    "SA(s)bc",
+    "Ursa Major",
+    "11.5"
+   ],
+   [
+    "NGC 3953",
+    "SB(r)bc",
+    "Ursa Major",
+    "10.8"
+   ],
+   [
+    "NGC 3982",
+    "SAB(r)b",
+    "Ursa Major",
+    "12.0"
+   ],
+   [
+    "NGC 4013",
+    "SAb",
+    "Ursa Major",
+    "19.2"
+   ],
+   [
+    "NGC 4027",
+    "SB(s)dm",
+    "Corvus",
+    "11.7"
+   ],
+   [
+    "NGC 4088",
+    "SAB(rs)bc",
+    "Ursa Major",
+    "11.2"
+   ],
+   [
+    "NGC 4216",
+    "SAB(s)b",
+    "Virgo",
+    "11.0"
+   ],
+   [
+    "NGC 4314",
+    "SBa",
+    "Coma Berenices",
+    ""
+   ],
+   [
+    "NGC 4395",
+    "SA(s)m",
+    "Canes Venatici",
+    "10.6"
+   ],
+   [
+    "NGC 4414",
+    "SA(rs)c",
+    "Coma Berenices",
+    "11.0"
+   ],
+   [
+    "NGC 4565",
+    "SA(s)b",
+    "Coma Berenices",
+    "10.42"
+   ],
+   [
+    "NGC 4618",
+    "SB(rs)m",
+    "Canes Venatici",
+    "11.2"
+   ],
+   [
+    "NGC 4625",
+    "SAB(rs)m pec",
+    "Canes Venatici",
+    "13.2"
+   ],
+   [
+    "NGC 4631",
+    "SB(s)d",
+    "Canes Venatici",
+    "9.8"
+   ],
+   [
+    "NGC 4725",
+    "SAB(r)ab pec",
+    "Coma Berenices",
+    "10.1"
+   ],
+   [
+    "NGC 4911",
+    "Sb",
+    "Coma Berenices",
+    "Unknown"
+   ],
+   [
+    "NGC 4945",
+    "SB(s)cd",
+    "Centaurus",
+    "9.3"
+   ],
+   [
+    "NGC 5005",
+    "SAB(rs)bc",
+    "Canes Venatici",
+    "10.6"
+   ],
+   [
+    "NGC 5033",
+    "SA(s)c",
+    "Canes Venatici",
+    "10.8"
+   ],
+   [
+    "NGC 5068",
+    "SB(s)d",
+    "Virgo",
+    "10.5"
+   ],
+   [
+    "NGC 5078",
+    "SA(s)a",
+    "Hydra",
+    "11.8"
+   ],
+   [
+    "NGC 5091",
+    "Sb pec sp",
+    "Centaurus",
+    "13.9"
+   ],
+   [
+    "NGC 5164",
+    "SBb",
+    "Ursa Major",
+    "14.1"
+   ],
+   [
+    "NGC 5257",
+    "SAB(s)b pec",
+    "Virgo",
+    "12.9"
+   ],
+   [
+    "NGC 5258",
+    "SA(s)b pec",
+    "Virgo",
+    "12.9"
+   ],
+   [
+    "NGC 5474",
+    "SA(s)cd pec",
+    "Ursa Major",
+    "11.3"
+   ],
+   [
+    "NGC 5624",
+    "S",
+    "Virgo",
+    "14.6"
+   ],
+   [
+    "NGC 5713",
+    "SAB(rs)bc pec",
+    "Virgo",
+    "12.1"
+   ],
+   [
+    "NGC 5921",
+    "SB(r)bc",
+    "Serpens Caput",
+    "11.5"
+   ],
+   [
+    "NGC 6744",
+    "SAB(r)bc",
+    "Pavo",
+    "9.14"
+   ],
+   [
+    "NGC 6745",
+    "S",
+    "Lyra",
+    "13.3"
+   ],
+   [
+    "NGC 6872",
+    "SAB(rs)c",
+    "Pavo",
+    "12.7"
+   ],
+   [
+    "NGC 6946",
+    "SAB(rs)cd",
+    "Cepheus",
+    "9.6"
+   ],
+   [
+    "NGC 7217",
+    "(R)SA(r)ab",
+    "Pegasus",
+    "11.0"
+   ],
+   [
+    "NGC 7318",
+    "SB(s)bc pec",
+    "Pegasus",
+    "14.4 / 13.9"
+   ],
+   [
+    "NGC 7331",
+    "SA(s)b",
+    "Pegasus",
+    "10.4"
+   ],
+   [
+    "NGC 7479",
+    "SB(s)c",
+    "Pegasus",
+    "11.6"
+   ],
+   [
+    "NGC 7742",
+    "SA(r)b",
+    "Pegasus",
+    "12.4"
+   ],
+   [
+    "NGC 7752",
+    "SAB(rs)bc",
+    "Pegasus",
+    "12.8"
+   ],
+   [
+    "NGC 7793",
+    "SA(s)d",
+    "Sculptor",
+    "10.0"
+   ],
+   [
+    "NGC 7814",
+    "SA(S)ab",
+    "Pegasus",
+    "11.6"
+   ],
+   [
+    "UGC 10214, Tadpole Galaxy",
+    "SB(s)c pec",
+    "Draco",
+    "14.4"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 128
+ },
+ {
+  "id": "nt-13421",
+  "question": "what is the b-side on the only non-album single?",
+  "answers": [
+   "Dawn Treader (Fredmix); It Isn't"
+  ],
+  "ground_truth": "Dawn Treader (Fredmix); It Isn't",
+  "table_header": [
+   "Year",
+   "Title",
+   "Album",
+   "UK",
+   "B-sides"
+  ],
+  "table_rows": [
+   [
+    "2004",
+    "\"Kim Wilde\" (Download-only)",
+    "Grey Will Fade",
+    "\u2014",
+    ""
+   ],
+   [
+    "2004",
+    "\"Summer\"",
+    "Grey Will Fade",
+    "31",
+    "Commodore; SMUT"
+   ],
+   [
+    "2005",
+    "\"Bastardo\"",
+    "Grey Will Fade",
+    "31",
+    "3 Minutes; I Am a Kamera"
+   ],
+   [
+    "2006",
+    "\"Behave\"",
+    "The Deep Blue",
+    "168",
+    "Mr. Ed; Cousteau (Extended Version);\\nBehave (Luke Smith Clor Remix)"
+   ],
+   [
+    "2007",
+    "\"I Want You to Know\"",
+    "The Deep Blue",
+    "108",
+    "Sister Universe; Suspiria"
+   ],
+   [
+    "2007",
+    "\"Siberia\"",
+    "The Deep Blue",
+    "\u2014",
+    "Last Night; This Is Pop; I Don't Need Anyone"
+   ],
+   [
+    "2007",
+    "\"Again\"",
+    "The Deep Blue",
+    "\u2014",
+    "Again (acoustic)"
+   ],
+   [
+    "2007",
+    "\"CH V FD (Deep Blue remixes)\"",
+    "Non-album single",
+    "\u2014",
+    "Dawn Treader (Fredmix); It Isn't Over (Fredmix)"
+   ],
+   [
+    "2009",
+    "\"White\"",
+    "New Worlds",
+    "\u2014",
+    "White (Squarepusher Remix); White (Adem Remix);\\nWhite (Heartbeat Remix)"
+   ],
+   [
+    "2009",
+    "\"Alexander\"",
+    "New Worlds",
+    "\u2014",
+    "Alexander (Radio Edit);\\nAlexander (Blacknred Remix)"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 10
+ },
+ {
+  "id": "nt-3464",
+  "question": "who came in first?",
+  "answers": [
+   "Emerson Fittipaldi"
+  ],
+  "ground_truth": "Emerson Fittipaldi",
+  "table_header": [
+   "Pos",
+   "No",
+   "Driver",
+   "Constructor",
+   "Laps",
+   "Time/Retired",
+   "Grid",
+   "Points"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "1",
+    "Emerson Fittipaldi",
+    "McLaren-Ford",
+    "53",
+    "1:39:26.29",
+    "5",
+    "9"
+   ],
+   [
+    "2",
+    "24",
+    "James Hunt",
+    "Hesketh-Ford",
+    "53",
+    "+ 5.91",
+    "6",
+    "6"
+   ],
+   [
+    "3",
+    "7",
+    "Carlos Reutemann",
+    "Brabham-Ford",
+    "53",
+    "+ 17.06",
+    "3",
+    "4"
+   ],
+   [
+    "4",
+    "11",
+    "Clay Regazzoni",
+    "Ferrari",
+    "53",
+    "+ 35.79",
+    "7",
+    "3"
+   ],
+   [
+    "5",
+    "4",
+    "Patrick Depailler",
+    "Tyrrell-Ford",
+    "53",
+    "+ 54.25",
+    "8",
+    "2"
+   ],
+   [
+    "6",
+    "12",
+    "Niki Lauda",
+    "Ferrari",
+    "53",
+    "+ 1:19.65",
+    "4",
+    "1"
+   ],
+   [
+    "7",
+    "28",
+    "Mark Donohue",
+    "Penske-Ford",
+    "52",
+    "+ 1 Lap",
+    "16",
+    ""
+   ],
+   [
+    "8",
+    "6",
+    "Jacky Ickx",
+    "Lotus-Ford",
+    "52",
+    "+ 1 Lap",
+    "18",
+    ""
+   ],
+   [
+    "9",
+    "9",
+    "Vittorio Brambilla",
+    "March-Ford",
+    "52",
+    "+ 1 Lap",
+    "12",
+    ""
+   ],
+   [
+    "10",
+    "22",
+    "Graham Hill",
+    "Lola-Ford",
+    "52",
+    "+ 1 Lap",
+    "21",
+    ""
+   ],
+   [
+    "11",
+    "3",
+    "Jody Scheckter",
+    "Tyrrell-Ford",
+    "52",
+    "+ 1 Lap",
+    "9",
+    ""
+   ],
+   [
+    "12",
+    "16",
+    "Tom Pryce",
+    "Shadow-Ford",
+    "51",
+    "Transmission",
+    "14",
+    ""
+   ],
+   [
+    "13",
+    "23",
+    "Rolf Stommelen",
+    "Lola-Ford",
+    "51",
+    "+ 2 Laps",
+    "19",
+    ""
+   ],
+   [
+    "14",
+    "2",
+    "Jochen Mass",
+    "McLaren-Ford",
+    "50",
+    "+ 3 Laps",
+    "13",
+    ""
+   ],
+   [
+    "Ret",
+    "8",
+    "Carlos Pace",
+    "Brabham-Ford",
+    "46",
+    "Engine",
+    "2",
+    ""
+   ],
+   [
+    "NC",
+    "20",
+    "Arturo Merzario",
+    "Williams-Ford",
+    "44",
+    "Not Classified",
+    "20",
+    ""
+   ],
+   [
+    "Ret",
+    "27",
+    "Mario Andretti",
+    "Parnelli-Ford",
+    "27",
+    "Transmission",
+    "10",
+    ""
+   ],
+   [
+    "Ret",
+    "14",
+    "Mike Wilds",
+    "BRM",
+    "24",
+    "Engine",
+    "22",
+    ""
+   ],
+   [
+    "Ret",
+    "5",
+    "Ronnie Peterson",
+    "Lotus-Ford",
+    "15",
+    "Engine",
+    "11",
+    ""
+   ],
+   [
+    "Ret",
+    "21",
+    "Jacques Laffite",
+    "Williams-Ford",
+    "15",
+    "Gearbox",
+    "17",
+    ""
+   ],
+   [
+    "Ret",
+    "30",
+    "Wilson Fittipaldi",
+    "Fittipaldi-Ford",
+    "12",
+    "Accident",
+    "23",
+    ""
+   ],
+   [
+    "DSQ",
+    "18",
+    "John Watson",
+    "Surtees-Ford",
+    "6",
+    "Disqualified",
+    "15",
+    ""
+   ],
+   [
+    "DNS",
+    "17",
+    "Jean-Pierre Jarier",
+    "Shadow-Ford",
+    "0",
+    "Transmission",
+    "1",
+    ""
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 23
+ },
+ {
+  "id": "nt-47",
+  "question": "who has the most and best score?",
+  "answers": [
+   "Shane Carwin"
+  ],
+  "ground_truth": "Shane Carwin",
+  "table_header": [
+   "Res.",
+   "Record",
+   "Opponent",
+   "Method",
+   "Event",
+   "Date",
+   "Round",
+   "Time",
+   "Location",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "Loss",
+    "5\u20133",
+    "Alistair Overeem",
+    "TKO (kick to the body & punches)",
+    "UFC 141",
+    "December 30, 2011",
+    "1",
+    "2:26",
+    "Las Vegas, United States",
+    "Announced retirement after fight"
+   ],
+   [
+    "Loss",
+    "5\u20132",
+    "Cain Velasquez",
+    "TKO (punches)",
+    "UFC 121",
+    "October 23, 2010",
+    "1",
+    "4:12",
+    "Anaheim, California, United States",
+    "Lost UFC Heavyweight Championship"
+   ],
+   [
+    "Win",
+    "5\u20131",
+    "Shane Carwin",
+    "Submission (arm triangle choke)",
+    "UFC 116",
+    "July 3, 2010",
+    "2",
+    "2:19",
+    "Las Vegas, United States",
+    "Defended UFC Heavyweight Championship. Unified UFC Interim Heavyweight Championship; Submission of the Night"
+   ],
+   [
+    "Win",
+    "4\u20131",
+    "Frank Mir",
+    "TKO (punches)",
+    "UFC 100",
+    "July 11, 2009",
+    "2",
+    "1:48",
+    "Las Vegas, United States",
+    "Defended UFC Heavyweight Championship. Unified UFC Interim Heavyweight Championship"
+   ],
+   [
+    "Win",
+    "3\u20131",
+    "Randy Couture",
+    "TKO (punches)",
+    "UFC 91",
+    "November 15, 2008",
+    "2",
+    "3:07",
+    "Las Vegas, United States",
+    "Won UFC Heavyweight Championship."
+   ],
+   [
+    "Win",
+    "2\u20131",
+    "Heath Herring",
+    "Decision (unanimous)",
+    "UFC 87",
+    "August 9, 2008",
+    "3",
+    "5:00",
+    "Minneapolis, Minnesota, United States",
+    ""
+   ],
+   [
+    "Loss",
+    "1\u20131",
+    "Frank Mir",
+    "Submission (kneebar)",
+    "UFC 81",
+    "February 2, 2008",
+    "1",
+    "1:30",
+    "Las Vegas, United States",
+    "UFC Debut"
+   ],
+   [
+    "Win",
+    "1\u20130",
+    "Min-Soo Kim",
+    "Submission (punches)",
+    "Dynamite!! USA",
+    "June 2, 2007",
+    "1",
+    "1:09",
+    "Los Angeles, United States",
+    "MMA Debut"
+   ]
+  ],
+  "n_cols": 10,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-6714",
+  "question": "miracle man and kanjyuro matsuyama both won the title in which japanese city?",
+  "answers": [
+   "Tokyo, Japan"
+  ],
+  "ground_truth": "Tokyo, Japan",
+  "table_header": [
+   "#",
+   "Wrestlers",
+   "Reign",
+   "Date",
+   "Days\\nheld",
+   "Location",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Kuishinbo Kamen",
+    "1",
+    "January 4, 2001",
+    "758",
+    "Osaka, Japan",
+    "Kamen defeated Ebessan to become the first champion."
+   ],
+   [
+    "2",
+    "Ebessan",
+    "1",
+    "February 1, 2003",
+    "56",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "3",
+    "Pero",
+    "1",
+    "March 29, 2003",
+    "7",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "4",
+    "Ebessan",
+    "2",
+    "April 5, 2003",
+    "92",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "5",
+    "Tigers Mask",
+    "1",
+    "July 6, 2003",
+    "90",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "\u2014",
+    "Vacant",
+    "\u2014",
+    "October 4, 2003",
+    "\u2014",
+    "N/A",
+    "Tigers Mask vacated the title to enter the Tennozan 2003 tournament."
+   ],
+   [
+    "6",
+    "Miracle Man",
+    "1",
+    "December 7, 2003",
+    "55",
+    "Osaka, Japan",
+    "Miracle Man won a 4-Way Match which included Ebessan, Kuishinbo Kamen, and Pero to win the vacant championship."
+   ],
+   [
+    "7",
+    "Ebessan",
+    "3",
+    "January 31, 2004",
+    "21",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "8",
+    "Kuishinbo Kamen",
+    "2",
+    "February 21, 2004",
+    "665",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "\u2014",
+    "Stripped",
+    "\u2014",
+    "December 17, 2005",
+    "\u2014",
+    "N/A",
+    "Kamen was stripped of the title due to a lack of title defenses."
+   ],
+   [
+    "9",
+    "Policeman",
+    "1",
+    "February 18, 2006",
+    "311",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "10",
+    "Okita-kun",
+    "1",
+    "February 26, 2006",
+    "314",
+    "Osaka, Japan",
+    "Okita-kun won an Eight-Man Battle Royal last eliminating Policeman."
+   ],
+   [
+    "\u2014",
+    "Vacant",
+    "\u2014",
+    "January 6, 2007",
+    "\u2014",
+    "N/A",
+    "Okita-hun vacated the title due to an ear injury on September 16, 2009"
+   ],
+   [
+    "11",
+    "Sgt. Suchi",
+    "1",
+    "February 12, 2007",
+    "194",
+    "Osaka, Japan",
+    "Sgt. Suchi is a comedian who won a Battle Royal, last eliminating Miracle Man and Kuishinbo Kamen."
+   ],
+   [
+    "12",
+    "Ebessan III",
+    "1",
+    "August 25, 2007",
+    "113",
+    "Osaka, Japan",
+    ""
+   ],
+   [
+    "13",
+    "Kuishinbo Kamen",
+    "3",
+    "December 16, 2007",
+    "84",
+    "Tokyo, Japan",
+    ""
+   ],
+   [
+    "14",
+    "Miracle Man",
+    "2",
+    "March 9, 2008",
+    "51",
+    "Tokyo, Japan",
+    ""
+   ],
+   [
+    "15",
+    "Kanjyuro Matsuyama",
+    "1",
+    "April 29, 2008",
+    "0",
+    "Tokyo, Japan",
+    "Matsuyama retires the title immediately after the match and declares himself the first Osaka Pro Wrestling Owarai Champion."
+   ],
+   [
+    "16",
+    "Kuishinbo Kamen",
+    "4",
+    "April 29, 2010",
+    "59",
+    "Osaka, Japan",
+    "Kamen wins both the Owarai Championship and the re-activated Osaka Meibutsu Sekaiichi Championship."
+   ],
+   [
+    "17",
+    "Kyusei Ninja Ranmaru",
+    "1",
+    "June 27, 2010",
+    "22",
+    "Osaka, Japan",
+    "Ranmaru wins both titles."
+   ],
+   [
+    "18",
+    "Kuishinbo Kamen",
+    "5",
+    "July 19, 2010",
+    "1435+",
+    "Osaka, Japan",
+    "Kamen wins both titles."
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 21
+ },
+ {
+  "id": "nt-7778",
+  "question": "are their any other airports that are type \"military/public\" besides eagle farm airport?",
+  "answers": [
+   "no"
+  ],
+  "ground_truth": "no",
+  "table_header": [
+   "Community",
+   "Airport name",
+   "Type",
+   "Coordinates"
+  ],
+  "table_rows": [
+   [
+    "Antil Plains",
+    "Antil Plains Aerodrome",
+    "Military",
+    "19\u00b026\u203236\u2033S 146\u00b049\u203229\u2033E\ufeff / \ufeff19.44333\u00b0S 146.82472\u00b0E"
+   ],
+   [
+    "Eagle Farm, Brisbane",
+    "Eagle Farm Airport",
+    "Military/Public",
+    "27\u00b025\u203230\u2033S 153\u00b005\u203203\u2033E\ufeff / \ufeff27.42500\u00b0S 153.08417\u00b0E"
+   ],
+   [
+    "Charters Towers",
+    "Breddan Aerodrome",
+    "Military",
+    "19\u00b056\u203234\u2033S 146\u00b014\u203221\u2033E\ufeff / \ufeff19.94278\u00b0S 146.23917\u00b0E"
+   ],
+   [
+    "Petrie, Brisbane",
+    "Petrie Airfield",
+    "Military",
+    "27\u00b017\u2032S 153\u00b000\u2032E\ufeff / \ufeff27.283\u00b0S 153.000\u00b0E"
+   ],
+   [
+    "Tarampa",
+    "Tarampa Airfield",
+    "Military",
+    "27\u00b027\u203219\u2033S 152\u00b028\u203256\u2033E\ufeff / \ufeff27.45528\u00b0S 152.48222\u00b0E"
+   ],
+   [
+    "Townsville",
+    "Aitkenvale Aerodrome",
+    "Military",
+    "19\u00b018\u203245\u2033S 146\u00b044\u203223\u2033E\ufeff / \ufeff19.31250\u00b0S 146.73972\u00b0E"
+   ],
+   [
+    "Townsville",
+    "Bohle River Aerodrome",
+    "Military",
+    "19\u00b016\u203258\u2033S 146\u00b041\u203257\u2033E\ufeff / \ufeff19.28278\u00b0S 146.69917\u00b0E"
+   ],
+   [
+    "Townsville",
+    "Reid River Airfield",
+    "Military",
+    "19\u00b045\u203245\u2033S 146\u00b050\u203240\u2033E\ufeff / \ufeff19.76250\u00b0S 146.84444\u00b0E"
+   ]
+  ],
+  "n_cols": 4,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-2947",
+  "question": "according to the chart what was the last ship built?",
+  "answers": [
+   "Atlantic Conveyor"
+  ],
+  "ground_truth": "Atlantic Conveyor",
+  "table_header": [
+   "Ship",
+   "Built",
+   "In service for Cunard",
+   "Type",
+   "Tonnage",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "Queen Mary",
+    "1936",
+    "1936\u20131967",
+    "express",
+    "80,750 GRT",
+    "Blue Riband, sold 1967, now a stationary hotel ship"
+   ],
+   [
+    "Mauretania",
+    "1939",
+    "1939\u20131965",
+    "express",
+    "37,750 GRT",
+    "scrapped 1965"
+   ],
+   [
+    "Queen Elizabeth",
+    "1940",
+    "1946\u20131968",
+    "express",
+    "83,650 GRT",
+    "WWII troopship 1940\u20131945, sold 1968, destroyed by fire 1972"
+   ],
+   [
+    "Media",
+    "1947",
+    "1947\u20131961",
+    "cargo liner",
+    "13,350 GRT",
+    "sold to Cogedar Line 1961, scrapped 1989"
+   ],
+   [
+    "Parthia",
+    "1947",
+    "1947\u20131961",
+    "cargo liner",
+    "13,350 GRT",
+    "sold to P&O 1961, renamed Remuera, scrapped 1969"
+   ],
+   [
+    "Caronia",
+    "1949",
+    "1949\u20131968",
+    "cruise",
+    "34,200 GRT",
+    "sold 1968, wrecked 1974"
+   ],
+   [
+    "Britannic",
+    "1929",
+    "1950\u20131960",
+    "intermediate",
+    "26,943 GRT",
+    "built for White Star Line, scrapped 1960"
+   ],
+   [
+    "Georgic",
+    "1932",
+    "1950\u20131956",
+    "intermediate",
+    "27,759 GRT",
+    "built for White Star Line, scrapped 1956"
+   ],
+   [
+    "Saxonia\\nCarmania",
+    "1954",
+    "1954\u20131962\\n1962\u20131973",
+    "intermediate\\ncruise",
+    "21,637 GRT\\n21,370 GRT",
+    "Sold to the Black Sea Shipping Company, Soviet Union 1973"
+   ],
+   [
+    "Ivernia\\nFranconia",
+    "1955",
+    "1955\u20131963\\n1963\u20131973",
+    "intermediate\\ncruise",
+    "21,800 GRT",
+    "Sold to the Far Eastern Shipping Company, Soviet Union 1973, scrapped 2004"
+   ],
+   [
+    "Carinthia",
+    "1956",
+    "1956\u20131968",
+    "intermediate",
+    "21,800 GRT",
+    "sold to Sitmar Line 1968, scrapped 2005"
+   ],
+   [
+    "Sylvania",
+    "1957",
+    "1957\u20131968",
+    "intermediate",
+    "21,800 GRT",
+    "sold to Sitmar Line 1968, scrapped 2004"
+   ],
+   [
+    "Alaunia",
+    "1960",
+    "1960\u20131969",
+    "cargo liner",
+    "7,004 GRT",
+    "sold to Brocklebank Line in 1969"
+   ],
+   [
+    "Queen Elizabeth 2",
+    "1969",
+    "1969\u20132008",
+    "express",
+    "70,300 GRT",
+    "sold 2008, laid up in Port Rashid"
+   ],
+   [
+    "Atlantic Causeway",
+    "1969",
+    "1970\u20131986",
+    "container ship",
+    "14,950 GRT",
+    "scrapped in 1986"
+   ],
+   [
+    "Atlantic Conveyor",
+    "1970",
+    "1970\u20131982",
+    "container ship",
+    "14,946 GRT",
+    "sunk in Falklands War 1982"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 16
+ },
+ {
+  "id": "nt-8345",
+  "question": "of those in the top 15 positions, who earned the least number of points?",
+  "answers": [
+   "Masao Azuma"
+  ],
+  "ground_truth": "Masao Azuma",
+  "table_header": [
+   "Pos",
+   "Rider",
+   "Manufacturer",
+   "Laps",
+   "Time/Retired",
+   "Grid",
+   "Points"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Manuel Poggiali",
+    "Gilera",
+    "25",
+    "41:18.211",
+    "1",
+    "25"
+   ],
+   [
+    "2",
+    "Dani Pedrosa",
+    "Honda",
+    "25",
+    "+0.019",
+    "4",
+    "20"
+   ],
+   [
+    "3",
+    "Steve Jenkner",
+    "Aprilia",
+    "25",
+    "+9.888",
+    "3",
+    "16"
+   ],
+   [
+    "4",
+    "Lucio Cecchinello",
+    "Aprilia",
+    "25",
+    "+15.397",
+    "5",
+    "13"
+   ],
+   [
+    "5",
+    "Simone Sanna",
+    "Aprilia",
+    "25",
+    "+15.452",
+    "8",
+    "11"
+   ],
+   [
+    "6",
+    "Joan Oliv\u00e9",
+    "Honda",
+    "25",
+    "+15.486",
+    "20",
+    "10"
+   ],
+   [
+    "7",
+    "Stefano Bianco",
+    "Aprilia",
+    "25",
+    "+15.549",
+    "11",
+    "9"
+   ],
+   [
+    "8",
+    "Pablo Nieto",
+    "Aprilia",
+    "25",
+    "+16.218",
+    "2",
+    "8"
+   ],
+   [
+    "9",
+    "Mika Kallio",
+    "Honda",
+    "25",
+    "+22.762",
+    "10",
+    "7"
+   ],
+   [
+    "10",
+    "Mirko Giansanti",
+    "Honda",
+    "25",
+    "+22.839",
+    "16",
+    "6"
+   ],
+   [
+    "11",
+    "Arnaud Vincent",
+    "Aprilia",
+    "25",
+    "+23.067",
+    "23",
+    "5"
+   ],
+   [
+    "12",
+    "Andrea Ballerini",
+    "Honda",
+    "25",
+    "+23.134",
+    "18",
+    "4"
+   ],
+   [
+    "13",
+    "Stefano Perugini",
+    "Italjet",
+    "25",
+    "+43.345",
+    "17",
+    "3"
+   ],
+   [
+    "14",
+    "Jorge Lorenzo",
+    "Derbi",
+    "25",
+    "+43.973",
+    "7",
+    "2"
+   ],
+   [
+    "15",
+    "Masao Azuma",
+    "Honda",
+    "25",
+    "+47.189",
+    "13",
+    "1"
+   ],
+   [
+    "16",
+    "Jakub Smr\u017e",
+    "Honda",
+    "25",
+    "+47.333",
+    "24",
+    ""
+   ],
+   [
+    "17",
+    "Gianluigi Scalvini",
+    "Aprilia",
+    "25",
+    "+52.000",
+    "22",
+    ""
+   ],
+   [
+    "18",
+    "H\u00e9ctor Barber\u00e1",
+    "Aprilia",
+    "25",
+    "+1:11.358",
+    "27",
+    ""
+   ],
+   [
+    "19",
+    "Mattia Angeloni",
+    "Gilera",
+    "25",
+    "+1:11.488",
+    "29",
+    ""
+   ],
+   [
+    "20",
+    "Alex Baldolini",
+    "Aprilia",
+    "25",
+    "+1:21.603",
+    "32",
+    ""
+   ],
+   [
+    "21",
+    "Jaroslav Hule\u0161",
+    "Aprilia",
+    "25",
+    "+1:21.681",
+    "15",
+    ""
+   ],
+   [
+    "22",
+    "Julian Simon",
+    "Honda",
+    "25",
+    "+1:31.723",
+    "26",
+    ""
+   ],
+   [
+    "23",
+    "Imre T\u00f3th",
+    "Honda",
+    "25",
+    "+1:31.794",
+    "31",
+    ""
+   ],
+   [
+    "24",
+    "Leon Camier",
+    "Italjet",
+    "24",
+    "+1 Lap",
+    "33",
+    ""
+   ],
+   [
+    "Ret",
+    "Chaz Davies",
+    "Aprilia",
+    "18",
+    "Retirement",
+    "21",
+    ""
+   ],
+   [
+    "Ret",
+    "Michel Fabrizio",
+    "Gilera",
+    "14",
+    "Accident",
+    "19",
+    ""
+   ],
+   [
+    "Ret",
+    "Youichi Ui",
+    "Derbi",
+    "13",
+    "Accident",
+    "6",
+    ""
+   ],
+   [
+    "Ret",
+    "Alex de Angelis",
+    "Aprilia",
+    "13",
+    "Accident",
+    "12",
+    ""
+   ],
+   [
+    "Ret",
+    "\u00c1ngel Rodr\u00edguez",
+    "Aprilia",
+    "4",
+    "Retirement",
+    "25",
+    ""
+   ],
+   [
+    "Ret",
+    "Gino Borsoi",
+    "Aprilia",
+    "0",
+    "Accident",
+    "9",
+    ""
+   ],
+   [
+    "Ret",
+    "Andrea Dovizioso",
+    "Honda",
+    "0",
+    "Accident",
+    "14",
+    ""
+   ],
+   [
+    "Ret",
+    "Alessandro Brannetti",
+    "Honda",
+    "0",
+    "Accident",
+    "30",
+    ""
+   ],
+   [
+    "Ret",
+    "\u00c1lvaro Bautista",
+    "Aprilia",
+    "0",
+    "Accident",
+    "28",
+    ""
+   ],
+   [
+    "DNQ",
+    "Javier Machado",
+    "Honda",
+    "",
+    "",
+    "",
+    ""
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 34
+ },
+ {
+  "id": "nt-6213",
+  "question": "how many jurisdictions are of the metropolitan archdiocese type?",
+  "answers": [
+   "5"
+  ],
+  "ground_truth": "5",
+  "table_header": [
+   "Ecclesiastical Jurisdictions",
+   "Latin name",
+   "Type",
+   "Rite",
+   "Ecclesiastical Province",
+   "Established",
+   "Area (km2)"
+  ],
+  "table_rows": [
+   [
+    "Benguela",
+    "Benguelensis",
+    "Diocese",
+    "Roman",
+    "Huambo",
+    "6 June 1970",
+    "49,920"
+   ],
+   [
+    "Cabinda",
+    "Cabindanus",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "2 July 1984",
+    "7,120"
+   ],
+   [
+    "Caxito",
+    "Caxitonsis",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "6 June 2007",
+    "25,133"
+   ],
+   [
+    "Dundo",
+    "Dundensis",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "9 November 2001",
+    "103,130"
+   ],
+   [
+    "Huambo",
+    "Huambensis",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Huambo",
+    "4 September 1940",
+    "29,500"
+   ],
+   [
+    "Kwito-Bi\u00e9",
+    "Kvitobiensis",
+    "Diocese",
+    "Roman",
+    "Huambo",
+    "4 September 1940",
+    "71,000"
+   ],
+   [
+    "Luanda",
+    "Luandensis",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Luanda",
+    "1596",
+    "1,074"
+   ],
+   [
+    "Lubango",
+    "Lubangensis",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Lubango",
+    "27 July 1955",
+    "118,000"
+   ],
+   [
+    "Lwena",
+    "Lvenanus",
+    "Diocese",
+    "Roman",
+    "Saurimo",
+    "1 July 1963",
+    "199,786"
+   ],
+   [
+    "Malanje",
+    "Malaniensis",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Malanje",
+    "25 November 1957",
+    "107,000"
+   ],
+   [
+    "Mbanza Congo",
+    "Mbanzacongensis",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "7 November 1984",
+    "39,459"
+   ],
+   [
+    "Menongue",
+    "Menonguensis",
+    "Diocese",
+    "Roman",
+    "Lubango",
+    "10 August 1975",
+    "213,309"
+   ],
+   [
+    "Namibe",
+    "Namibanus",
+    "Diocese",
+    "Roman",
+    "Lubango",
+    "21 March 2009",
+    "57,097"
+   ],
+   [
+    "Ndalatando",
+    "Ndalatandensis",
+    "Diocese",
+    "Roman",
+    "Malanje",
+    "26 March 1990",
+    "20,159"
+   ],
+   [
+    "Ondjiva",
+    "Ondiivanus",
+    "Diocese",
+    "Roman",
+    "Lubango",
+    "10 August 1975",
+    "83,900"
+   ],
+   [
+    "Saur\u00edmo",
+    "Saurimo\u00ebnsis",
+    "Metropolitan Archdiocese",
+    "Roman",
+    "Saur\u00edmo",
+    "10 August 1975",
+    "77,000"
+   ],
+   [
+    "Sumbe",
+    "Sumbensis",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "10 August 1975",
+    "60,000"
+   ],
+   [
+    "U\u00edje",
+    "Uiiensis",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "14 March 1967",
+    "63,530"
+   ],
+   [
+    "Viana",
+    "Viananensis",
+    "Diocese",
+    "Roman",
+    "Luanda",
+    "6 June 2007",
+    "17,206"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 19
+ },
+ {
+  "id": "nt-9891",
+  "question": "who is the only player to get one point in the race?",
+  "answers": [
+   "Maur\u00edcio Gugelmin"
+  ],
+  "ground_truth": "Maur\u00edcio Gugelmin",
+  "table_header": [
+   "Pos",
+   "No",
+   "Driver",
+   "Team",
+   "Laps",
+   "Time/Retired",
+   "Grid",
+   "Points"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "1",
+    "Alex Zanardi",
+    "Chip Ganassi Racing",
+    "95",
+    "1:52:24.080",
+    "2",
+    "20"
+   ],
+   [
+    "2",
+    "6",
+    "Michael Andretti",
+    "Newman-Haas Racing",
+    "95",
+    "+1.921",
+    "3",
+    "16"
+   ],
+   [
+    "3",
+    "12",
+    "Jimmy Vasser",
+    "Chip Ganassi Racing",
+    "95",
+    "+6.702",
+    "6",
+    "14"
+   ],
+   [
+    "4",
+    "7",
+    "Bobby Rahal",
+    "Team Rahal",
+    "95",
+    "+8.078",
+    "9",
+    "12"
+   ],
+   [
+    "5",
+    "8",
+    "Bryan Herta",
+    "Team Rahal",
+    "95",
+    "+12.984",
+    "17",
+    "10"
+   ],
+   [
+    "6",
+    "20",
+    "Scott Pruett",
+    "Patrick Racing",
+    "95",
+    "+14.607",
+    "8",
+    "8"
+   ],
+   [
+    "7",
+    "10",
+    "Richie Hearn",
+    "Della Penna Motorsports",
+    "95",
+    "+15.305",
+    "13",
+    "6"
+   ],
+   [
+    "8",
+    "25",
+    "Max Papis",
+    "Arciero-Wells Racing",
+    "95",
+    "+24.676",
+    "20",
+    "5"
+   ],
+   [
+    "9",
+    "40",
+    "Adri\u00e1n Fern\u00e1ndez",
+    "Patrick Racing",
+    "95",
+    "+31.923",
+    "16",
+    "4"
+   ],
+   [
+    "10",
+    "16",
+    "H\u00e9lio Castro-Neves",
+    "Bettenhausen Racing",
+    "95",
+    "+32.691",
+    "21",
+    "3"
+   ],
+   [
+    "11",
+    "99",
+    "Greg Moore",
+    "Forsythe Racing",
+    "95",
+    "+34.926",
+    "12",
+    "2"
+   ],
+   [
+    "12",
+    "17",
+    "Maur\u00edcio Gugelmin",
+    "PacWest Racing Group",
+    "95",
+    "+37.640",
+    "19",
+    "1"
+   ],
+   [
+    "13",
+    "24",
+    "Robby Gordon",
+    "Arciero-Wells Racing",
+    "94",
+    "+1 Lap",
+    "22",
+    ""
+   ],
+   [
+    "14",
+    "26",
+    "Paul Tracy",
+    "Team KOOL Green",
+    "94",
+    "+1 Lap",
+    "10",
+    ""
+   ],
+   [
+    "15",
+    "77",
+    "Arnd Meier",
+    "Davis Racing",
+    "94",
+    "+1 Lap",
+    "25",
+    ""
+   ],
+   [
+    "16",
+    "11",
+    "Christian Fittipaldi",
+    "Newman-Haas Racing",
+    "93",
+    "+2 Laps",
+    "5",
+    ""
+   ],
+   [
+    "17",
+    "2",
+    "Al Unser, Jr.",
+    "Marlboro Team Penske",
+    "93",
+    "+2 Laps",
+    "14",
+    ""
+   ],
+   [
+    "18",
+    "19",
+    "Michel Jourdain Jr.",
+    "Payton/Coyne Racing",
+    "93",
+    "+2 Laps",
+    "24",
+    ""
+   ],
+   [
+    "19",
+    "98",
+    "P. J. Jones",
+    "All American Racing",
+    "84",
+    "Suspension",
+    "23",
+    ""
+   ],
+   [
+    "20",
+    "27",
+    "Dario Franchitti",
+    "Team KOOL Green",
+    "79",
+    "Brakes",
+    "1",
+    "1+1"
+   ],
+   [
+    "21",
+    "34",
+    "Gualter Salles",
+    "Payton/Coyne Racing",
+    "65",
+    "Contact",
+    "28",
+    ""
+   ],
+   [
+    "22",
+    "21",
+    "Tony Kanaan",
+    "Tasman Motorsports Group",
+    "61",
+    "Fire",
+    "7",
+    ""
+   ],
+   [
+    "23",
+    "3",
+    "Andr\u00e9 Ribeiro",
+    "Marlboro Team Penske",
+    "54",
+    "Transmission",
+    "11",
+    ""
+   ],
+   [
+    "24",
+    "9",
+    "JJ Lehto",
+    "Hogan Racing",
+    "37",
+    "Contact",
+    "26",
+    ""
+   ],
+   [
+    "25",
+    "33",
+    "Patrick Carpentier",
+    "Forsythe Racing",
+    "33",
+    "Suspension",
+    "18",
+    ""
+   ],
+   [
+    "26",
+    "18",
+    "Mark Blundell",
+    "PacWest Racing Group",
+    "30",
+    "Electrical",
+    "15",
+    ""
+   ],
+   [
+    "27",
+    "5",
+    "Gil de Ferran",
+    "Walker Racing",
+    "26",
+    "Contact",
+    "4",
+    ""
+   ],
+   [
+    "28",
+    "36",
+    "Alex Barron",
+    "All American Racing",
+    "25",
+    "Contact",
+    "27",
+    ""
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 28
+ },
+ {
+  "id": "nt-7345",
+  "question": "what country had the least in the 5 hoops category",
+  "answers": [
+   "Hungary"
+  ],
+  "ground_truth": "Hungary",
+  "table_header": [
+   "Place",
+   "Nation",
+   "5 Hoops",
+   "3 Balls,\\n2 Ribbons",
+   "Total"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "Bulgaria",
+    "19.800 (1)",
+    "19.800 (1)",
+    "39.600"
+   ],
+   [
+    "2",
+    "Spain",
+    "19.700 (3)",
+    "19.700 (2)",
+    "39.400"
+   ],
+   [
+    "3",
+    "Belarus",
+    "19.733 (2)",
+    "19.600 (3)",
+    "39.333"
+   ],
+   [
+    "4",
+    "Russia",
+    "19.600 (4)",
+    "19.566 (4)",
+    "39.166"
+   ],
+   [
+    "5",
+    "Ukraine",
+    "19.366 (5)",
+    "15.500 (5)",
+    "38.866"
+   ],
+   [
+    "6",
+    "Japan",
+    "19.166 (6)",
+    "19.333 (7)",
+    "38.499"
+   ],
+   [
+    "7",
+    "Italy",
+    "19.066 (7)",
+    "19.400 (6)",
+    "38.466"
+   ],
+   [
+    "8",
+    "Hungary",
+    "18.766 (8)",
+    "19.166 (8)",
+    "37.932"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 8
+ },
+ {
+  "id": "nt-3714",
+  "question": "the team that last played on may 17th ,2009",
+  "answers": [
+   "Lazio"
+  ],
+  "ground_truth": "Lazio",
+  "table_header": [
+   "Date",
+   "Opponent",
+   "Venue",
+   "Result",
+   "Scorers",
+   "Report"
+  ],
+  "table_rows": [
+   [
+    "August 30, 2008 \u2013 18:00",
+    "Udinese",
+    "Away",
+    "Lost 1\u20133",
+    "Bresciano",
+    "18"
+   ],
+   [
+    "September 13, 2008 \u2013 18:00",
+    "AS Roma",
+    "Home",
+    "Won 3\u20131",
+    "Miccoli (2), Cavani",
+    ""
+   ],
+   [
+    "September 21, 2008 \u2013 15:00",
+    "Genoa",
+    "Home",
+    "Won 2\u20131",
+    "Bovo, Cavani",
+    "4"
+   ],
+   [
+    "September 24, 2008 \u2013 15:00",
+    "Napoli",
+    "Away",
+    "Lost 2\u20131",
+    "Miccoli",
+    ""
+   ],
+   [
+    "September 28, 2008 \u2013 15:00",
+    "Reggina",
+    "Home",
+    "Won 1\u20130",
+    "Miccoli",
+    ""
+   ],
+   [
+    "October 5, 2008 \u2013 15:00",
+    "Juventus",
+    "Away",
+    "Won 2\u20131",
+    "Miccoli, Mchedlidze",
+    ""
+   ],
+   [
+    "October 19, 2008 - 15:00",
+    "Catania",
+    "Away",
+    "Lost 0\u20132",
+    "",
+    "Report"
+   ],
+   [
+    "October 26, 2008 - 20:30",
+    "Fiorentina",
+    "Home",
+    "Lost 1\u20133",
+    "Simpl\u00edcio",
+    "Report"
+   ],
+   [
+    "October 29, 2008 \u2013 20:30",
+    "Lecce",
+    "Away",
+    "Drew 1\u20131",
+    "Cavani",
+    "Report"
+   ],
+   [
+    "November 2, 2008 - 15:00",
+    "Chievo",
+    "Home",
+    "Won 3\u20130",
+    "Miccoli, Kj\u00e6r, Cavani",
+    ""
+   ],
+   [
+    "November 8, 2008 - 18:00",
+    "Torino",
+    "Away",
+    "Lost 0\u20131",
+    "",
+    "Report"
+   ],
+   [
+    "November 15, 2008 - 20:30",
+    "Internazionale",
+    "Home",
+    "Lost 0\u20132",
+    "",
+    "Report"
+   ],
+   [
+    "November 23, 2008 - 15:00",
+    "Bologna",
+    "Away",
+    "Drew 1\u20131",
+    "Succi",
+    "Report"
+   ],
+   [
+    "November 30, 2008 - 20:30",
+    "AC Milan",
+    "Home",
+    "Won 3\u20131",
+    "Miccoli, Cavani, Simpl\u00edcio",
+    "Report"
+   ],
+   [
+    "December 7, 2008 - 15:00",
+    "Cagliari",
+    "Away",
+    "Lost 0\u20131",
+    "",
+    "Report"
+   ],
+   [
+    "December 14, 2008 - 15:00",
+    "Siena",
+    "Home",
+    "Won 2\u20130",
+    "Cassani, Simpl\u00edcio",
+    "Report"
+   ],
+   [
+    "December 20, 2008 - 18:00",
+    "Lazio",
+    "Away",
+    "Lost 0\u20131",
+    "",
+    "Report"
+   ],
+   [
+    "January 11, 2009 - 15:00",
+    "Atalanta",
+    "Home",
+    "Won 3\u20132",
+    "Miccoli, Bresciano, Cavani",
+    "Report"
+   ],
+   [
+    "January 18, 2009 - 15:00",
+    "Sampdoria",
+    "Home",
+    "Won 2\u20130",
+    "Bresciano (2)",
+    "Report"
+   ],
+   [
+    "January 25, 2009 - 15:00",
+    "Udinese",
+    "Home",
+    "Won 3\u20132",
+    "Simpl\u00edcio (2), Cavani",
+    "Report"
+   ],
+   [
+    "January 28, 2009 - 20:30",
+    "AS Roma",
+    "Away",
+    "Lost 1\u20132",
+    "Cavani",
+    "Report"
+   ],
+   [
+    "February 1, 2009 - 15:15",
+    "Genoa",
+    "Away",
+    "Lost 0\u20131",
+    "",
+    "Report"
+   ],
+   [
+    "February 8, 2009 - 20:30",
+    "Napoli",
+    "Home",
+    "Won 2\u20131",
+    "Migliaccio, Simpl\u00edcio",
+    "Report"
+   ],
+   [
+    "February 15, 2009 - 15:00",
+    "Reggina",
+    "Away",
+    "Drew 0\u20130",
+    "",
+    "Report"
+   ],
+   [
+    "February 21, 2009 - 20:30",
+    "Juventus",
+    "Home",
+    "Lost 0\u20132",
+    "",
+    "Report"
+   ],
+   [
+    "March 1, 2009 - 15:00",
+    "Catania",
+    "Home",
+    "Lost 0\u20134",
+    "",
+    "Report"
+   ],
+   [
+    "March 8, 2009 - 15:00",
+    "Fiorentina",
+    "Away",
+    "Won 2\u20130",
+    "Simpl\u00edcio, Miccoli",
+    "Report"
+   ],
+   [
+    "March 15, 2009 - 15:00",
+    "Lecce",
+    "Home",
+    "Won 5\u20132",
+    "Cavani (2), Simpl\u00edcio, Miccoli, Kj\u00e6r",
+    "Report"
+   ],
+   [
+    "March 22, 2009 - 15:00",
+    "Chievo",
+    "Away",
+    "Lost 0\u20131",
+    "",
+    "Report"
+   ],
+   [
+    "April 5, 2009 - 15:00",
+    "Torino",
+    "Home",
+    "Won 1\u20130",
+    "Cavani",
+    "Report"
+   ],
+   [
+    "April 19, 2009 - 15:00",
+    "Internazionale",
+    "Away",
+    "Drew 2\u20132",
+    "Cavani, Succi",
+    "Report"
+   ],
+   [
+    "April 19, 2009 - 15:00",
+    "Bologna",
+    "Home",
+    "Won 4\u20131",
+    "Belleri (own goal), Kj\u00e6r, Succi, Cavani",
+    "Report"
+   ],
+   [
+    "April 26, 2009 - 15:00",
+    "AC Milan",
+    "Away",
+    "Lost 0\u20133",
+    "",
+    "Report"
+   ],
+   [
+    "May 3, 2009 - 15:00",
+    "Cagliari",
+    "Home",
+    "Won 5\u20131",
+    "Migliaccio, Miccoli, Tedesco, Cavani, Succi",
+    "Report"
+   ],
+   [
+    "May 10, 2009 - 15:00",
+    "Siena",
+    "Away",
+    "Lost 0\u20131",
+    "",
+    "Report"
+   ],
+   [
+    "May 17, 2009 - 15:00",
+    "Lazio",
+    "Home",
+    "Won 2\u20130",
+    "Miccoli, Migliaccio",
+    "Report"
+   ],
+   [
+    "May 24, 2009 - 15:00",
+    "Atalanta",
+    "Away",
+    "Drew 2\u20132",
+    "Succi, Miccoli",
+    "Report"
+   ],
+   [
+    "May 31, 2009 - 15:00",
+    "Sampdoria",
+    "Home",
+    "Drew 2\u20132",
+    "Miccoli, Succi",
+    "Report"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 38
+ },
+ {
+  "id": "nt-6243",
+  "question": "name a film that came out before february.",
+  "answers": [
+   "Frozen"
+  ],
+  "ground_truth": "Frozen",
+  "table_header": [
+   "#",
+   "Date",
+   "Film",
+   "Gross",
+   "Top Ten Places"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "January 5, 2014",
+    "Frozen",
+    "$2,441,278",
+    "Paranormal Activity: The Marked Ones (#2), Ender's Game (#5)"
+   ],
+   [
+    "2",
+    "January 12, 2014",
+    "Frozen",
+    "$1,193,153",
+    "The Wolf of Wall Street (#3)"
+   ],
+   [
+    "3",
+    "January 19, 2014",
+    "\u00bfQu\u00e9 le Dijiste a Dios?",
+    "$1,607,603",
+    "Jack Ryan: Shadow Recruit (#2), American Hustle (#4), The Book Thief (#7), Khumba (#9)"
+   ],
+   [
+    "4",
+    "January 26, 2014",
+    "I, Frankenstein",
+    "$2,017,410",
+    "Grudge Match (#10)"
+   ],
+   [
+    "5",
+    "February 2, 2014",
+    "47 Ronin",
+    "$1,916,620",
+    "Devil's Due (#2)"
+   ],
+   [
+    "6",
+    "February 9, 2014",
+    "The Lego Movie",
+    "$3,823,198",
+    "The Legend of Hercules (#4), Thanks for Sharing (#8), Dallas Buyers Club (#10)"
+   ],
+   [
+    "7",
+    "February 16, 2014",
+    "C\u00e1sese Quien Pueda",
+    "$3,287,643",
+    "RoboCop (#2), The Monuments Men (#4), Winter's Tale (#7)"
+   ],
+   [
+    "8",
+    "February 23, 2014",
+    "C\u00e1sese Quien Pueda",
+    "$2,228,705",
+    "Pompeii (#3), 12 Years a Slave (#5), Saving Mr. Banks (#7)"
+   ],
+   [
+    "9",
+    "March 2, 2014",
+    "Mr. Peabody & Sherman",
+    "$2,687,778",
+    "Fachon Models (#6), August: Osage County (#8), Lone Survivor (#10)"
+   ],
+   [
+    "10",
+    "March 9, 2014",
+    "300: Rise of an Empire",
+    "$5,468,513",
+    "Homefront (#8), Zip & Zap and the Marble Gang (#10)"
+   ],
+   [
+    "11",
+    "March 16, 2014",
+    "300: Rise of an Empire",
+    "$2,891,351",
+    "El Crimen del C\u00e1caro Gumaro (#2), Need for Speed (#3), Tarzan (#4), Labor Day (#8)"
+   ],
+   [
+    "12",
+    "March 23, 2014",
+    "Noah",
+    "$5,743,388",
+    "Muppets Most Wanted (#3)"
+   ],
+   [
+    "13",
+    "March 30, 2014",
+    "Captain America: The Winter Soldier",
+    "$8,596,889",
+    ""
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 13
+ },
+ {
+  "id": "nt-3957",
+  "question": "name a person that participated in at least three trials.",
+  "answers": [
+   "Jan"
+  ],
+  "ground_truth": "Jan",
+  "table_header": [
+   "Trial Number",
+   "Date",
+   "Name of Trial",
+   "Celebrity/ies Taking Part",
+   "Winner/Number of Stars",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "1",
+    "13 November 2006",
+    "Mineshaft Misery",
+    "Jan",
+    "",
+    "None"
+   ],
+   [
+    "2",
+    "14 November 2006",
+    "Flash Flood",
+    "David",
+    "",
+    "None"
+   ],
+   [
+    "3",
+    "15 November 2006",
+    "Jungle Boogie",
+    "Scott",
+    "",
+    ""
+   ],
+   [
+    "4",
+    "16 November 2006",
+    "Treetop Terror",
+    "Jan\\nScott",
+    "",
+    "None"
+   ],
+   [
+    "5 (Live)",
+    "17 November 2006",
+    "Jungle Spa",
+    "Dean",
+    "",
+    ""
+   ],
+   [
+    "6",
+    "18 November 2006",
+    "Operation",
+    "Phina\\nJason",
+    "",
+    ""
+   ],
+   [
+    "7",
+    "19 November 2006",
+    "Snake Bite",
+    "Jan",
+    "",
+    ""
+   ],
+   [
+    "8",
+    "20 November 2006",
+    "Bull in a China Shop",
+    "Jan",
+    "",
+    "None"
+   ],
+   [
+    "9",
+    "21 November 2006",
+    "Catch A Falling Star",
+    "Jan\\nScott",
+    "Jan",
+    ""
+   ],
+   [
+    "10",
+    "22 November 2006",
+    "Bushtucker Duel",
+    "Jan\\nScott",
+    "Scott",
+    "None"
+   ],
+   [
+    "11",
+    "23 November 2006",
+    "What Lurks Beneath",
+    "Phina\\nScott",
+    "Phina",
+    ""
+   ],
+   [
+    "12",
+    "24 November 2006",
+    "Thunderball",
+    "Jason\\nMalandra\\nMatt",
+    "",
+    "None"
+   ],
+   [
+    "13",
+    "25 November 2006",
+    "Jungle Falls",
+    "Dean\\nLauren\\nPhina",
+    "",
+    "None"
+   ],
+   [
+    "14",
+    "26 November 2006",
+    "Tomb of Torment",
+    "Myleene",
+    "",
+    "None"
+   ],
+   [
+    "15",
+    "27 November 2006",
+    "Shooting Gallery",
+    "David\\nJason\\nMatt",
+    "",
+    "None"
+   ],
+   [
+    "16",
+    "28 November 2006",
+    "Skyscrape",
+    "Malandra\\nMyleene",
+    "",
+    "None"
+   ],
+   [
+    "17",
+    "29 November 2006",
+    "Temple of Doom",
+    "Dean",
+    "",
+    "None"
+   ],
+   [
+    "18",
+    "30 November 2006",
+    "Celebrity Cyclone",
+    "Jason\\nMyleene\\nMatt",
+    "",
+    "None"
+   ],
+   [
+    "19",
+    "1 December 2006",
+    "Bushtucker Bonanza",
+    "Matt",
+    "",
+    "None"
+   ],
+   [
+    "20",
+    "1 December 2006",
+    "Fill Your Face",
+    "Jason",
+    "",
+    "None"
+   ],
+   [
+    "21",
+    "1 December 2006",
+    "Scareoke",
+    "Myleene",
+    "",
+    "None"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 21
+ },
+ {
+  "id": "nt-11919",
+  "question": "who won the trinidad and tobago league cup the most times between 2000 and 2012?",
+  "answers": [
+   "W Connection"
+  ],
+  "ground_truth": "W Connection",
+  "table_header": [
+   "Season",
+   "Winner",
+   "Score",
+   "Runners\u2013up",
+   "Venue"
+  ],
+  "table_rows": [
+   [
+    "2000",
+    "San Juan Jabloteh",
+    "1\u20130",
+    "Defence Force",
+    "Marvin Lee Stadium"
+   ],
+   [
+    "2001",
+    "W Connection",
+    "1\u20130",
+    "Caledonia AIA",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2002",
+    "Defence Force",
+    "2\u20130",
+    "W Connection",
+    "Hasely Crawford Stadium"
+   ],
+   [
+    "2003",
+    "San Juan Jabloteh",
+    "* 1\u20131*",
+    "W Connection",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2004",
+    "W Connection",
+    "\u2021 2\u20132",
+    "Defence Force",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2005",
+    "W Connection",
+    "3\u20131",
+    "San Juan Jabloteh",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2006",
+    "W Connection",
+    "3\u20131",
+    "North East Stars",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2007",
+    "W Connection",
+    "2\u20130",
+    "Caledonia AIA",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2008",
+    "W Connection",
+    "\u2020 2\u20132",
+    "Joe Public",
+    "Manny Ramjohn Stadium"
+   ],
+   [
+    "2009",
+    "Defence Force",
+    "1\u20130",
+    "Joe Public",
+    "Marvin Lee Stadium"
+   ],
+   [
+    "2010",
+    "Joe Public",
+    "\u2020 1\u20131",
+    "Defence Force",
+    "Marvin Lee Stadium"
+   ],
+   [
+    "2011",
+    "Caledonia AIA",
+    "2\u20131",
+    "T&TEC",
+    "Hasely Crawford Stadium"
+   ],
+   [
+    "2012",
+    "Caledonia AIA",
+    "2\u20131",
+    "Defence Force",
+    "Hasely Crawford Stadium"
+   ],
+   [
+    "2013",
+    "Central FC",
+    "2\u20131",
+    "Defence Force",
+    "Hasely Crawford Stadium"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 14
+ },
+ {
+  "id": "nt-7367",
+  "question": "who was the director immediately before b. n. yugandhar?",
+  "answers": [
+   "R.N. Chopra"
+  ],
+  "ground_truth": "R.N. Chopra",
+  "table_header": [
+   "Sr. No.",
+   "Name",
+   "From",
+   "Till",
+   "Occupation"
+  ],
+  "table_rows": [
+   [
+    "1.",
+    "Padamvir Singh",
+    "2009",
+    "Current",
+    "IAS"
+   ],
+   [
+    "2.",
+    "Rudhra Gangadharan",
+    "06/04/2006",
+    "02/09/2009",
+    "IAS"
+   ],
+   [
+    "3.",
+    "D.S. Mathur",
+    "29/10/2004",
+    "06/04/2006",
+    "IAS"
+   ],
+   [
+    "4.",
+    "Binod Kumar",
+    "20/01/2003",
+    "15/10/2004",
+    "IAS"
+   ],
+   [
+    "5.",
+    "Wajahat Habibullah",
+    "08/11/2000",
+    "13/01/2003",
+    "IAS"
+   ],
+   [
+    "6.",
+    "B.S. Baswan",
+    "06/10/1996",
+    "08/11/2000",
+    "IAS"
+   ],
+   [
+    "7.",
+    "N.C. Saxena",
+    "25/05/1993",
+    "06/10/1996",
+    "IAS"
+   ],
+   [
+    "8.",
+    "B.N. Yugandhar",
+    "26/05/1988",
+    "25/01/1993",
+    "IAS"
+   ],
+   [
+    "9.",
+    "R.N. Chopra",
+    "06/06/1985",
+    "29/04/1988",
+    "IAS"
+   ],
+   [
+    "10.",
+    "K. Ramanujam",
+    "27/02/1984",
+    "24/02/1985",
+    "IAS"
+   ],
+   [
+    "11.",
+    "R.K. Shastri",
+    "09/11/1982",
+    "27/02/1984",
+    "IAS"
+   ],
+   [
+    "12.",
+    "I.C. Puri",
+    "16/06/1982",
+    "11/10/1982",
+    "IAS"
+   ],
+   [
+    "13.",
+    "P.S. Appu",
+    "02/08/1980",
+    "01/03/1982",
+    "IAS"
+   ],
+   [
+    "14.",
+    "G.C.L. Joneja",
+    "23/07/1977",
+    "30/06/1980",
+    "IAS"
+   ],
+   [
+    "15.",
+    "B.C. Mathur",
+    "17/05/1977",
+    "23/07/1977",
+    "IAS"
+   ],
+   [
+    "16.",
+    "Rajeshwar Prasad",
+    "11/05/1973",
+    "11/04/1977",
+    "IAS"
+   ],
+   [
+    "17.",
+    "D.D. Sathe",
+    "19/03/1969",
+    "11/05/1973",
+    "ICS"
+   ],
+   [
+    "18.",
+    "K.K. Das",
+    "12/07/1968",
+    "24/02/1969",
+    "ICS"
+   ],
+   [
+    "19.",
+    "M.G. Pimputkar",
+    "04/09/1965",
+    "29/04/1968",
+    "ICS"
+   ],
+   [
+    "20.",
+    "S.K. Dutta",
+    "13/08/1963",
+    "02/07/1965",
+    "ICS"
+   ],
+   [
+    "21.",
+    "A.N. Jha",
+    "01/09/1959",
+    "30/09/1962",
+    "ICS"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 21
+ },
+ {
+  "id": "nt-10215",
+  "question": "what city comes next after denver, colorado",
+  "answers": [
+   "Hialeah, Florida"
+  ],
+  "ground_truth": "Hialeah, Florida",
+  "table_header": [
+   "Event",
+   "Bowling center",
+   "City",
+   "Dates",
+   "Winner"
+  ],
+  "table_rows": [
+   [
+    "Eastern Open",
+    "Edison Lanes",
+    "Edison, New Jersey",
+    "Dec 2\u20136",
+    "Dennis Chapis (2)"
+   ],
+   [
+    "Charlotte Open",
+    "Freedom Lanes",
+    "Charlotte, North Carolina",
+    "Dec 9\u201313",
+    "Gene Rhoda (3)"
+   ],
+   [
+    "Western Open",
+    "Saratoga Lanes",
+    "San Jose, California",
+    "Jan 4\u20138",
+    "Jim Godman (1)"
+   ],
+   [
+    "Denver Open",
+    "Broadway Bowl",
+    "Denver, Colorado",
+    "Jan 11\u201315",
+    "Dick Weber (16)"
+   ],
+   [
+    "Hialeah-Miami Open",
+    "Hialeah Lanes",
+    "Hialeah, Florida",
+    "Feb 1\u20135",
+    "Les Schissler (3)"
+   ],
+   [
+    "Mobile-Sertoma Open",
+    "Florida Lanes",
+    "Mobile, Alabama",
+    "Feb 8\u201312",
+    "Mike Limongello (2)"
+   ],
+   [
+    "Fresno Open",
+    "Sunnyside Bowl",
+    "Fresno, California",
+    "Feb 15\u201319",
+    "Dick Weber (17)"
+   ],
+   [
+    "Las Vegas Open",
+    "Showboat Lanes",
+    "Las Vegas, Nevada",
+    "Feb 22\u201326",
+    "Skee Foremsky (1)"
+   ],
+   [
+    "Miller High Life Open",
+    "Bowlero Lanes",
+    "Milwaukee, Wisconsin",
+    "Mar 1\u20135",
+    "Bill Lillard (1)"
+   ],
+   [
+    "St. Paul Open",
+    "All-Star Bowl",
+    "St. Paul, Minnesota",
+    "Mar 8\u201312",
+    "Gene Rhoda (4)"
+   ],
+   [
+    "Buckeye Open",
+    "Imperial Lanes",
+    "Toledo, Ohio",
+    "Mar 15\u201319",
+    "Pete Tountas (2)"
+   ],
+   [
+    "Greater Buffalo Open",
+    "Fairlanes",
+    "Depew, New York",
+    "Mar 22\u201326",
+    "Bobby Jacks (1)"
+   ],
+   [
+    "Firestone Tournament of Champions",
+    "Riviera Lanes",
+    "Akron, Ohio",
+    "Mar 29 \u2013 Apr 2",
+    "Wayne Zahn (4)"
+   ],
+   [
+    "Seattle Open",
+    "Ballinger Bowl",
+    "Seattle, Washington",
+    "Jun 9\u201312",
+    "Wayne Zahn (5)"
+   ],
+   [
+    "Portland Open",
+    "Valley Lanes",
+    "Portland, Oregon",
+    "Jun 16\u201319",
+    "Don Johnson (2)"
+   ],
+   [
+    "Fresno Open",
+    "Cedar Lanes",
+    "Fresno, California",
+    "Jun 22\u201326",
+    "Les Schissler (4)"
+   ],
+   [
+    "Tucson Squirt Open",
+    "Cactus Bowl",
+    "Tucson, Arizona",
+    "Jul 1\u20134",
+    "Johnny Guenther (2)"
+   ],
+   [
+    "Southern California Open",
+    "Encino Bowl",
+    "Encino, California",
+    "Jul 7\u201310",
+    "Barry Asher (1)"
+   ],
+   [
+    "Fort Worth Open",
+    "Meadowbrook Lanes",
+    "Fort Worth, Texas",
+    "Jul 14\u201317",
+    "Dick Ritger (1)"
+   ],
+   [
+    "Reading Open",
+    "Hiester Lanes",
+    "Reading, Pennsylvania",
+    "Jul 28\u201331",
+    "Dick Ritger (2)"
+   ],
+   [
+    "U.S. Coast Guard Open",
+    "Starlite Lanes",
+    "Grand Haven, Michigan",
+    "Aug 2\u20135",
+    "George Howard (4)"
+   ],
+   [
+    "Brockton Open",
+    "Westgate Lanes",
+    "Brockton, Massachusetts",
+    "Aug 11\u201314",
+    "Bobby Jacks (2)"
+   ],
+   [
+    "Waukegan Open",
+    "Bertrand Bowl",
+    "Waukegan, Illinois",
+    "Aug 18\u201321",
+    "Bobby Jacks (3)"
+   ],
+   [
+    "Fort Smith Open",
+    "Midland Bowl",
+    "Fort Smith, Arkansas",
+    "Aug 25\u201328",
+    "Johnny Petraglia (1)"
+   ],
+   [
+    "Labor Day Classic",
+    "Hart Bowl",
+    "Dallas, Texas",
+    "Sep 2\u20135",
+    "Bud Horn (1)"
+   ],
+   [
+    "Crescent City Open",
+    "Mardi Gras Bowl",
+    "New Orleans, Louisiana",
+    "Sep 8\u201312",
+    "Barry Asher (2)"
+   ],
+   [
+    "Seventh Annual PBA National Championship",
+    "Garden City Bowl",
+    "Garden City, New York",
+    "Nov 1\u20136",
+    "Wayne Zahn (6)"
+   ],
+   [
+    "Camden PBA Open",
+    "Camden Lanes",
+    "Camden, New Jersey",
+    "Nov 9\u201312",
+    "Ralph Engan (1)"
+   ],
+   [
+    "Baltimore Open",
+    "Fair Lanes-Colt",
+    "Baltimore, Maryland",
+    "Nov 17\u201320",
+    "Jim Stefanich (1)"
+   ]
+  ],
+  "n_cols": 5,
+  "n_rows": 29
+ },
+ {
+  "id": "nt-5983",
+  "question": "what is the next airport listed after darwin international airport?",
+  "answers": [
+   "Francisco Bangoy International Airport"
+  ],
+  "ground_truth": "Francisco Bangoy International Airport",
+  "table_header": [
+   "City",
+   "Country",
+   "IATA",
+   "ICAO",
+   "Airport",
+   "Commenced",
+   "Ended"
+  ],
+  "table_rows": [
+   [
+    "Bandung",
+    "Indonesia",
+    "BDO",
+    "WICC",
+    "Husein Sastranegara International Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Bangalore",
+    "India",
+    "BLR",
+    "VOBL",
+    "Bengaluru International Airport",
+    "2008[N]",
+    "present[N]"
+   ],
+   [
+    "Bangkok",
+    "Thailand",
+    "BKK",
+    "VTBS",
+    "Suvarnabhumi Airport",
+    "2004",
+    "present"
+   ],
+   [
+    "Cebu",
+    "Philippines",
+    "CEB",
+    "RPVM",
+    "Mactan-Cebu International Airport",
+    "2011",
+    "present"
+   ],
+   [
+    "Chennai",
+    "India",
+    "MAA",
+    "VOMM",
+    "Chennai International Airport",
+    "2007",
+    "present"
+   ],
+   [
+    "Chiang Mai",
+    "Thailand",
+    "CNX",
+    "VTCC",
+    "Chiang Mai International Airport",
+    "2005",
+    "2008"
+   ],
+   [
+    "Colombo",
+    "Sri Lanka",
+    "CMB",
+    "VCBI",
+    "Bandaranaike International Airport",
+    "2012",
+    "2013"
+   ],
+   [
+    "Da Nang",
+    "Vietnam",
+    "DAD",
+    "VVDN",
+    "Da Nang International Airport",
+    "2006",
+    "2006"
+   ],
+   [
+    "Darwin",
+    "Australia",
+    "DRW",
+    "YPDN",
+    "Darwin International Airport",
+    "2004",
+    "2008"
+   ],
+   [
+    "Davao",
+    "Philippines",
+    "DVO",
+    "RPMD",
+    "Francisco Bangoy International Airport",
+    "2011",
+    "2012"
+   ],
+   [
+    "Denpasar",
+    "Indonesia",
+    "DPS",
+    "WADD",
+    "Ngurah Rai International Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Dhaka",
+    "Bangladesh",
+    "DAC",
+    "VGHS",
+    "Shahjalal International Airport",
+    "2012",
+    "present"
+   ],
+   [
+    "Guangzhou",
+    "China",
+    "CAN",
+    "ZGGG",
+    "Guangzhou Baiyun International Airport",
+    "2006",
+    "present"
+   ],
+   [
+    "Haikou",
+    "China",
+    "HAK",
+    "ZJHK",
+    "Haikou Meilan International Airport",
+    "2006",
+    "present"
+   ],
+   [
+    "Hanoi",
+    "Vietnam",
+    "HAN",
+    "VVNB",
+    "Noi Bai International Airport",
+    "2005",
+    "present"
+   ],
+   [
+    "Hat Yai",
+    "Thailand",
+    "HDY",
+    "VTSS",
+    "Hat Yai International Airport",
+    "2004[N]",
+    "present[N]"
+   ],
+   [
+    "Ho Chi Minh City",
+    "Vietnam",
+    "SGN",
+    "VVTS",
+    "Tan Son Nhat International Airport",
+    "2005",
+    "present"
+   ],
+   [
+    "Hong Kong",
+    "Hong Kong",
+    "HKG",
+    "VHHH",
+    "Hong Kong International Airport",
+    "2010",
+    "present"
+   ],
+   [
+    "Hyderabad",
+    "India",
+    "HYD",
+    "VOHS",
+    "Rajiv Gandhi International Airport",
+    "2012",
+    "present"
+   ],
+   [
+    "Jakarta",
+    "Indonesia",
+    "CGK",
+    "WIII",
+    "Soekarno\u2013Hatta International Airport",
+    "2009",
+    "present"
+   ],
+   [
+    "Kochi",
+    "India",
+    "COK",
+    "VOCI",
+    "Cochin International Airport",
+    "2012",
+    "present"
+   ],
+   [
+    "Krabi",
+    "Thailand",
+    "KBV",
+    "VTSG",
+    "Krabi Airport",
+    "2005[N]",
+    "present[N]"
+   ],
+   [
+    "Kuala Lumpur",
+    "Malaysia",
+    "KUL",
+    "WMKK",
+    "Kuala Lumpur International Airport",
+    "2008",
+    "present"
+   ],
+   [
+    "Kuching",
+    "Malaysia",
+    "KCH",
+    "WBGG",
+    "Kuching International Airport",
+    "2008",
+    "2013"
+   ],
+   [
+    "Langkawi",
+    "Malaysia",
+    "LGK",
+    "WMKL",
+    "Langkawi International Airport",
+    "2009",
+    "2010"
+   ],
+   [
+    "Lijang",
+    "China",
+    "LJG",
+    "ZPLJ",
+    "Lijiang Sanyi Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Lombok",
+    "Indonesia",
+    "LOP",
+    "WADL",
+    "Lombok International Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Macau",
+    "Macau",
+    "MFM",
+    "VMMC",
+    "Macau International Airport",
+    "2005",
+    "present"
+   ],
+   [
+    "Male",
+    "Maldives",
+    "MLE",
+    "VRMM",
+    "Ibrahim Nasir International Airport",
+    "2014",
+    "present"
+   ],
+   [
+    "Manila",
+    "Philippines",
+    "MNL",
+    "RPLL",
+    "Ninoy Aquino International Airport",
+    "2010",
+    "present"
+   ],
+   [
+    "Ningbo",
+    "China",
+    "NGB",
+    "ZSNB",
+    "Ningbo Lishe International Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Penang",
+    "Malaysia",
+    "PEN",
+    "WMKP",
+    "Penang International Airport",
+    "2009",
+    "present"
+   ],
+   [
+    "Perth",
+    "Australia",
+    "PER",
+    "YPPH",
+    "Perth Airport",
+    "2004",
+    "present"
+   ],
+   [
+    "Phnom Penh",
+    "Cambodia",
+    "PNH",
+    "VDPP",
+    "Phnom Penh International Airport",
+    "2012",
+    "present"
+   ],
+   [
+    "Phuket",
+    "Thailand",
+    "HKT",
+    "VTSP",
+    "Phuket International Airport",
+    "2004",
+    "present"
+   ],
+   [
+    "Shenzhen",
+    "China",
+    "SZX",
+    "ZGSZ",
+    "Shenzhen Bao'an International Airport",
+    "2006",
+    "present"
+   ],
+   [
+    "Singapore",
+    "Singapore",
+    "SIN",
+    "WSSS",
+    "Singapore Changi Airport[Hub]",
+    "2004",
+    "present"
+   ],
+   [
+    "Surabaya",
+    "Indonesia",
+    "SUB",
+    "WARR",
+    "Juanda International Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Taipei",
+    "Taiwan",
+    "TPE",
+    "RCTP",
+    "Taiwan Taoyuan International Airport",
+    "2011",
+    "present"
+   ],
+   [
+    "Thiruvananthapuram",
+    "India",
+    "TRV",
+    "VOTV",
+    "Trivandrum International Airport",
+    "2010",
+    "present"
+   ],
+   [
+    "Tiruchirapalli",
+    "India",
+    "TRZ",
+    "VOTR",
+    "Tiruchirapalli Airport",
+    "2010",
+    "present"
+   ],
+   [
+    "Udon Thani",
+    "Thailand",
+    "UTH",
+    "VTUD",
+    "Udon Thani International Airport",
+    "2007",
+    "2007"
+   ],
+   [
+    "Xiamen",
+    "China",
+    "ZMN",
+    "ZSAM",
+    "Xiamen Gaoqi International Airport",
+    "2007",
+    "2009"
+   ],
+   [
+    "Yangon",
+    "Myanmar",
+    "RGN",
+    "VYYY",
+    "Yangon International Airport",
+    "2013",
+    "present"
+   ],
+   [
+    "Yogyakarta",
+    "Indonesia",
+    "JOG",
+    "WARJ",
+    "Adisucipto International Airport",
+    "2013",
+    "present"
+   ]
+  ],
+  "n_cols": 7,
+  "n_rows": 45
+ },
+ {
+  "id": "nt-8568",
+  "question": "where was the only 5km event held?",
+  "answers": [
+   "Bridgetown, Barbados"
+  ],
+  "ground_truth": "Bridgetown, Barbados",
+  "table_header": [
+   "Year",
+   "Competition",
+   "Venue",
+   "Position",
+   "Event",
+   "Notes"
+  ],
+  "table_rows": [
+   [
+    "2002",
+    "Central American and Caribbean Junior Championships (U-17)",
+    "Bridgetown, Barbados",
+    "1st",
+    "5 km",
+    "21:24.33 CR"
+   ],
+   [
+    "2004",
+    "Central American and Caribbean Junior Championships (U-20)",
+    "Coatzacoalcos, M\u00e9xico",
+    "1st",
+    "10 km",
+    "43:21.99"
+   ],
+   [
+    "2004",
+    "World Junior Championships",
+    "Grosseto, Italy",
+    "4th",
+    "10 km",
+    "41:01.64"
+   ],
+   [
+    "2005",
+    "World Championships",
+    "Helsinki, Finland",
+    "8th",
+    "20 km",
+    "1:20:45"
+   ],
+   [
+    "2006",
+    "Central American and Caribbean Games",
+    "Cartagena, Colombia",
+    "2nd",
+    "20\u00a0km",
+    "1:26:30"
+   ],
+   [
+    "2007",
+    "World Championships",
+    "Osaka, Japan",
+    "4th",
+    "20 km",
+    "1:23:36"
+   ],
+   [
+    "2008",
+    "Olympic Games",
+    "Beijing, PR China",
+    "15th",
+    "20 km",
+    "1:21:53"
+   ],
+   [
+    "2009",
+    "World Championships",
+    "Berlin, Germany",
+    "3rd",
+    "20 km",
+    "1:19:22"
+   ],
+   [
+    "2010",
+    "Central American and Caribbean Games",
+    "Mayag\u00fcez, Puerto Rico",
+    "1st",
+    "20 km",
+    "1:22:32 GR"
+   ],
+   [
+    "2011",
+    "World Championships",
+    "Daegu, Korea",
+    "15th",
+    "20 km",
+    "1:23:05"
+   ],
+   [
+    "2011",
+    "Pan American Games",
+    "Guadalajara, Mexico",
+    "6th",
+    "20 km",
+    "1:25:00"
+   ]
+  ],
+  "n_cols": 6,
+  "n_rows": 11
+ },
+ {
+  "id": "nt-3988",
+  "question": "how many teams were founded in morwell?",
+  "answers": [
+   "3"
+  ],
+  "ground_truth": "3",
+  "table_header": [
+   "Club",
+   "Town",
+   "Founded",
+   "Nickname",
+   "Colours",
+   "Home Ground",
+   "Titles",
+   "Website"
+  ],
+  "table_rows": [
+   [
+    "Churchill United",
+    "Churchill",
+    "1969",
+    "Rams",
+    "Silver & Red",
+    "Hazelwood South Reserve",
+    "4",
+    "[2]"
+   ],
+   [
+    "East Gippsland United\u00b9",
+    "Bairnsdale",
+    "2009",
+    "",
+    "Navy Blue & Gold",
+    "Howitt Park Sports Complex",
+    "0",
+    "[3]"
+   ],
+   [
+    "Falcons 2000",
+    "Morwell",
+    "1961",
+    "Falcons",
+    "Blue & Black",
+    "Latrobe City Soccer Stadium",
+    "2",
+    "[4]"
+   ],
+   [
+    "Fortuna 60",
+    "Morwell",
+    "1960",
+    "Lions",
+    "Orange & Black",
+    "Crinigan Road South Reserve",
+    "9",
+    "[5]"
+   ],
+   [
+    "Moe United",
+    "Moe",
+    "1952",
+    "Red Devils",
+    "Red, Black & White",
+    "Olympic Park",
+    "7",
+    "[6]"
+   ],
+   [
+    "Monash",
+    "Newborough",
+    "1958",
+    "Wolves",
+    "Gold & Black",
+    "Monash Reserve",
+    "0",
+    "[7]"
+   ],
+   [
+    "Morwell Pegasus",
+    "Morwell",
+    "1959",
+    "The Flying Horse",
+    "Maroon & Sky Blue",
+    "Ronald Reserve",
+    "5",
+    "[8]"
+   ],
+   [
+    "Newborough/Yallourn",
+    "Newborough",
+    "",
+    "",
+    "Navy Blue",
+    "Burrage Reserve",
+    "8\u00b2",
+    "[9]"
+   ],
+   [
+    "Sale United",
+    "Sale",
+    "1974",
+    "Swans",
+    "Green & White",
+    "Godfrey Baldwin Reserve",
+    "1",
+    "[10]"
+   ],
+   [
+    "Traralgon City",
+    "Traralgon",
+    "1968",
+    "Roosters",
+    "Black & White",
+    "Harold Preston Reserve",
+    "0",
+    "[11]"
+   ],
+   [
+    "Traralgon Olympians",
+    "Traralgon",
+    "1980",
+    "Olympians",
+    "Blue & White",
+    "Harold Preston Reserve",
+    "8",
+    "[12]"
+   ],
+   [
+    "Tyers",
+    "Tyers",
+    "1982",
+    "Lightning",
+    "Green & Gold",
+    "Tyers Recreation Reserve",
+    "0",
+    "[13]"
+   ]
+  ],
+  "n_cols": 8,
+  "n_rows": 12
+ }
+]

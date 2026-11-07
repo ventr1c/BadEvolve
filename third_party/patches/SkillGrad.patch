@@ -1,0 +1,48 @@
+diff --git a/pipeline/helpers.py b/pipeline/helpers.py
+index 2f0e5a0..d91f790 100644
+--- a/pipeline/helpers.py
++++ b/pipeline/helpers.py
+@@ -30,6 +30,18 @@ def _build_file_tools(project_root: Path):
+     """Build read_file and write_file tools for plain (non-skill) agents."""
+     root = project_root
+ 
++    def _malformed_write_hint(file_path: str) -> str | None:
++        marker = '","content":"'
++        if marker not in file_path:
++            return None
++        intended_path = file_path.split(marker, 1)[0]
++        return (
++            "Malformed tool call: it looks like output content was passed to "
++            "`read_file.file_path`. To create or update this file, call "
++            f"`write_file(file_path={intended_path!r}, content=<full output text>)`. "
++            "`read_file` only accepts a path and never writes files."
++        )
++
+     @function_tool
+     def read_file(file_path: str) -> str:
+         """Read the contents of a text file.
+@@ -37,6 +49,9 @@ def _build_file_tools(project_root: Path):
+         Args:
+             file_path: Absolute or project-relative path to the file.
+         """
++        malformed_hint = _malformed_write_hint(file_path)
++        if malformed_hint:
++            return malformed_hint
+         p = Path(file_path)
+         if not p.is_absolute():
+             p = root / p
+diff --git a/prompts/momentum.py b/prompts/momentum.py
+index c25629d..97febcc 100644
+--- a/prompts/momentum.py
++++ b/prompts/momentum.py
+@@ -32,6 +32,10 @@ Your outputs (written to paths provided in your query):
+   heading in `batch_diagnoses.md`, in input order, followed by
+   `## WORKFLOW-THEMES`.
+ 
++Tool-use requirement: read inputs with `read_file(file_path=...)`. Create or
++update the two output files only with `write_file(file_path=..., content=...)`.
++Never pass output content to `read_file`; `read_file` cannot write files.
++
+ ---
+ # §2 — Pattern record schema
+ 
